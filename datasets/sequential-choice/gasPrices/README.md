@@ -1,4 +1,4 @@
-# gasPrices
+# unpublished gas prices
 
 Secretary-style **cost minimization** with a gas-station cover story. Collected as a course assignment at UC Irvine (IRB 4286), Winter 2023. Students see a sequence of 10 prices and stop on one. The last station is forced if they have not stopped. The mean and SD of the price distribution are described in the instructions.
 
@@ -10,9 +10,9 @@ The same people also did bart. **`participant` IDs match across these folders.**
 
 | Task | Folder |
 |------|--------|
-| bart | [bart](../bart/) |
-| Gas-station stopping (this dataset, W2023) | [gasPrices](../gasPrices/) |
-| Fish-by-weekday stopping (W2024, F2025) | [fishPrices](../fishPrices/) |
+| unpublished bart | [bart](../bart/) |
+| unpublished gas prices (this dataset, W2023) | [gasPrices](../gasPrices/) |
+| unpublished fish prices (W2024, F2025) | [fishPrices](../fishPrices/) |
 
 These IDs do **not** match Guan et al. (2020) optimal stopping.
 

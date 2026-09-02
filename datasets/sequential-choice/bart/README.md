@@ -1,4 +1,4 @@
-# bart
+# unpublished bart
 
 Balloon Analog Risk Task collected as a course assignment at UC Irvine (IRB 4286). Twenty balloons. Burst points follow a fixed generating sequence: 11, 9, 8, 8, 7, 6, 6, 5, 5, 5, 5, 4, 4, 3, 3, 2, 2, 1, 1, 1. Domain-Specific Risk-Taking (DOSPERT) risk-perception items were collected in the same session.
 
@@ -10,9 +10,9 @@ The same people also did a cost-minimizing stopping task (gas-station cover stor
 
 | Task | Folder |
 |------|--------|
-| bart (this dataset) | [bart](../bart/) |
-| Gas-station stopping (W2023) | [gasPrices](../gasPrices/) |
-| Fish-by-weekday stopping (W2024, F2025) | [fishPrices](../fishPrices/) |
+| unpublished bart (this dataset) | [bart](../bart/) |
+| unpublished gas prices (W2023) | [gasPrices](../gasPrices/) |
+| unpublished fish prices (W2024, F2025) | [fishPrices](../fishPrices/) |
 
 These IDs do **not** match the Guan et al. (2020) BART sample.
 
@@ -41,6 +41,8 @@ One person appears in two quarters; 13 people have two sessions in the same quar
 - `burst` — 1 if the balloon popped
 
 ## Citation
+
+This course dataset is unpublished. The original BART method paper is:
 
 Lejuez, C. W., Read, J. P., Kahler, C. W., Richards, J. B., Ramsey, S. E., Stuart, G. L., Strong, D. R., & Brown, R. A. (2002). Evaluation of a behavioral measure of risk taking: The Balloon Analogue Risk Task (BART). *Journal of Experimental Psychology: Applied*, 8(2), 75–84. [doi:10.1037/1076-898X.8.2.75](https://doi.org/10.1037/1076-898X.8.2.75)
 

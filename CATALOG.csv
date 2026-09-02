@@ -7,9 +7,9 @@ guan-et-al-2020-bart,sequential-choice,56,5600,Guan et al. 2020,datasets/sequent
 guan-et-al-2020-optimal-stopping,sequential-choice,56,8960,Guan et al. 2020,datasets/sequential-choice/guan-et-al-2020-optimal-stopping
 guan-et-al-2020-described-gambles,risky-gamble-choice,56,,Guan et al. 2020 (trials not archived),datasets/risky-gamble-choice/guan-et-al-2020-described-gambles
 mount-2003-optimal-stopping,sequential-choice,50,6000,Mount 2003,datasets/sequential-choice/mount-2003-optimal-stopping
-bart,sequential-choice,543,11140,bart W2023-F2025,datasets/sequential-choice/bart
-gasPrices,sequential-choice,196,3920,gas-station stopping W2023,datasets/sequential-choice/gasPrices
-fishPrices,sequential-choice,344,6940,fish-by-weekday stopping W2024-F2025,datasets/sequential-choice/fishPrices
+bart,sequential-choice,543,11140,unpublished bart W2023-F2025,datasets/sequential-choice/bart
+gasPrices,sequential-choice,196,3920,unpublished gas prices W2023,datasets/sequential-choice/gasPrices
+fishPrices,sequential-choice,344,6940,unpublished fish prices W2024-F2025,datasets/sequential-choice/fishPrices
 lee-cummins-2004,cue-based-multi-attribute,60,7341,Lee and Cummins 2004,datasets/cue-based-multi-attribute/lee-cummins-2004
 bergert-nosofsky-2007,cue-based-multi-attribute,61,2440,Bergert and Nosofsky 2007,datasets/cue-based-multi-attribute/bergert-nosofsky-2007
 lee-dry-2006,cue-based-multi-attribute,30,9000,Lee and Dry 2006,datasets/cue-based-multi-attribute/lee-dry-2006
@@ -18,7 +18,7 @@ stark-mst-continuous-osn,working-memory-recognition,65,16640,Stark lab continuou
 stark-mst-study-test-osn,working-memory-recognition,191,43776,Stark lab study-test MST old/similar/new,datasets/working-memory-recognition/stark-mst
 stark-mst-continuous-on,working-memory-recognition,45,11520,Stark lab continuous MST old/new,datasets/working-memory-recognition/stark-mst
 stark-mst-study-test-on,working-memory-recognition,22,4224,Stark lab study-test MST old/new,datasets/working-memory-recognition/stark-mst
-kannan-conditioned-recognition,working-memory-recognition,44,10560,Kannan conditioned recognition,datasets/working-memory-recognition/kannan-conditioned-recognition
+kannan-conditioned-recognition,working-memory-recognition,44,10560,Vijayakumar 2024 dissertation (Kannan; Twelve Angry Models),datasets/working-memory-recognition/kannan-conditioned-recognition
 ravlt-amyloid,working-memory-recognition,200,6000,RAVLT recognition amyloid groups (Embic/MCC; Twelve Angry Models),datasets/working-memory-recognition/ravlt-amyloid
 murdock-1962-free-recall,working-memory-recognition,,135,Murdock 1962 aggregated serial-position counts,datasets/working-memory-recognition/murdock-1962-free-recall
 lee-sarnecka-2011-give-n,judgment-and-estimation,56,1104,Lee and Sarnecka 2011,datasets/judgment-and-estimation/lee-sarnecka-2011-give-n

@@ -1,4 +1,4 @@
-# fishPrices
+# unpublished fish prices
 
 Secretary-style **cost minimization** with a fish-by-weekday cover story. Collected as a course assignment at UC Irvine (IRB 4286). Students see a sequence of seven daily prices (Monday–Sunday) and stop on one. Sunday is forced if they have not stopped. The mean and SD of the price distribution are described in the instructions.
 
@@ -10,9 +10,9 @@ The same people also did bart. **`participant` IDs match across these folders.**
 
 | Task | Folder |
 |------|--------|
-| bart | [bart](../bart/) |
-| Gas-station stopping (W2023) | [gasPrices](../gasPrices/) |
-| Fish-by-weekday stopping (this dataset, W2024 and F2025) | [fishPrices](../fishPrices/) |
+| unpublished bart | [bart](../bart/) |
+| unpublished gas prices (W2023) | [gasPrices](../gasPrices/) |
+| unpublished fish prices (this dataset, W2024 and F2025) | [fishPrices](../fishPrices/) |
 
 These IDs do **not** match Guan et al. (2020) optimal stopping.
 
