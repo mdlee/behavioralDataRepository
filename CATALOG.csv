@@ -14,10 +14,7 @@ lee-cummins-2004,cue-based-multi-attribute,60,7341,Lee and Cummins 2004,datasets
 bergert-nosofsky-2007,cue-based-multi-attribute,61,2440,Bergert and Nosofsky 2007,datasets/cue-based-multi-attribute/bergert-nosofsky-2007
 lee-dry-2006,cue-based-multi-attribute,30,9000,Lee and Dry 2006,datasets/cue-based-multi-attribute/lee-dry-2006
 childers-recognition-sat,working-memory-recognition,80,131760,Childers et al. OSF word recognition SAT,datasets/working-memory-recognition/childers-recognition-sat
-stark-mst-continuous-osn,working-memory-recognition,65,16640,Stark lab continuous MST old/similar/new,datasets/working-memory-recognition/stark-mst
-stark-mst-study-test-osn,working-memory-recognition,191,43776,Stark lab study-test MST old/similar/new,datasets/working-memory-recognition/stark-mst
-stark-mst-continuous-on,working-memory-recognition,45,11520,Stark lab continuous MST old/new,datasets/working-memory-recognition/stark-mst
-stark-mst-study-test-on,working-memory-recognition,22,4224,Stark lab study-test MST old/new,datasets/working-memory-recognition/stark-mst
+lee-stark-2023-mst,working-memory-recognition,21,8064,Lee and Stark 2023 Behaviormetrika MST,datasets/working-memory-recognition/lee-stark-2023-mst
 kannan-conditioned-recognition,working-memory-recognition,44,10560,Vijayakumar 2024 dissertation (Kannan; Twelve Angry Models),datasets/working-memory-recognition/kannan-conditioned-recognition
 ravlt-amyloid,working-memory-recognition,200,6000,RAVLT recognition amyloid groups (Embic/MCC; Twelve Angry Models),datasets/working-memory-recognition/ravlt-amyloid
 murdock-1962-free-recall,working-memory-recognition,,135,Murdock 1962 aggregated serial-position counts,datasets/working-memory-recognition/murdock-1962-free-recall

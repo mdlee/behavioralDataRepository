@@ -46,7 +46,7 @@ Trial-level human behavioral datasets, mostly from studies associated with Micha
 | Dataset | People | Trials | Task |
 |---------|--------|--------|------|
 | [Childers et al. recognition SAT](datasets/working-memory-recognition/childers-recognition-sat/) | 80 | 131,760 | Word old/new recognition, speed vs accuracy |
-| [Stark MST](datasets/working-memory-recognition/stark-mst/) | 236 | 76,160 | Mnemonic similarity task (continuous and study–test; old/similar/new and old/new) |
+| [Lee & Stark (2023)](datasets/working-memory-recognition/lee-stark-2023-mst/) | 21 | 8,064 | Study–test MST, old/new and old/similar/new |
 | [Vijayakumar (2024)](datasets/working-memory-recognition/kannan-conditioned-recognition/) | 44 | 10,560 | Conditioned recognition with confidence (Kannan) |
 | [Lee, Mistry, & Menon (2022)](datasets/working-memory-recognition/lee-mistry-menon-2022-nback/) | 1,143 | 86,391 | 2-back (Stelter–Degner and HCP extracts) |
 | [Lee, Doering, & Carr (2019)](datasets/working-memory-recognition/lee-doering-carr-2019-recognition-validity/) | 270 | 56,857 | Recognition of paired names (several domains) |
