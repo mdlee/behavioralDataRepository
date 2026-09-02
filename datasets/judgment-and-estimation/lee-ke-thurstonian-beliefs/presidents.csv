@@ -1,0 +1,922 @@
+participant,item,name,rank
+1,1,Barack Obama,5
+1,2,Bill Clinton,4
+1,3,George H. W. Bush,3
+1,4,George W. Bush,2
+1,9,Ronald Reagan,1
+2,1,Barack Obama,3
+2,3,George H. W. Bush,2
+2,4,George W. Bush,1
+2,6,Jimmy Carter,4
+3,1,Barack Obama,5
+3,2,Bill Clinton,2
+3,3,George H. W. Bush,6
+3,4,George W. Bush,9
+3,5,Gerald Ford,8
+3,6,Jimmy Carter,1
+3,7,Lyndon B. Johnson,3
+3,8,Richard Nixon,7
+3,9,Ronald Reagan,4
+4,4,George W. Bush,5
+4,5,Gerald Ford,4
+4,6,Jimmy Carter,1
+4,7,Lyndon B. Johnson,3
+4,8,Richard Nixon,2
+5,3,George H. W. Bush,2
+5,7,Lyndon B. Johnson,3
+5,9,Ronald Reagan,1
+6,1,Barack Obama,9
+6,2,Bill Clinton,8
+6,3,George H. W. Bush,3
+6,4,George W. Bush,1
+6,5,Gerald Ford,4
+6,6,Jimmy Carter,7
+6,7,Lyndon B. Johnson,5
+6,8,Richard Nixon,6
+6,9,Ronald Reagan,2
+7,1,Barack Obama,9
+7,2,Bill Clinton,5
+7,3,George H. W. Bush,3
+7,4,George W. Bush,2
+7,5,Gerald Ford,4
+7,6,Jimmy Carter,8
+7,7,Lyndon B. Johnson,6
+7,8,Richard Nixon,7
+7,9,Ronald Reagan,1
+8,1,Barack Obama,2
+8,2,Bill Clinton,1
+8,5,Gerald Ford,4
+8,6,Jimmy Carter,3
+9,1,Barack Obama,6
+9,2,Bill Clinton,4
+9,3,George H. W. Bush,5
+9,4,George W. Bush,3
+9,5,Gerald Ford,7
+9,6,Jimmy Carter,8
+9,7,Lyndon B. Johnson,2
+9,8,Richard Nixon,9
+9,9,Ronald Reagan,1
+10,1,Barack Obama,2
+10,3,George H. W. Bush,1
+10,4,George W. Bush,3
+11,1,Barack Obama,2
+11,2,Bill Clinton,1
+11,3,George H. W. Bush,5
+11,4,George W. Bush,8
+11,5,Gerald Ford,3
+11,6,Jimmy Carter,4
+11,8,Richard Nixon,7
+11,9,Ronald Reagan,6
+12,1,Barack Obama,3
+12,2,Bill Clinton,1
+12,3,George H. W. Bush,6
+12,4,George W. Bush,8
+12,5,Gerald Ford,9
+12,6,Jimmy Carter,7
+12,7,Lyndon B. Johnson,2
+12,8,Richard Nixon,4
+12,9,Ronald Reagan,5
+13,1,Barack Obama,6
+13,2,Bill Clinton,3
+13,3,George H. W. Bush,5
+13,4,George W. Bush,8
+13,5,Gerald Ford,7
+13,6,Jimmy Carter,9
+13,7,Lyndon B. Johnson,2
+13,8,Richard Nixon,4
+13,9,Ronald Reagan,1
+14,1,Barack Obama,2
+14,3,George H. W. Bush,3
+14,4,George W. Bush,1
+15,1,Barack Obama,3
+15,2,Bill Clinton,9
+15,3,George H. W. Bush,2
+15,4,George W. Bush,4
+15,5,Gerald Ford,5
+15,6,Jimmy Carter,6
+15,7,Lyndon B. Johnson,7
+15,8,Richard Nixon,8
+15,9,Ronald Reagan,1
+16,1,Barack Obama,7
+16,2,Bill Clinton,2
+16,3,George H. W. Bush,3
+16,4,George W. Bush,5
+16,6,Jimmy Carter,6
+16,8,Richard Nixon,4
+16,9,Ronald Reagan,1
+17,1,Barack Obama,2
+17,2,Bill Clinton,1
+17,6,Jimmy Carter,4
+17,7,Lyndon B. Johnson,3
+18,1,Barack Obama,4
+18,2,Bill Clinton,5
+18,3,George H. W. Bush,2
+18,4,George W. Bush,3
+18,5,Gerald Ford,7
+18,6,Jimmy Carter,8
+18,7,Lyndon B. Johnson,6
+18,8,Richard Nixon,9
+18,9,Ronald Reagan,1
+19,1,Barack Obama,2
+19,2,Bill Clinton,4
+19,3,George H. W. Bush,7
+19,4,George W. Bush,9
+19,5,Gerald Ford,3
+19,6,Jimmy Carter,5
+19,7,Lyndon B. Johnson,6
+19,8,Richard Nixon,8
+19,9,Ronald Reagan,1
+20,1,Barack Obama,9
+20,2,Bill Clinton,2
+20,3,George H. W. Bush,3
+20,4,George W. Bush,4
+20,5,Gerald Ford,5
+20,6,Jimmy Carter,6
+20,7,Lyndon B. Johnson,8
+20,8,Richard Nixon,7
+20,9,Ronald Reagan,1
+21,1,Barack Obama,8
+21,2,Bill Clinton,2
+21,3,George H. W. Bush,3
+21,4,George W. Bush,4
+21,5,Gerald Ford,5
+21,6,Jimmy Carter,7
+21,7,Lyndon B. Johnson,6
+21,8,Richard Nixon,9
+21,9,Ronald Reagan,1
+22,1,Barack Obama,4
+22,3,George H. W. Bush,5
+22,4,George W. Bush,1
+22,5,Gerald Ford,2
+22,6,Jimmy Carter,3
+23,1,Barack Obama,1
+23,2,Bill Clinton,3
+23,3,George H. W. Bush,4
+23,4,George W. Bush,5
+23,5,Gerald Ford,6
+23,6,Jimmy Carter,7
+23,7,Lyndon B. Johnson,8
+23,8,Richard Nixon,9
+23,9,Ronald Reagan,2
+24,1,Barack Obama,8
+24,2,Bill Clinton,6
+24,3,George H. W. Bush,7
+24,5,Gerald Ford,3
+24,6,Jimmy Carter,5
+24,7,Lyndon B. Johnson,1
+24,8,Richard Nixon,2
+24,9,Ronald Reagan,4
+25,1,Barack Obama,8
+25,2,Bill Clinton,6
+25,3,George H. W. Bush,4
+25,4,George W. Bush,2
+25,5,Gerald Ford,3
+25,6,Jimmy Carter,7
+25,8,Richard Nixon,5
+25,9,Ronald Reagan,1
+26,1,Barack Obama,1
+26,2,Bill Clinton,2
+26,4,George W. Bush,8
+26,5,Gerald Ford,5
+26,6,Jimmy Carter,3
+26,7,Lyndon B. Johnson,4
+26,8,Richard Nixon,7
+26,9,Ronald Reagan,6
+27,1,Barack Obama,5
+27,2,Bill Clinton,3
+27,3,George H. W. Bush,2
+27,4,George W. Bush,8
+27,5,Gerald Ford,4
+27,6,Jimmy Carter,7
+27,8,Richard Nixon,6
+27,9,Ronald Reagan,1
+28,1,Barack Obama,1
+28,3,George H. W. Bush,3
+28,4,George W. Bush,2
+28,5,Gerald Ford,4
+29,1,Barack Obama,2
+29,2,Bill Clinton,1
+29,3,George H. W. Bush,6
+29,4,George W. Bush,9
+29,5,Gerald Ford,7
+29,6,Jimmy Carter,8
+29,7,Lyndon B. Johnson,4
+29,8,Richard Nixon,5
+29,9,Ronald Reagan,3
+30,9,Ronald Reagan,1
+31,1,Barack Obama,7
+31,2,Bill Clinton,8
+31,3,George H. W. Bush,6
+31,4,George W. Bush,4
+31,5,Gerald Ford,3
+31,6,Jimmy Carter,1
+31,7,Lyndon B. Johnson,5
+31,8,Richard Nixon,2
+31,9,Ronald Reagan,9
+32,6,Jimmy Carter,1
+32,8,Richard Nixon,2
+33,1,Barack Obama,3
+33,2,Bill Clinton,1
+33,6,Jimmy Carter,2
+34,1,Barack Obama,4
+34,3,George H. W. Bush,2
+34,4,George W. Bush,3
+34,5,Gerald Ford,1
+35,1,Barack Obama,2
+35,2,Bill Clinton,3
+35,6,Jimmy Carter,1
+36,1,Barack Obama,2
+36,2,Bill Clinton,1
+36,3,George H. W. Bush,5
+36,4,George W. Bush,9
+36,5,Gerald Ford,6
+36,6,Jimmy Carter,7
+36,7,Lyndon B. Johnson,4
+36,8,Richard Nixon,8
+36,9,Ronald Reagan,3
+37,1,Barack Obama,1
+37,2,Bill Clinton,6
+37,3,George H. W. Bush,3
+37,4,George W. Bush,4
+37,5,Gerald Ford,5
+37,6,Jimmy Carter,2
+37,8,Richard Nixon,7
+37,9,Ronald Reagan,8
+38,1,Barack Obama,1
+38,2,Bill Clinton,2
+38,3,George H. W. Bush,3
+38,4,George W. Bush,4
+38,5,Gerald Ford,5
+38,6,Jimmy Carter,6
+38,7,Lyndon B. Johnson,7
+38,8,Richard Nixon,8
+38,9,Ronald Reagan,9
+39,1,Barack Obama,9
+39,2,Bill Clinton,8
+39,3,George H. W. Bush,2
+39,4,George W. Bush,3
+39,5,Gerald Ford,4
+39,6,Jimmy Carter,7
+39,7,Lyndon B. Johnson,6
+39,8,Richard Nixon,5
+39,9,Ronald Reagan,1
+40,1,Barack Obama,3
+40,2,Bill Clinton,1
+40,3,George H. W. Bush,5
+40,4,George W. Bush,9
+40,5,Gerald Ford,7
+40,6,Jimmy Carter,8
+40,7,Lyndon B. Johnson,2
+40,8,Richard Nixon,6
+40,9,Ronald Reagan,4
+41,1,Barack Obama,1
+41,3,George H. W. Bush,3
+41,9,Ronald Reagan,2
+42,1,Barack Obama,1
+42,2,Bill Clinton,3
+42,3,George H. W. Bush,6
+42,4,George W. Bush,8
+42,5,Gerald Ford,7
+42,6,Jimmy Carter,2
+42,7,Lyndon B. Johnson,4
+42,9,Ronald Reagan,5
+43,1,Barack Obama,3
+43,3,George H. W. Bush,1
+43,4,George W. Bush,4
+43,5,Gerald Ford,2
+43,6,Jimmy Carter,5
+44,1,Barack Obama,1
+44,2,Bill Clinton,2
+44,3,George H. W. Bush,7
+44,4,George W. Bush,8
+44,5,Gerald Ford,4
+44,6,Jimmy Carter,3
+44,7,Lyndon B. Johnson,5
+44,8,Richard Nixon,9
+44,9,Ronald Reagan,6
+45,1,Barack Obama,5
+45,2,Bill Clinton,1
+45,6,Jimmy Carter,3
+45,8,Richard Nixon,4
+45,9,Ronald Reagan,2
+46,1,Barack Obama,1
+46,2,Bill Clinton,2
+46,5,Gerald Ford,6
+46,6,Jimmy Carter,3
+46,7,Lyndon B. Johnson,4
+46,8,Richard Nixon,5
+47,1,Barack Obama,7
+47,2,Bill Clinton,2
+47,3,George H. W. Bush,3
+47,4,George W. Bush,8
+47,5,Gerald Ford,6
+47,6,Jimmy Carter,9
+47,7,Lyndon B. Johnson,4
+47,8,Richard Nixon,5
+47,9,Ronald Reagan,1
+48,1,Barack Obama,1
+48,2,Bill Clinton,3
+48,3,George H. W. Bush,6
+48,4,George W. Bush,7
+48,5,Gerald Ford,8
+48,6,Jimmy Carter,5
+48,7,Lyndon B. Johnson,2
+48,8,Richard Nixon,9
+48,9,Ronald Reagan,4
+49,1,Barack Obama,6
+49,2,Bill Clinton,2
+49,3,George H. W. Bush,1
+49,4,George W. Bush,9
+49,5,Gerald Ford,4
+49,6,Jimmy Carter,8
+49,7,Lyndon B. Johnson,5
+49,8,Richard Nixon,7
+49,9,Ronald Reagan,3
+50,1,Barack Obama,1
+50,2,Bill Clinton,2
+50,3,George H. W. Bush,5
+50,4,George W. Bush,8
+50,5,Gerald Ford,4
+50,6,Jimmy Carter,6
+50,7,Lyndon B. Johnson,3
+50,8,Richard Nixon,9
+50,9,Ronald Reagan,7
+51,1,Barack Obama,1
+51,3,George H. W. Bush,4
+51,4,George W. Bush,2
+51,5,Gerald Ford,3
+52,1,Barack Obama,7
+52,2,Bill Clinton,3
+52,3,George H. W. Bush,2
+52,4,George W. Bush,4
+52,5,Gerald Ford,5
+52,7,Lyndon B. Johnson,6
+52,9,Ronald Reagan,1
+53,1,Barack Obama,5
+53,2,Bill Clinton,3
+53,5,Gerald Ford,4
+53,6,Jimmy Carter,2
+53,8,Richard Nixon,1
+54,3,George H. W. Bush,2
+54,4,George W. Bush,3
+54,8,Richard Nixon,4
+54,9,Ronald Reagan,1
+55,1,Barack Obama,9
+55,2,Bill Clinton,1
+55,3,George H. W. Bush,7
+55,4,George W. Bush,8
+55,5,Gerald Ford,3
+55,6,Jimmy Carter,5
+55,7,Lyndon B. Johnson,4
+55,8,Richard Nixon,6
+55,9,Ronald Reagan,2
+56,1,Barack Obama,2
+56,3,George H. W. Bush,1
+56,4,George W. Bush,3
+56,5,Gerald Ford,4
+56,6,Jimmy Carter,5
+57,3,George H. W. Bush,2
+57,4,George W. Bush,3
+57,5,Gerald Ford,4
+57,9,Ronald Reagan,1
+58,1,Barack Obama,2
+58,6,Jimmy Carter,3
+58,9,Ronald Reagan,1
+59,1,Barack Obama,9
+59,2,Bill Clinton,8
+59,3,George H. W. Bush,3
+59,4,George W. Bush,4
+59,5,Gerald Ford,2
+59,6,Jimmy Carter,6
+59,7,Lyndon B. Johnson,5
+59,8,Richard Nixon,7
+59,9,Ronald Reagan,1
+60,2,Bill Clinton,2
+60,5,Gerald Ford,3
+60,9,Ronald Reagan,1
+61,1,Barack Obama,9
+61,2,Bill Clinton,2
+61,3,George H. W. Bush,5
+61,4,George W. Bush,4
+61,5,Gerald Ford,6
+61,6,Jimmy Carter,8
+61,7,Lyndon B. Johnson,7
+61,8,Richard Nixon,3
+61,9,Ronald Reagan,1
+62,1,Barack Obama,1
+62,2,Bill Clinton,2
+62,6,Jimmy Carter,3
+62,7,Lyndon B. Johnson,5
+62,9,Ronald Reagan,4
+63,1,Barack Obama,1
+63,2,Bill Clinton,2
+63,5,Gerald Ford,3
+63,6,Jimmy Carter,4
+64,1,Barack Obama,5
+64,2,Bill Clinton,1
+64,3,George H. W. Bush,6
+64,4,George W. Bush,8
+64,5,Gerald Ford,4
+64,6,Jimmy Carter,7
+64,7,Lyndon B. Johnson,2
+64,8,Richard Nixon,9
+64,9,Ronald Reagan,3
+65,1,Barack Obama,2
+65,2,Bill Clinton,1
+65,8,Richard Nixon,3
+66,5,Gerald Ford,3
+66,8,Richard Nixon,2
+66,9,Ronald Reagan,1
+67,2,Bill Clinton,4
+67,3,George H. W. Bush,2
+67,4,George W. Bush,6
+67,5,Gerald Ford,3
+67,8,Richard Nixon,5
+67,9,Ronald Reagan,1
+68,3,George H. W. Bush,3
+68,4,George W. Bush,2
+68,5,Gerald Ford,4
+68,9,Ronald Reagan,1
+69,1,Barack Obama,2
+69,3,George H. W. Bush,1
+69,4,George W. Bush,3
+69,5,Gerald Ford,4
+69,6,Jimmy Carter,5
+70,1,Barack Obama,2
+70,2,Bill Clinton,1
+70,3,George H. W. Bush,6
+70,5,Gerald Ford,4
+70,6,Jimmy Carter,5
+70,7,Lyndon B. Johnson,3
+70,8,Richard Nixon,7
+71,1,Barack Obama,1
+71,3,George H. W. Bush,4
+71,4,George W. Bush,2
+71,9,Ronald Reagan,3
+72,1,Barack Obama,1
+72,3,George H. W. Bush,2
+72,4,George W. Bush,3
+73,1,Barack Obama,1
+73,2,Bill Clinton,2
+74,1,Barack Obama,4
+74,2,Bill Clinton,6
+74,3,George H. W. Bush,2
+74,4,George W. Bush,7
+74,5,Gerald Ford,3
+74,6,Jimmy Carter,1
+74,8,Richard Nixon,8
+74,9,Ronald Reagan,5
+75,3,George H. W. Bush,3
+75,4,George W. Bush,2
+75,9,Ronald Reagan,1
+76,1,Barack Obama,2
+76,2,Bill Clinton,4
+76,3,George H. W. Bush,5
+76,5,Gerald Ford,6
+76,6,Jimmy Carter,3
+76,7,Lyndon B. Johnson,1
+77,1,Barack Obama,1
+77,3,George H. W. Bush,2
+77,4,George W. Bush,3
+77,5,Gerald Ford,4
+77,6,Jimmy Carter,5
+78,1,Barack Obama,1
+78,2,Bill Clinton,2
+78,3,George H. W. Bush,4
+78,4,George W. Bush,9
+78,5,Gerald Ford,7
+78,6,Jimmy Carter,6
+78,7,Lyndon B. Johnson,5
+78,8,Richard Nixon,8
+78,9,Ronald Reagan,3
+79,4,George W. Bush,2
+79,8,Richard Nixon,3
+79,9,Ronald Reagan,1
+80,1,Barack Obama,2
+80,2,Bill Clinton,1
+80,6,Jimmy Carter,4
+80,9,Ronald Reagan,3
+81,1,Barack Obama,8
+81,2,Bill Clinton,9
+81,3,George H. W. Bush,2
+81,4,George W. Bush,3
+81,5,Gerald Ford,4
+81,6,Jimmy Carter,6
+81,7,Lyndon B. Johnson,5
+81,8,Richard Nixon,7
+81,9,Ronald Reagan,1
+82,1,Barack Obama,4
+82,2,Bill Clinton,2
+82,3,George H. W. Bush,3
+82,4,George W. Bush,5
+82,5,Gerald Ford,6
+82,6,Jimmy Carter,7
+82,7,Lyndon B. Johnson,8
+82,8,Richard Nixon,9
+82,9,Ronald Reagan,1
+83,1,Barack Obama,1
+83,2,Bill Clinton,4
+83,3,George H. W. Bush,7
+83,4,George W. Bush,9
+83,5,Gerald Ford,5
+83,6,Jimmy Carter,3
+83,7,Lyndon B. Johnson,2
+83,8,Richard Nixon,6
+83,9,Ronald Reagan,8
+84,1,Barack Obama,8
+84,2,Bill Clinton,9
+84,3,George H. W. Bush,3
+84,4,George W. Bush,2
+84,5,Gerald Ford,4
+84,6,Jimmy Carter,5
+84,7,Lyndon B. Johnson,6
+84,8,Richard Nixon,7
+84,9,Ronald Reagan,1
+85,1,Barack Obama,9
+85,2,Bill Clinton,7
+85,3,George H. W. Bush,2
+85,4,George W. Bush,4
+85,5,Gerald Ford,5
+85,6,Jimmy Carter,8
+85,7,Lyndon B. Johnson,3
+85,8,Richard Nixon,6
+85,9,Ronald Reagan,1
+86,1,Barack Obama,3
+86,2,Bill Clinton,2
+86,3,George H. W. Bush,4
+86,4,George W. Bush,5
+86,5,Gerald Ford,6
+86,6,Jimmy Carter,7
+86,7,Lyndon B. Johnson,8
+86,8,Richard Nixon,9
+86,9,Ronald Reagan,1
+87,1,Barack Obama,8
+87,2,Bill Clinton,6
+87,3,George H. W. Bush,3
+87,4,George W. Bush,2
+87,5,Gerald Ford,4
+87,6,Jimmy Carter,9
+87,7,Lyndon B. Johnson,7
+87,8,Richard Nixon,5
+87,9,Ronald Reagan,1
+88,5,Gerald Ford,3
+88,6,Jimmy Carter,4
+88,8,Richard Nixon,1
+88,9,Ronald Reagan,2
+89,2,Bill Clinton,4
+89,3,George H. W. Bush,1
+89,5,Gerald Ford,3
+89,9,Ronald Reagan,2
+90,1,Barack Obama,1
+90,2,Bill Clinton,2
+90,5,Gerald Ford,5
+90,6,Jimmy Carter,3
+90,7,Lyndon B. Johnson,4
+91,1,Barack Obama,3
+91,3,George H. W. Bush,1
+91,4,George W. Bush,2
+91,5,Gerald Ford,4
+92,1,Barack Obama,3
+92,3,George H. W. Bush,1
+92,4,George W. Bush,2
+92,5,Gerald Ford,4
+93,1,Barack Obama,7
+93,2,Bill Clinton,6
+93,3,George H. W. Bush,2
+93,4,George W. Bush,5
+93,5,Gerald Ford,4
+93,6,Jimmy Carter,8
+93,7,Lyndon B. Johnson,9
+93,8,Richard Nixon,3
+93,9,Ronald Reagan,1
+94,1,Barack Obama,1
+94,2,Bill Clinton,2
+94,6,Jimmy Carter,3
+94,7,Lyndon B. Johnson,4
+95,1,Barack Obama,2
+95,2,Bill Clinton,1
+95,6,Jimmy Carter,4
+95,7,Lyndon B. Johnson,3
+95,8,Richard Nixon,5
+96,1,Barack Obama,6
+96,2,Bill Clinton,7
+96,3,George H. W. Bush,3
+96,4,George W. Bush,2
+96,5,Gerald Ford,8
+96,6,Jimmy Carter,9
+96,7,Lyndon B. Johnson,5
+96,8,Richard Nixon,4
+96,9,Ronald Reagan,1
+97,1,Barack Obama,4
+97,2,Bill Clinton,1
+97,6,Jimmy Carter,3
+97,7,Lyndon B. Johnson,2
+98,1,Barack Obama,4
+98,3,George H. W. Bush,3
+98,4,George W. Bush,1
+98,6,Jimmy Carter,2
+99,1,Barack Obama,1
+99,2,Bill Clinton,4
+99,3,George H. W. Bush,6
+99,4,George W. Bush,9
+99,5,Gerald Ford,7
+99,6,Jimmy Carter,3
+99,7,Lyndon B. Johnson,2
+99,8,Richard Nixon,5
+99,9,Ronald Reagan,8
+100,6,Jimmy Carter,1
+100,8,Richard Nixon,2
+101,2,Bill Clinton,3
+101,3,George H. W. Bush,2
+101,4,George W. Bush,4
+101,5,Gerald Ford,5
+101,6,Jimmy Carter,6
+101,7,Lyndon B. Johnson,8
+101,8,Richard Nixon,7
+101,9,Ronald Reagan,1
+102,1,Barack Obama,2
+102,2,Bill Clinton,3
+102,3,George H. W. Bush,6
+102,4,George W. Bush,9
+102,5,Gerald Ford,4
+102,6,Jimmy Carter,5
+102,7,Lyndon B. Johnson,1
+102,8,Richard Nixon,8
+102,9,Ronald Reagan,7
+103,1,Barack Obama,3
+103,2,Bill Clinton,2
+103,3,George H. W. Bush,8
+103,4,George W. Bush,9
+103,5,Gerald Ford,5
+103,6,Jimmy Carter,4
+103,7,Lyndon B. Johnson,7
+103,8,Richard Nixon,6
+103,9,Ronald Reagan,1
+104,1,Barack Obama,3
+104,2,Bill Clinton,4
+104,3,George H. W. Bush,6
+104,4,George W. Bush,8
+104,5,Gerald Ford,9
+104,6,Jimmy Carter,7
+104,7,Lyndon B. Johnson,1
+104,8,Richard Nixon,5
+104,9,Ronald Reagan,2
+105,3,George H. W. Bush,4
+105,4,George W. Bush,5
+105,5,Gerald Ford,2
+105,8,Richard Nixon,3
+105,9,Ronald Reagan,1
+106,1,Barack Obama,5
+106,3,George H. W. Bush,1
+106,4,George W. Bush,2
+106,5,Gerald Ford,3
+106,6,Jimmy Carter,4
+107,1,Barack Obama,3
+107,2,Bill Clinton,1
+107,3,George H. W. Bush,6
+107,4,George W. Bush,8
+107,5,Gerald Ford,4
+107,6,Jimmy Carter,5
+107,7,Lyndon B. Johnson,2
+107,8,Richard Nixon,9
+107,9,Ronald Reagan,7
+108,1,Barack Obama,1
+108,2,Bill Clinton,2
+108,6,Jimmy Carter,3
+108,7,Lyndon B. Johnson,4
+109,1,Barack Obama,9
+109,2,Bill Clinton,7
+109,3,George H. W. Bush,2
+109,4,George W. Bush,3
+109,5,Gerald Ford,5
+109,6,Jimmy Carter,8
+109,7,Lyndon B. Johnson,6
+109,8,Richard Nixon,4
+109,9,Ronald Reagan,1
+110,3,George H. W. Bush,2
+110,4,George W. Bush,3
+110,9,Ronald Reagan,1
+111,1,Barack Obama,9
+111,2,Bill Clinton,2
+111,3,George H. W. Bush,4
+111,4,George W. Bush,8
+111,5,Gerald Ford,5
+111,6,Jimmy Carter,7
+111,7,Lyndon B. Johnson,6
+111,8,Richard Nixon,3
+111,9,Ronald Reagan,1
+112,3,George H. W. Bush,2
+112,4,George W. Bush,3
+112,9,Ronald Reagan,1
+113,1,Barack Obama,3
+113,2,Bill Clinton,1
+113,3,George H. W. Bush,8
+113,4,George W. Bush,9
+113,5,Gerald Ford,5
+113,6,Jimmy Carter,4
+113,7,Lyndon B. Johnson,2
+113,8,Richard Nixon,6
+113,9,Ronald Reagan,7
+114,1,Barack Obama,8
+114,2,Bill Clinton,7
+114,3,George H. W. Bush,3
+114,4,George W. Bush,2
+114,5,Gerald Ford,4
+114,6,Jimmy Carter,6
+114,7,Lyndon B. Johnson,5
+114,8,Richard Nixon,9
+114,9,Ronald Reagan,1
+115,1,Barack Obama,2
+115,2,Bill Clinton,1
+115,3,George H. W. Bush,5
+115,4,George W. Bush,9
+115,5,Gerald Ford,3
+115,6,Jimmy Carter,7
+115,7,Lyndon B. Johnson,4
+115,8,Richard Nixon,8
+115,9,Ronald Reagan,6
+116,2,Bill Clinton,5
+116,3,George H. W. Bush,3
+116,4,George W. Bush,2
+116,5,Gerald Ford,4
+116,9,Ronald Reagan,1
+117,1,Barack Obama,1
+117,2,Bill Clinton,2
+117,3,George H. W. Bush,5
+117,4,George W. Bush,8
+117,5,Gerald Ford,7
+117,6,Jimmy Carter,4
+117,7,Lyndon B. Johnson,3
+117,8,Richard Nixon,9
+117,9,Ronald Reagan,6
+118,1,Barack Obama,4
+118,2,Bill Clinton,2
+118,3,George H. W. Bush,3
+118,4,George W. Bush,5
+118,5,Gerald Ford,6
+118,6,Jimmy Carter,9
+118,7,Lyndon B. Johnson,7
+118,8,Richard Nixon,8
+118,9,Ronald Reagan,1
+119,1,Barack Obama,9
+119,2,Bill Clinton,5
+119,3,George H. W. Bush,2
+119,4,George W. Bush,4
+119,5,Gerald Ford,3
+119,6,Jimmy Carter,8
+119,7,Lyndon B. Johnson,7
+119,8,Richard Nixon,6
+119,9,Ronald Reagan,1
+120,1,Barack Obama,2
+120,2,Bill Clinton,3
+120,3,George H. W. Bush,8
+120,4,George W. Bush,1
+120,5,Gerald Ford,7
+120,6,Jimmy Carter,5
+120,7,Lyndon B. Johnson,6
+120,8,Richard Nixon,9
+120,9,Ronald Reagan,4
+121,2,Bill Clinton,3
+121,3,George H. W. Bush,4
+121,4,George W. Bush,1
+121,7,Lyndon B. Johnson,5
+121,9,Ronald Reagan,2
+122,1,Barack Obama,3
+122,2,Bill Clinton,4
+122,3,George H. W. Bush,2
+122,4,George W. Bush,6
+122,5,Gerald Ford,5
+122,6,Jimmy Carter,8
+122,8,Richard Nixon,7
+122,9,Ronald Reagan,1
+123,1,Barack Obama,2
+123,2,Bill Clinton,1
+123,3,George H. W. Bush,5
+123,4,George W. Bush,9
+123,5,Gerald Ford,7
+123,6,Jimmy Carter,6
+123,7,Lyndon B. Johnson,3
+123,8,Richard Nixon,8
+123,9,Ronald Reagan,4
+124,1,Barack Obama,5
+124,2,Bill Clinton,1
+124,3,George H. W. Bush,4
+124,4,George W. Bush,8
+124,5,Gerald Ford,6
+124,6,Jimmy Carter,7
+124,7,Lyndon B. Johnson,2
+124,8,Richard Nixon,9
+124,9,Ronald Reagan,3
+125,1,Barack Obama,2
+125,3,George H. W. Bush,1
+125,4,George W. Bush,3
+126,1,Barack Obama,1
+126,2,Bill Clinton,3
+126,3,George H. W. Bush,9
+126,4,George W. Bush,8
+126,5,Gerald Ford,5
+126,6,Jimmy Carter,4
+126,7,Lyndon B. Johnson,6
+126,8,Richard Nixon,7
+126,9,Ronald Reagan,2
+127,1,Barack Obama,1
+127,2,Bill Clinton,2
+127,3,George H. W. Bush,4
+127,4,George W. Bush,9
+127,5,Gerald Ford,8
+127,6,Jimmy Carter,7
+127,7,Lyndon B. Johnson,3
+127,8,Richard Nixon,5
+127,9,Ronald Reagan,6
+128,1,Barack Obama,3
+128,2,Bill Clinton,2
+128,7,Lyndon B. Johnson,1
+129,1,Barack Obama,9
+129,2,Bill Clinton,1
+129,3,George H. W. Bush,4
+129,4,George W. Bush,5
+129,5,Gerald Ford,6
+129,6,Jimmy Carter,2
+129,7,Lyndon B. Johnson,7
+129,8,Richard Nixon,8
+129,9,Ronald Reagan,3
+130,3,George H. W. Bush,2
+130,4,George W. Bush,3
+130,5,Gerald Ford,4
+130,8,Richard Nixon,5
+130,9,Ronald Reagan,1
+131,1,Barack Obama,1
+132,5,Gerald Ford,3
+132,6,Jimmy Carter,4
+132,8,Richard Nixon,2
+132,9,Ronald Reagan,1
+133,1,Barack Obama,3
+133,3,George H. W. Bush,2
+133,4,George W. Bush,1
+134,1,Barack Obama,1
+134,3,George H. W. Bush,4
+134,4,George W. Bush,3
+134,6,Jimmy Carter,2
+135,1,Barack Obama,3
+135,3,George H. W. Bush,1
+135,4,George W. Bush,2
+135,5,Gerald Ford,4
+135,6,Jimmy Carter,5
+136,1,Barack Obama,4
+136,2,Bill Clinton,2
+136,3,George H. W. Bush,3
+136,4,George W. Bush,6
+136,5,Gerald Ford,5
+136,6,Jimmy Carter,7
+136,7,Lyndon B. Johnson,8
+136,8,Richard Nixon,9
+136,9,Ronald Reagan,1
+137,1,Barack Obama,9
+137,2,Bill Clinton,6
+137,3,George H. W. Bush,2
+137,4,George W. Bush,3
+137,5,Gerald Ford,5
+137,6,Jimmy Carter,8
+137,7,Lyndon B. Johnson,7
+137,8,Richard Nixon,4
+137,9,Ronald Reagan,1
+138,1,Barack Obama,3
+138,3,George H. W. Bush,1
+138,4,George W. Bush,2
+139,5,Gerald Ford,2
+139,9,Ronald Reagan,1
+140,1,Barack Obama,2
+140,6,Jimmy Carter,3
+140,9,Ronald Reagan,1
+141,1,Barack Obama,2
+141,3,George H. W. Bush,1
+141,4,George W. Bush,3
+142,1,Barack Obama,4
+142,2,Bill Clinton,2
+142,3,George H. W. Bush,8
+142,4,George W. Bush,9
+142,5,Gerald Ford,5
+142,6,Jimmy Carter,7
+142,7,Lyndon B. Johnson,6
+142,8,Richard Nixon,1
+142,9,Ronald Reagan,3
+143,3,George H. W. Bush,2
+143,4,George W. Bush,1
+144,1,Barack Obama,1
+144,2,Bill Clinton,2
+144,3,George H. W. Bush,6
+144,4,George W. Bush,9
+144,5,Gerald Ford,5
+144,6,Jimmy Carter,4
+144,7,Lyndon B. Johnson,3
+144,8,Richard Nixon,7
+144,9,Ronald Reagan,8
+145,1,Barack Obama,5
+145,2,Bill Clinton,1
+145,3,George H. W. Bush,4
+145,4,George W. Bush,6
+145,5,Gerald Ford,8
+145,6,Jimmy Carter,7
+145,7,Lyndon B. Johnson,2
+145,8,Richard Nixon,9
+145,9,Ronald Reagan,3

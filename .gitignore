@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+*.asv
+*~
+__pycache__/
+.venv/
+scripts/__pycache__/
+*.pyc
+local/
+datasets/working-memory-recognition/stark-mst/

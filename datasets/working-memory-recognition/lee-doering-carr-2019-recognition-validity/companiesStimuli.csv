@@ -1,0 +1,101 @@
+item,name,criterion
+1,Apple,741.8
+2,Google,367.6
+3,Exxon Mobil,357.1
+4,Berkshire Hathaway,354.8
+5,Microsoft,340.8
+6,PetroChina,334.6
+7,ICBC,278.3
+8,Wells Fargo,278.3
+9,Johnson & Johnson,275.7
+10,Novartis,272.6
+11,China Mobile,271.5
+12,Wal-Mart,261.3
+13,General Electric,253.5
+14,Nestle,247.3
+15,Roche Holding,240.4
+16,Toyota Motor,239.0
+17,Facebook,231.6
+18,JPMorgan Chase,225.5
+19,Procter & Gamble,224.3
+20,China Construction Bank,212.9
+21,Pfizer,211.7
+22,Anheuser-Busch InBev,204.6
+23,Verizon Communications,202.5
+24,Alibaba,210.7
+25,Chevron,201.0
+26,Samsung Electronics,199.4
+27,Bank of China,199.1
+28,Royal Dutch Shell,195.4
+29,Agricultural Bank of China,189.9
+30,Oracle,187.6
+31,Tencent Holding,181.1
+32,Coca-Cola,179.9
+33,Walt Disney,179.5
+34,Amazon.com,175.1
+35,AT&T,173.0
+36,HSBC Holdings,167.7
+37,Bank of America,163.2
+38,Merck & Co,162.3
+39,China Life Insurance,160.5
+40,IBM,160.2
+41,Visa,160.1
+42,Citigroup,156.7
+43,Home Depot,149.2
+44,Comcast,147.8
+45,Intel,147.2
+46,Novo Nordisk,147.0
+47,Gilead Sciences,145.0
+48,PepsiCo,143.0
+49,Cisco Systems,139.0
+50,Sanofi,136.0
+51,Unilever,129.1
+52,Bayer,126.4
+53,Volkswagen Group,126.0
+54,Taiwan Semiconductor,123.3
+55,Philip Morris International,121.1
+56,Sinopec,121.0
+57,BP,120.8
+58,Total,120.2
+59,BHP Billiton,119.5
+60,Amgen,117.7
+61,CVS Health,117.4
+62,Commonwealth Bank,117.1
+63,Actavis,116.7
+64,GlaxoSmithKline,114.1
+65,Ping An Insurance Group,113.8
+66,UnitedHealth Group,112.0
+67,Qualcomm,111.8
+68,Medtronic,110.2
+69,Schlumberger,109.8
+70,Banco Santander,109.4
+71,United Technologies,107.1
+72,LOreal Group,106.6
+73,Boeing,105.6
+74,3M,105.1
+75,Bristol-Myers Squibb,105.0
+76,Inditex,103.4
+77,Daimler,103.3
+78,Altria Group,101.4
+79,MasterCard,100.9
+80,British American Tobacco,99.6
+81,Siemens,97.7
+82,Niogens Idec,97.0
+83,Walgreens Boots Alliance,95.9
+84,Westpac Banking Group,94.2
+85,BASF,93.5
+86,Union Pacific,93.5
+87,McDonalds,92.5
+88,AbbVie,91.7
+89,Mitsubishi UFJ Financial,90.9
+90,Celgene,90.4
+91,Kinder Morgan,90.4
+92,SAP,90.2
+93,Royal Bank of Canada,89.3
+94,Vodafone,88.0
+95,AstraZeneca,87.7
+96,United Parcel Service,87.4
+97,SABMiller,87.3
+98,Goldman Sachs Group,86.5
+99,NIKE,86.2
+100,Deutsche Telekom,85.0

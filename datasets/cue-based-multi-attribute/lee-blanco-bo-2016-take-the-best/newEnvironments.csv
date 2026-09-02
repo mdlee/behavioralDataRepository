@@ -1,0 +1,1716 @@
+environment,item,criterion,cue,cueValue
+Bridges,Danyang-Kunshan Grand Bridge,540700.0,Toll,0
+Bridges,Danyang-Kunshan Grand Bridge,540700.0,Capital,0
+Bridges,Danyang-Kunshan Grand Bridge,540700.0,Guinness,1
+Bridges,Danyang-Kunshan Grand Bridge,540700.0,Long,1
+Bridges,Danyang-Kunshan Grand Bridge,540700.0,Viaduct,1
+Bridges,Danyang-Kunshan Grand Bridge,540700.0,Box-Girder,1
+Bridges,Danyang-Kunshan Grand Bridge,540700.0,Cable-Stayed,1
+Bridges,Danyang-Kunshan Grand Bridge,540700.0,Suspension,1
+Bridges,Danyang-Kunshan Grand Bridge,540700.0,Steel,1
+Bridges,Danyang-Kunshan Grand Bridge,540700.0,Concrete,1
+Bridges,Danyang-Kunshan Grand Bridge,540700.0,Rail,1
+Bridges,Danyang-Kunshan Grand Bridge,540700.0,Car,1
+Bridges,Tianjin Grand Bridge,373000.0,Toll,0
+Bridges,Tianjin Grand Bridge,373000.0,Capital,0
+Bridges,Tianjin Grand Bridge,373000.0,Guinness,1
+Bridges,Tianjin Grand Bridge,373000.0,Long,0
+Bridges,Tianjin Grand Bridge,373000.0,Viaduct,1
+Bridges,Tianjin Grand Bridge,373000.0,Box-Girder,1
+Bridges,Tianjin Grand Bridge,373000.0,Cable-Stayed,1
+Bridges,Tianjin Grand Bridge,373000.0,Suspension,1
+Bridges,Tianjin Grand Bridge,373000.0,Steel,1
+Bridges,Tianjin Grand Bridge,373000.0,Concrete,1
+Bridges,Tianjin Grand Bridge,373000.0,Rail,1
+Bridges,Tianjin Grand Bridge,373000.0,Car,1
+Bridges,Weinan Weihe Grand Bridge,261588.0,Toll,0
+Bridges,Weinan Weihe Grand Bridge,261588.0,Capital,0
+Bridges,Weinan Weihe Grand Bridge,261588.0,Guinness,0
+Bridges,Weinan Weihe Grand Bridge,261588.0,Long,0
+Bridges,Weinan Weihe Grand Bridge,261588.0,Viaduct,1
+Bridges,Weinan Weihe Grand Bridge,261588.0,Box-Girder,1
+Bridges,Weinan Weihe Grand Bridge,261588.0,Cable-Stayed,1
+Bridges,Weinan Weihe Grand Bridge,261588.0,Suspension,1
+Bridges,Weinan Weihe Grand Bridge,261588.0,Steel,0
+Bridges,Weinan Weihe Grand Bridge,261588.0,Concrete,1
+Bridges,Weinan Weihe Grand Bridge,261588.0,Rail,1
+Bridges,Weinan Weihe Grand Bridge,261588.0,Car,1
+Bridges,Bang Na Expressway,177000.0,Toll,1
+Bridges,Bang Na Expressway,177000.0,Capital,0
+Bridges,Bang Na Expressway,177000.0,Guinness,1
+Bridges,Bang Na Expressway,177000.0,Long,1
+Bridges,Bang Na Expressway,177000.0,Viaduct,1
+Bridges,Bang Na Expressway,177000.0,Box-Girder,0
+Bridges,Bang Na Expressway,177000.0,Cable-Stayed,1
+Bridges,Bang Na Expressway,177000.0,Suspension,1
+Bridges,Bang Na Expressway,177000.0,Steel,0
+Bridges,Bang Na Expressway,177000.0,Concrete,1
+Bridges,Bang Na Expressway,177000.0,Rail,0
+Bridges,Bang Na Expressway,177000.0,Car,0
+Bridges,Beijing Grand Bridge,157982.0,Toll,0
+Bridges,Beijing Grand Bridge,157982.0,Capital,1
+Bridges,Beijing Grand Bridge,157982.0,Guinness,0
+Bridges,Beijing Grand Bridge,157982.0,Long,0
+Bridges,Beijing Grand Bridge,157982.0,Viaduct,1
+Bridges,Beijing Grand Bridge,157982.0,Box-Girder,1
+Bridges,Beijing Grand Bridge,157982.0,Cable-Stayed,1
+Bridges,Beijing Grand Bridge,157982.0,Suspension,1
+Bridges,Beijing Grand Bridge,157982.0,Steel,1
+Bridges,Beijing Grand Bridge,157982.0,Concrete,1
+Bridges,Beijing Grand Bridge,157982.0,Rail,1
+Bridges,Beijing Grand Bridge,157982.0,Car,1
+Bridges,Lake Pontchartrain Causeway,126122.0,Toll,1
+Bridges,Lake Pontchartrain Causeway,126122.0,Capital,0
+Bridges,Lake Pontchartrain Causeway,126122.0,Guinness,1
+Bridges,Lake Pontchartrain Causeway,126122.0,Long,1
+Bridges,Lake Pontchartrain Causeway,126122.0,Viaduct,1
+Bridges,Lake Pontchartrain Causeway,126122.0,Box-Girder,1
+Bridges,Lake Pontchartrain Causeway,126122.0,Cable-Stayed,1
+Bridges,Lake Pontchartrain Causeway,126122.0,Suspension,1
+Bridges,Lake Pontchartrain Causeway,126122.0,Steel,0
+Bridges,Lake Pontchartrain Causeway,126122.0,Concrete,1
+Bridges,Lake Pontchartrain Causeway,126122.0,Rail,0
+Bridges,Lake Pontchartrain Causeway,126122.0,Car,0
+Bridges,Manchac Swamp Bridge,120440.0,Toll,0
+Bridges,Manchac Swamp Bridge,120440.0,Capital,0
+Bridges,Manchac Swamp Bridge,120440.0,Guinness,0
+Bridges,Manchac Swamp Bridge,120440.0,Long,0
+Bridges,Manchac Swamp Bridge,120440.0,Viaduct,0
+Bridges,Manchac Swamp Bridge,120440.0,Box-Girder,1
+Bridges,Manchac Swamp Bridge,120440.0,Cable-Stayed,1
+Bridges,Manchac Swamp Bridge,120440.0,Suspension,1
+Bridges,Manchac Swamp Bridge,120440.0,Steel,0
+Bridges,Manchac Swamp Bridge,120440.0,Concrete,1
+Bridges,Manchac Swamp Bridge,120440.0,Rail,0
+Bridges,Manchac Swamp Bridge,120440.0,Car,0
+Bridges,Hangzhou Bay Bridge,117037.0,Toll,1
+Bridges,Hangzhou Bay Bridge,117037.0,Capital,0
+Bridges,Hangzhou Bay Bridge,117037.0,Guinness,0
+Bridges,Hangzhou Bay Bridge,117037.0,Long,0
+Bridges,Hangzhou Bay Bridge,117037.0,Viaduct,0
+Bridges,Hangzhou Bay Bridge,117037.0,Box-Girder,1
+Bridges,Hangzhou Bay Bridge,117037.0,Cable-Stayed,0
+Bridges,Hangzhou Bay Bridge,117037.0,Suspension,1
+Bridges,Hangzhou Bay Bridge,117037.0,Steel,1
+Bridges,Hangzhou Bay Bridge,117037.0,Concrete,0
+Bridges,Hangzhou Bay Bridge,117037.0,Rail,0
+Bridges,Hangzhou Bay Bridge,117037.0,Car,0
+Bridges,Runyang Bridge,116990.0,Toll,0
+Bridges,Runyang Bridge,116990.0,Capital,0
+Bridges,Runyang Bridge,116990.0,Guinness,0
+Bridges,Runyang Bridge,116990.0,Long,0
+Bridges,Runyang Bridge,116990.0,Viaduct,0
+Bridges,Runyang Bridge,116990.0,Box-Girder,1
+Bridges,Runyang Bridge,116990.0,Cable-Stayed,0
+Bridges,Runyang Bridge,116990.0,Suspension,0
+Bridges,Runyang Bridge,116990.0,Steel,1
+Bridges,Runyang Bridge,116990.0,Concrete,0
+Bridges,Runyang Bridge,116990.0,Rail,0
+Bridges,Runyang Bridge,116990.0,Car,0
+Bridges,Donghai Bridge,106600.0,Toll,0
+Bridges,Donghai Bridge,106600.0,Capital,0
+Bridges,Donghai Bridge,106600.0,Guinness,0
+Bridges,Donghai Bridge,106600.0,Long,0
+Bridges,Donghai Bridge,106600.0,Viaduct,1
+Bridges,Donghai Bridge,106600.0,Box-Girder,1
+Bridges,Donghai Bridge,106600.0,Cable-Stayed,0
+Bridges,Donghai Bridge,106600.0,Suspension,1
+Bridges,Donghai Bridge,106600.0,Steel,1
+Bridges,Donghai Bridge,106600.0,Concrete,1
+Bridges,Donghai Bridge,106600.0,Rail,0
+Bridges,Donghai Bridge,106600.0,Car,0
+Bridges,Atchafalaya Basin Bridge,96100.0,Toll,0
+Bridges,Atchafalaya Basin Bridge,96100.0,Capital,0
+Bridges,Atchafalaya Basin Bridge,96100.0,Guinness,0
+Bridges,Atchafalaya Basin Bridge,96100.0,Long,0
+Bridges,Atchafalaya Basin Bridge,96100.0,Viaduct,0
+Bridges,Atchafalaya Basin Bridge,96100.0,Box-Girder,1
+Bridges,Atchafalaya Basin Bridge,96100.0,Cable-Stayed,1
+Bridges,Atchafalaya Basin Bridge,96100.0,Suspension,1
+Bridges,Atchafalaya Basin Bridge,96100.0,Steel,1
+Bridges,Atchafalaya Basin Bridge,96100.0,Concrete,0
+Bridges,Atchafalaya Basin Bridge,96100.0,Rail,0
+Bridges,Atchafalaya Basin Bridge,96100.0,Car,0
+Bridges,Louisiana Highway 1 Bridge,95000.0,Toll,1
+Bridges,Louisiana Highway 1 Bridge,95000.0,Capital,0
+Bridges,Louisiana Highway 1 Bridge,95000.0,Guinness,0
+Bridges,Louisiana Highway 1 Bridge,95000.0,Long,0
+Bridges,Louisiana Highway 1 Bridge,95000.0,Viaduct,0
+Bridges,Louisiana Highway 1 Bridge,95000.0,Box-Girder,1
+Bridges,Louisiana Highway 1 Bridge,95000.0,Cable-Stayed,1
+Bridges,Louisiana Highway 1 Bridge,95000.0,Suspension,1
+Bridges,Louisiana Highway 1 Bridge,95000.0,Steel,0
+Bridges,Louisiana Highway 1 Bridge,95000.0,Concrete,1
+Bridges,Louisiana Highway 1 Bridge,95000.0,Rail,0
+Bridges,Louisiana Highway 1 Bridge,95000.0,Car,0
+Bridges,Jiaozhou Bay Bridge,87621.0,Toll,1
+Bridges,Jiaozhou Bay Bridge,87621.0,Capital,0
+Bridges,Jiaozhou Bay Bridge,87621.0,Guinness,1
+Bridges,Jiaozhou Bay Bridge,87621.0,Long,0
+Bridges,Jiaozhou Bay Bridge,87621.0,Viaduct,0
+Bridges,Jiaozhou Bay Bridge,87621.0,Box-Girder,1
+Bridges,Jiaozhou Bay Bridge,87621.0,Cable-Stayed,0
+Bridges,Jiaozhou Bay Bridge,87621.0,Suspension,0
+Bridges,Jiaozhou Bay Bridge,87621.0,Steel,1
+Bridges,Jiaozhou Bay Bridge,87621.0,Concrete,1
+Bridges,Jiaozhou Bay Bridge,87621.0,Rail,0
+Bridges,Jiaozhou Bay Bridge,87621.0,Car,0
+Bridges,Jintang Bridge,87070.0,Toll,0
+Bridges,Jintang Bridge,87070.0,Capital,0
+Bridges,Jintang Bridge,87070.0,Guinness,0
+Bridges,Jintang Bridge,87070.0,Long,0
+Bridges,Jintang Bridge,87070.0,Viaduct,0
+Bridges,Jintang Bridge,87070.0,Box-Girder,1
+Bridges,Jintang Bridge,87070.0,Cable-Stayed,0
+Bridges,Jintang Bridge,87070.0,Suspension,1
+Bridges,Jintang Bridge,87070.0,Steel,1
+Bridges,Jintang Bridge,87070.0,Concrete,1
+Bridges,Jintang Bridge,87070.0,Rail,0
+Bridges,Jintang Bridge,87070.0,Car,0
+Bridges,King Fahd Causeway Bridge 1,82000.0,Toll,0
+Bridges,King Fahd Causeway Bridge 1,82000.0,Capital,0
+Bridges,King Fahd Causeway Bridge 1,82000.0,Guinness,0
+Bridges,King Fahd Causeway Bridge 1,82000.0,Long,1
+Bridges,King Fahd Causeway Bridge 1,82000.0,Viaduct,0
+Bridges,King Fahd Causeway Bridge 1,82000.0,Box-Girder,1
+Bridges,King Fahd Causeway Bridge 1,82000.0,Cable-Stayed,1
+Bridges,King Fahd Causeway Bridge 1,82000.0,Suspension,1
+Bridges,King Fahd Causeway Bridge 1,82000.0,Steel,0
+Bridges,King Fahd Causeway Bridge 1,82000.0,Concrete,1
+Bridges,King Fahd Causeway Bridge 1,82000.0,Rail,0
+Bridges,King Fahd Causeway Bridge 1,82000.0,Car,0
+Bridges,Chesapeake Bay Bridge-Tunnel,79200.0,Toll,1
+Bridges,Chesapeake Bay Bridge-Tunnel,79200.0,Capital,0
+Bridges,Chesapeake Bay Bridge-Tunnel,79200.0,Guinness,0
+Bridges,Chesapeake Bay Bridge-Tunnel,79200.0,Long,1
+Bridges,Chesapeake Bay Bridge-Tunnel,79200.0,Viaduct,0
+Bridges,Chesapeake Bay Bridge-Tunnel,79200.0,Box-Girder,1
+Bridges,Chesapeake Bay Bridge-Tunnel,79200.0,Cable-Stayed,1
+Bridges,Chesapeake Bay Bridge-Tunnel,79200.0,Suspension,1
+Bridges,Chesapeake Bay Bridge-Tunnel,79200.0,Steel,1
+Bridges,Chesapeake Bay Bridge-Tunnel,79200.0,Concrete,0
+Bridges,Chesapeake Bay Bridge-Tunnel,79200.0,Rail,0
+Bridges,Chesapeake Bay Bridge-Tunnel,79200.0,Car,0
+Bridges,Sultan Abdul Halim Muadzam Shah Bridge,79000.0,Toll,1
+Bridges,Sultan Abdul Halim Muadzam Shah Bridge,79000.0,Capital,0
+Bridges,Sultan Abdul Halim Muadzam Shah Bridge,79000.0,Guinness,0
+Bridges,Sultan Abdul Halim Muadzam Shah Bridge,79000.0,Long,1
+Bridges,Sultan Abdul Halim Muadzam Shah Bridge,79000.0,Viaduct,0
+Bridges,Sultan Abdul Halim Muadzam Shah Bridge,79000.0,Box-Girder,1
+Bridges,Sultan Abdul Halim Muadzam Shah Bridge,79000.0,Cable-Stayed,0
+Bridges,Sultan Abdul Halim Muadzam Shah Bridge,79000.0,Suspension,1
+Bridges,Sultan Abdul Halim Muadzam Shah Bridge,79000.0,Steel,1
+Bridges,Sultan Abdul Halim Muadzam Shah Bridge,79000.0,Concrete,0
+Bridges,Sultan Abdul Halim Muadzam Shah Bridge,79000.0,Rail,0
+Bridges,Sultan Abdul Halim Muadzam Shah Bridge,79000.0,Car,0
+Bridges,6th October Bridge,67300.0,Toll,0
+Bridges,6th October Bridge,67300.0,Capital,1
+Bridges,6th October Bridge,67300.0,Guinness,0
+Bridges,6th October Bridge,67300.0,Long,1
+Bridges,6th October Bridge,67300.0,Viaduct,1
+Bridges,6th October Bridge,67300.0,Box-Girder,1
+Bridges,6th October Bridge,67300.0,Cable-Stayed,0
+Bridges,6th October Bridge,67300.0,Suspension,1
+Bridges,6th October Bridge,67300.0,Steel,1
+Bridges,6th October Bridge,67300.0,Concrete,1
+Bridges,6th October Bridge,67300.0,Rail,0
+Bridges,6th October Bridge,67300.0,Car,0
+Bridges,C215 Viaduct,66000.0,Toll,0
+Bridges,C215 Viaduct,66000.0,Capital,1
+Bridges,C215 Viaduct,66000.0,Guinness,0
+Bridges,C215 Viaduct,66000.0,Long,1
+Bridges,C215 Viaduct,66000.0,Viaduct,1
+Bridges,C215 Viaduct,66000.0,Box-Girder,0
+Bridges,C215 Viaduct,66000.0,Cable-Stayed,1
+Bridges,C215 Viaduct,66000.0,Suspension,1
+Bridges,C215 Viaduct,66000.0,Steel,1
+Bridges,C215 Viaduct,66000.0,Concrete,1
+Bridges,C215 Viaduct,66000.0,Rail,1
+Bridges,C215 Viaduct,66000.0,Car,1
+Bridges,Incheon Bridge,60315.0,Toll,1
+Bridges,Incheon Bridge,60315.0,Capital,0
+Bridges,Incheon Bridge,60315.0,Guinness,0
+Bridges,Incheon Bridge,60315.0,Long,1
+Bridges,Incheon Bridge,60315.0,Viaduct,0
+Bridges,Incheon Bridge,60315.0,Box-Girder,1
+Bridges,Incheon Bridge,60315.0,Cable-Stayed,0
+Bridges,Incheon Bridge,60315.0,Suspension,1
+Bridges,Incheon Bridge,60315.0,Steel,1
+Bridges,Incheon Bridge,60315.0,Concrete,1
+Bridges,Incheon Bridge,60315.0,Rail,0
+Bridges,Incheon Bridge,60315.0,Car,0
+Bridges,Bonnet Carre Spillway Bridge of I-10,58077.0,Toll,0
+Bridges,Bonnet Carre Spillway Bridge of I-10,58077.0,Capital,0
+Bridges,Bonnet Carre Spillway Bridge of I-10,58077.0,Guinness,0
+Bridges,Bonnet Carre Spillway Bridge of I-10,58077.0,Long,0
+Bridges,Bonnet Carre Spillway Bridge of I-10,58077.0,Viaduct,0
+Bridges,Bonnet Carre Spillway Bridge of I-10,58077.0,Box-Girder,1
+Bridges,Bonnet Carre Spillway Bridge of I-10,58077.0,Cable-Stayed,1
+Bridges,Bonnet Carre Spillway Bridge of I-10,58077.0,Suspension,1
+Bridges,Bonnet Carre Spillway Bridge of I-10,58077.0,Steel,0
+Bridges,Bonnet Carre Spillway Bridge of I-10,58077.0,Concrete,1
+Bridges,Bonnet Carre Spillway Bridge of I-10,58077.0,Rail,0
+Bridges,Bonnet Carre Spillway Bridge of I-10,58077.0,Car,0
+Bridges,Vasco de Gama Bridge,56381.0,Toll,1
+Bridges,Vasco de Gama Bridge,56381.0,Capital,1
+Bridges,Vasco de Gama Bridge,56381.0,Guinness,0
+Bridges,Vasco de Gama Bridge,56381.0,Long,1
+Bridges,Vasco de Gama Bridge,56381.0,Viaduct,0
+Bridges,Vasco de Gama Bridge,56381.0,Box-Girder,1
+Bridges,Vasco de Gama Bridge,56381.0,Cable-Stayed,0
+Bridges,Vasco de Gama Bridge,56381.0,Suspension,1
+Bridges,Vasco de Gama Bridge,56381.0,Steel,0
+Bridges,Vasco de Gama Bridge,56381.0,Concrete,1
+Bridges,Vasco de Gama Bridge,56381.0,Rail,0
+Bridges,Vasco de Gama Bridge,56381.0,Car,0
+Bridges,Kama Bridge,45823.0,Toll,0
+Bridges,Kama Bridge,45823.0,Capital,0
+Bridges,Kama Bridge,45823.0,Guinness,0
+Bridges,Kama Bridge,45823.0,Long,1
+Bridges,Kama Bridge,45823.0,Viaduct,0
+Bridges,Kama Bridge,45823.0,Box-Girder,1
+Bridges,Kama Bridge,45823.0,Cable-Stayed,1
+Bridges,Kama Bridge,45823.0,Suspension,1
+Bridges,Kama Bridge,45823.0,Steel,1
+Bridges,Kama Bridge,45823.0,Concrete,1
+Bridges,Kama Bridge,45823.0,Rail,0
+Bridges,Kama Bridge,45823.0,Car,0
+Bridges,Penang Bridge,44300.0,Toll,1
+Bridges,Penang Bridge,44300.0,Capital,0
+Bridges,Penang Bridge,44300.0,Guinness,0
+Bridges,Penang Bridge,44300.0,Long,0
+Bridges,Penang Bridge,44300.0,Viaduct,0
+Bridges,Penang Bridge,44300.0,Box-Girder,1
+Bridges,Penang Bridge,44300.0,Cable-Stayed,0
+Bridges,Penang Bridge,44300.0,Suspension,1
+Bridges,Penang Bridge,44300.0,Steel,1
+Bridges,Penang Bridge,44300.0,Concrete,0
+Bridges,Penang Bridge,44300.0,Rail,0
+Bridges,Penang Bridge,44300.0,Car,0
+Bridges,Rio-Niteroi Bridge,43600.0,Toll,0
+Bridges,Rio-Niteroi Bridge,43600.0,Capital,0
+Bridges,Rio-Niteroi Bridge,43600.0,Guinness,0
+Bridges,Rio-Niteroi Bridge,43600.0,Long,1
+Bridges,Rio-Niteroi Bridge,43600.0,Viaduct,0
+Bridges,Rio-Niteroi Bridge,43600.0,Box-Girder,0
+Bridges,Rio-Niteroi Bridge,43600.0,Cable-Stayed,1
+Bridges,Rio-Niteroi Bridge,43600.0,Suspension,1
+Bridges,Rio-Niteroi Bridge,43600.0,Steel,1
+Bridges,Rio-Niteroi Bridge,43600.0,Concrete,1
+Bridges,Rio-Niteroi Bridge,43600.0,Rail,0
+Bridges,Rio-Niteroi Bridge,43600.0,Car,0
+Bridges,Bhumibol Bridge,43000.0,Toll,0
+Bridges,Bhumibol Bridge,43000.0,Capital,1
+Bridges,Bhumibol Bridge,43000.0,Guinness,0
+Bridges,Bhumibol Bridge,43000.0,Long,0
+Bridges,Bhumibol Bridge,43000.0,Viaduct,0
+Bridges,Bhumibol Bridge,43000.0,Box-Girder,1
+Bridges,Bhumibol Bridge,43000.0,Cable-Stayed,0
+Bridges,Bhumibol Bridge,43000.0,Suspension,1
+Bridges,Bhumibol Bridge,43000.0,Steel,1
+Bridges,Bhumibol Bridge,43000.0,Concrete,1
+Bridges,Bhumibol Bridge,43000.0,Rail,0
+Bridges,Bhumibol Bridge,43000.0,Car,0
+Bridges,President Bridge,42590.0,Toll,0
+Bridges,President Bridge,42590.0,Capital,0
+Bridges,President Bridge,42590.0,Guinness,0
+Bridges,President Bridge,42590.0,Long,0
+Bridges,President Bridge,42590.0,Viaduct,0
+Bridges,President Bridge,42590.0,Box-Girder,1
+Bridges,President Bridge,42590.0,Cable-Stayed,1
+Bridges,President Bridge,42590.0,Suspension,1
+Bridges,President Bridge,42590.0,Steel,1
+Bridges,President Bridge,42590.0,Concrete,1
+Bridges,President Bridge,42590.0,Rail,1
+Bridges,President Bridge,42590.0,Car,0
+Bridges,Confederation Bridge,42300.0,Toll,1
+Bridges,Confederation Bridge,42300.0,Capital,0
+Bridges,Confederation Bridge,42300.0,Guinness,0
+Bridges,Confederation Bridge,42300.0,Long,1
+Bridges,Confederation Bridge,42300.0,Viaduct,0
+Bridges,Confederation Bridge,42300.0,Box-Girder,0
+Bridges,Confederation Bridge,42300.0,Cable-Stayed,1
+Bridges,Confederation Bridge,42300.0,Suspension,1
+Bridges,Confederation Bridge,42300.0,Steel,0
+Bridges,Confederation Bridge,42300.0,Concrete,1
+Bridges,Confederation Bridge,42300.0,Rail,0
+Bridges,Confederation Bridge,42300.0,Car,0
+Bridges,Jubilee Parkway,42421.0,Toll,0
+Bridges,Jubilee Parkway,42421.0,Capital,0
+Bridges,Jubilee Parkway,42421.0,Guinness,0
+Bridges,Jubilee Parkway,42421.0,Long,0
+Bridges,Jubilee Parkway,42421.0,Viaduct,1
+Bridges,Jubilee Parkway,42421.0,Box-Girder,1
+Bridges,Jubilee Parkway,42421.0,Cable-Stayed,1
+Bridges,Jubilee Parkway,42421.0,Suspension,1
+Bridges,Jubilee Parkway,42421.0,Steel,0
+Bridges,Jubilee Parkway,42421.0,Concrete,1
+Bridges,Jubilee Parkway,42421.0,Rail,0
+Bridges,Jubilee Parkway,42421.0,Car,0
+Bridges,Novyi Saratovskiy Bridge,41860.0,Toll,0
+Bridges,Novyi Saratovskiy Bridge,41860.0,Capital,0
+Bridges,Novyi Saratovskiy Bridge,41860.0,Guinness,0
+Bridges,Novyi Saratovskiy Bridge,41860.0,Long,0
+Bridges,Novyi Saratovskiy Bridge,41860.0,Viaduct,0
+Bridges,Novyi Saratovskiy Bridge,41860.0,Box-Girder,0
+Bridges,Novyi Saratovskiy Bridge,41860.0,Cable-Stayed,1
+Bridges,Novyi Saratovskiy Bridge,41860.0,Suspension,1
+Bridges,Novyi Saratovskiy Bridge,41860.0,Steel,1
+Bridges,Novyi Saratovskiy Bridge,41860.0,Concrete,1
+Bridges,Novyi Saratovskiy Bridge,41860.0,Rail,0
+Bridges,Novyi Saratovskiy Bridge,41860.0,Car,0
+Bridges,Bali Mandara Toll Road,41700.0,Toll,1
+Bridges,Bali Mandara Toll Road,41700.0,Capital,0
+Bridges,Bali Mandara Toll Road,41700.0,Guinness,0
+Bridges,Bali Mandara Toll Road,41700.0,Long,0
+Bridges,Bali Mandara Toll Road,41700.0,Viaduct,0
+Bridges,Bali Mandara Toll Road,41700.0,Box-Girder,1
+Bridges,Bali Mandara Toll Road,41700.0,Cable-Stayed,1
+Bridges,Bali Mandara Toll Road,41700.0,Suspension,1
+Bridges,Bali Mandara Toll Road,41700.0,Steel,0
+Bridges,Bali Mandara Toll Road,41700.0,Concrete,1
+Bridges,Bali Mandara Toll Road,41700.0,Rail,0
+Bridges,Bali Mandara Toll Road,41700.0,Car,0
+Bridges,Leziria Bridge,38290.0,Toll,1
+Bridges,Leziria Bridge,38290.0,Capital,1
+Bridges,Leziria Bridge,38290.0,Guinness,0
+Bridges,Leziria Bridge,38290.0,Long,0
+Bridges,Leziria Bridge,38290.0,Viaduct,0
+Bridges,Leziria Bridge,38290.0,Box-Girder,0
+Bridges,Leziria Bridge,38290.0,Cable-Stayed,1
+Bridges,Leziria Bridge,38290.0,Suspension,1
+Bridges,Leziria Bridge,38290.0,Steel,0
+Bridges,Leziria Bridge,38290.0,Concrete,1
+Bridges,Leziria Bridge,38290.0,Rail,0
+Bridges,Leziria Bridge,38290.0,Car,0
+Bridges,San Mateo-Hayward Bridge,36959.0,Toll,1
+Bridges,San Mateo-Hayward Bridge,36959.0,Capital,0
+Bridges,San Mateo-Hayward Bridge,36959.0,Guinness,0
+Bridges,San Mateo-Hayward Bridge,36959.0,Long,0
+Bridges,San Mateo-Hayward Bridge,36959.0,Viaduct,0
+Bridges,San Mateo-Hayward Bridge,36959.0,Box-Girder,0
+Bridges,San Mateo-Hayward Bridge,36959.0,Cable-Stayed,1
+Bridges,San Mateo-Hayward Bridge,36959.0,Suspension,1
+Bridges,San Mateo-Hayward Bridge,36959.0,Steel,0
+Bridges,San Mateo-Hayward Bridge,36959.0,Concrete,1
+Bridges,San Mateo-Hayward Bridge,36959.0,Rail,0
+Bridges,San Mateo-Hayward Bridge,36959.0,Car,0
+Bridges,Third Orinoco Crossing (Mercosur Bridge),36400.0,Toll,1
+Bridges,Third Orinoco Crossing (Mercosur Bridge),36400.0,Capital,0
+Bridges,Third Orinoco Crossing (Mercosur Bridge),36400.0,Guinness,0
+Bridges,Third Orinoco Crossing (Mercosur Bridge),36400.0,Long,1
+Bridges,Third Orinoco Crossing (Mercosur Bridge),36400.0,Viaduct,0
+Bridges,Third Orinoco Crossing (Mercosur Bridge),36400.0,Box-Girder,1
+Bridges,Third Orinoco Crossing (Mercosur Bridge),36400.0,Cable-Stayed,0
+Bridges,Third Orinoco Crossing (Mercosur Bridge),36400.0,Suspension,1
+Bridges,Third Orinoco Crossing (Mercosur Bridge),36400.0,Steel,1
+Bridges,Third Orinoco Crossing (Mercosur Bridge),36400.0,Concrete,0
+Bridges,Third Orinoco Crossing (Mercosur Bridge),36400.0,Rail,1
+Bridges,Third Orinoco Crossing (Mercosur Bridge),36400.0,Car,0
+Bridges,Seven Mile Bridge,35719.0,Toll,0
+Bridges,Seven Mile Bridge,35719.0,Capital,0
+Bridges,Seven Mile Bridge,35719.0,Guinness,0
+Bridges,Seven Mile Bridge,35719.0,Long,0
+Bridges,Seven Mile Bridge,35719.0,Viaduct,0
+Bridges,Seven Mile Bridge,35719.0,Box-Girder,0
+Bridges,Seven Mile Bridge,35719.0,Cable-Stayed,1
+Bridges,Seven Mile Bridge,35719.0,Suspension,1
+Bridges,Seven Mile Bridge,35719.0,Steel,0
+Bridges,Seven Mile Bridge,35719.0,Concrete,1
+Bridges,Seven Mile Bridge,35719.0,Rail,0
+Bridges,Seven Mile Bridge,35719.0,Car,0
+Bridges,Third Mainland Bridge,34400.0,Toll,0
+Bridges,Third Mainland Bridge,34400.0,Capital,0
+Bridges,Third Mainland Bridge,34400.0,Guinness,0
+Bridges,Third Mainland Bridge,34400.0,Long,1
+Bridges,Third Mainland Bridge,34400.0,Viaduct,0
+Bridges,Third Mainland Bridge,34400.0,Box-Girder,0
+Bridges,Third Mainland Bridge,34400.0,Cable-Stayed,1
+Bridges,Third Mainland Bridge,34400.0,Suspension,1
+Bridges,Third Mainland Bridge,34400.0,Steel,0
+Bridges,Third Mainland Bridge,34400.0,Concrete,1
+Bridges,Third Mainland Bridge,34400.0,Rail,0
+Bridges,Third Mainland Bridge,34400.0,Car,0
+Bridges,Wuhu Yangtze River Bridge,32870.0,Toll,0
+Bridges,Wuhu Yangtze River Bridge,32870.0,Capital,0
+Bridges,Wuhu Yangtze River Bridge,32870.0,Guinness,0
+Bridges,Wuhu Yangtze River Bridge,32870.0,Long,0
+Bridges,Wuhu Yangtze River Bridge,32870.0,Viaduct,0
+Bridges,Wuhu Yangtze River Bridge,32870.0,Box-Girder,1
+Bridges,Wuhu Yangtze River Bridge,32870.0,Cable-Stayed,0
+Bridges,Wuhu Yangtze River Bridge,32870.0,Suspension,1
+Bridges,Wuhu Yangtze River Bridge,32870.0,Steel,1
+Bridges,Wuhu Yangtze River Bridge,32870.0,Concrete,0
+Bridges,Wuhu Yangtze River Bridge,32870.0,Rail,1
+Bridges,Wuhu Yangtze River Bridge,32870.0,Car,0
+Bridges,Shanghai Yangtze River Bridge,32710.0,Toll,0
+Bridges,Shanghai Yangtze River Bridge,32710.0,Capital,0
+Bridges,Shanghai Yangtze River Bridge,32710.0,Guinness,0
+Bridges,Shanghai Yangtze River Bridge,32710.0,Long,0
+Bridges,Shanghai Yangtze River Bridge,32710.0,Viaduct,0
+Bridges,Shanghai Yangtze River Bridge,32710.0,Box-Girder,0
+Bridges,Shanghai Yangtze River Bridge,32710.0,Cable-Stayed,0
+Bridges,Shanghai Yangtze River Bridge,32710.0,Suspension,1
+Bridges,Shanghai Yangtze River Bridge,32710.0,Steel,1
+Bridges,Shanghai Yangtze River Bridge,32710.0,Concrete,1
+Bridges,Shanghai Yangtze River Bridge,32710.0,Rail,1
+Bridges,Shanghai Yangtze River Bridge,32710.0,Car,0
+Bridges,General W.K. Wilson Jr. Bridge,32106.0,Toll,0
+Bridges,General W.K. Wilson Jr. Bridge,32106.0,Capital,0
+Bridges,General W.K. Wilson Jr. Bridge,32106.0,Guinness,0
+Bridges,General W.K. Wilson Jr. Bridge,32106.0,Long,0
+Bridges,General W.K. Wilson Jr. Bridge,32106.0,Viaduct,1
+Bridges,General W.K. Wilson Jr. Bridge,32106.0,Box-Girder,1
+Bridges,General W.K. Wilson Jr. Bridge,32106.0,Cable-Stayed,1
+Bridges,General W.K. Wilson Jr. Bridge,32106.0,Suspension,1
+Bridges,General W.K. Wilson Jr. Bridge,32106.0,Steel,1
+Bridges,General W.K. Wilson Jr. Bridge,32106.0,Concrete,1
+Bridges,General W.K. Wilson Jr. Bridge,32106.0,Rail,0
+Bridges,General W.K. Wilson Jr. Bridge,32106.0,Car,0
+Bridges,Twin Span Bridge of Interstate 10,29039.0,Toll,0
+Bridges,Twin Span Bridge of Interstate 10,29039.0,Capital,0
+Bridges,Twin Span Bridge of Interstate 10,29039.0,Guinness,0
+Bridges,Twin Span Bridge of Interstate 10,29039.0,Long,0
+Bridges,Twin Span Bridge of Interstate 10,29039.0,Viaduct,0
+Bridges,Twin Span Bridge of Interstate 10,29039.0,Box-Girder,0
+Bridges,Twin Span Bridge of Interstate 10,29039.0,Cable-Stayed,1
+Bridges,Twin Span Bridge of Interstate 10,29039.0,Suspension,1
+Bridges,Twin Span Bridge of Interstate 10,29039.0,Steel,1
+Bridges,Twin Span Bridge of Interstate 10,29039.0,Concrete,1
+Bridges,Twin Span Bridge of Interstate 10,29039.0,Rail,0
+Bridges,Twin Span Bridge of Interstate 10,29039.0,Car,0
+Bridges,Richmond-San Rafael Bridge,29039.0,Toll,1
+Bridges,Richmond-San Rafael Bridge,29039.0,Capital,0
+Bridges,Richmond-San Rafael Bridge,29039.0,Guinness,0
+Bridges,Richmond-San Rafael Bridge,29039.0,Long,0
+Bridges,Richmond-San Rafael Bridge,29039.0,Viaduct,0
+Bridges,Richmond-San Rafael Bridge,29039.0,Box-Girder,1
+Bridges,Richmond-San Rafael Bridge,29039.0,Cable-Stayed,1
+Bridges,Richmond-San Rafael Bridge,29039.0,Suspension,1
+Bridges,Richmond-San Rafael Bridge,29039.0,Steel,1
+Bridges,Richmond-San Rafael Bridge,29039.0,Concrete,0
+Bridges,Richmond-San Rafael Bridge,29039.0,Rail,0
+Bridges,Richmond-San Rafael Bridge,29039.0,Car,0
+Bridges,General Rafael Urdaneta Bridge,28471.0,Toll,0
+Bridges,General Rafael Urdaneta Bridge,28471.0,Capital,0
+Bridges,General Rafael Urdaneta Bridge,28471.0,Guinness,0
+Bridges,General Rafael Urdaneta Bridge,28471.0,Long,0
+Bridges,General Rafael Urdaneta Bridge,28471.0,Viaduct,0
+Bridges,General Rafael Urdaneta Bridge,28471.0,Box-Girder,1
+Bridges,General Rafael Urdaneta Bridge,28471.0,Cable-Stayed,0
+Bridges,General Rafael Urdaneta Bridge,28471.0,Suspension,1
+Bridges,General Rafael Urdaneta Bridge,28471.0,Steel,1
+Bridges,General Rafael Urdaneta Bridge,28471.0,Concrete,1
+Bridges,General Rafael Urdaneta Bridge,28471.0,Rail,0
+Bridges,General Rafael Urdaneta Bridge,28471.0,Car,0
+Bridges,Virginia Dare Memorial Bridge,27457.0,Toll,0
+Bridges,Virginia Dare Memorial Bridge,27457.0,Capital,0
+Bridges,Virginia Dare Memorial Bridge,27457.0,Guinness,0
+Bridges,Virginia Dare Memorial Bridge,27457.0,Long,0
+Bridges,Virginia Dare Memorial Bridge,27457.0,Viaduct,0
+Bridges,Virginia Dare Memorial Bridge,27457.0,Box-Girder,0
+Bridges,Virginia Dare Memorial Bridge,27457.0,Cable-Stayed,1
+Bridges,Virginia Dare Memorial Bridge,27457.0,Suspension,1
+Bridges,Virginia Dare Memorial Bridge,27457.0,Steel,0
+Bridges,Virginia Dare Memorial Bridge,27457.0,Concrete,1
+Bridges,Virginia Dare Memorial Bridge,27457.0,Rail,0
+Bridges,Virginia Dare Memorial Bridge,27457.0,Car,0
+Bridges,Yangpu Bridge,27408.0,Toll,0
+Bridges,Yangpu Bridge,27408.0,Capital,0
+Bridges,Yangpu Bridge,27408.0,Guinness,0
+Bridges,Yangpu Bridge,27408.0,Long,0
+Bridges,Yangpu Bridge,27408.0,Viaduct,0
+Bridges,Yangpu Bridge,27408.0,Box-Girder,1
+Bridges,Yangpu Bridge,27408.0,Cable-Stayed,0
+Bridges,Yangpu Bridge,27408.0,Suspension,1
+Bridges,Yangpu Bridge,27408.0,Steel,1
+Bridges,Yangpu Bridge,27408.0,Concrete,1
+Bridges,Yangpu Bridge,27408.0,Rail,0
+Bridges,Yangpu Bridge,27408.0,Car,0
+Bridges,O?resund Bridge,25738.0,Toll,1
+Bridges,O?resund Bridge,25738.0,Capital,1
+Bridges,O?resund Bridge,25738.0,Guinness,0
+Bridges,O?resund Bridge,25738.0,Long,1
+Bridges,O?resund Bridge,25738.0,Viaduct,0
+Bridges,O?resund Bridge,25738.0,Box-Girder,1
+Bridges,O?resund Bridge,25738.0,Cable-Stayed,0
+Bridges,O?resund Bridge,25738.0,Suspension,1
+Bridges,O?resund Bridge,25738.0,Steel,1
+Bridges,O?resund Bridge,25738.0,Concrete,1
+Bridges,O?resund Bridge,25738.0,Rail,1
+Bridges,O?resund Bridge,25738.0,Car,0
+Bridges,Gwangan Bridge,24340.0,Toll,0
+Bridges,Gwangan Bridge,24340.0,Capital,0
+Bridges,Gwangan Bridge,24340.0,Guinness,0
+Bridges,Gwangan Bridge,24340.0,Long,0
+Bridges,Gwangan Bridge,24340.0,Viaduct,0
+Bridges,Gwangan Bridge,24340.0,Box-Girder,1
+Bridges,Gwangan Bridge,24340.0,Cable-Stayed,1
+Bridges,Gwangan Bridge,24340.0,Suspension,0
+Bridges,Gwangan Bridge,24340.0,Steel,1
+Bridges,Gwangan Bridge,24340.0,Concrete,0
+Bridges,Gwangan Bridge,24340.0,Rail,0
+Bridges,Gwangan Bridge,24340.0,Car,0
+Bridges,Champlain Bridge,24324.0,Toll,0
+Bridges,Champlain Bridge,24324.0,Capital,0
+Bridges,Champlain Bridge,24324.0,Guinness,0
+Bridges,Champlain Bridge,24324.0,Long,0
+Bridges,Champlain Bridge,24324.0,Viaduct,0
+Bridges,Champlain Bridge,24324.0,Box-Girder,1
+Bridges,Champlain Bridge,24324.0,Cable-Stayed,1
+Bridges,Champlain Bridge,24324.0,Suspension,1
+Bridges,Champlain Bridge,24324.0,Steel,1
+Bridges,Champlain Bridge,24324.0,Concrete,0
+Bridges,Champlain Bridge,24324.0,Rail,0
+Bridges,Champlain Bridge,24324.0,Car,0
+Bridges,Great Belt Bridge,22280.0,Toll,1
+Bridges,Great Belt Bridge,22280.0,Capital,0
+Bridges,Great Belt Bridge,22280.0,Guinness,0
+Bridges,Great Belt Bridge,22280.0,Long,0
+Bridges,Great Belt Bridge,22280.0,Viaduct,0
+Bridges,Great Belt Bridge,22280.0,Box-Girder,0
+Bridges,Great Belt Bridge,22280.0,Cable-Stayed,1
+Bridges,Great Belt Bridge,22280.0,Suspension,0
+Bridges,Great Belt Bridge,22280.0,Steel,0
+Bridges,Great Belt Bridge,22280.0,Concrete,1
+Bridges,Great Belt Bridge,22280.0,Rail,1
+Bridges,Great Belt Bridge,22280.0,Car,0
+Bridges,O?land Bridge,19921.0,Toll,0
+Bridges,O?land Bridge,19921.0,Capital,0
+Bridges,O?land Bridge,19921.0,Guinness,0
+Bridges,O?land Bridge,19921.0,Long,1
+Bridges,O?land Bridge,19921.0,Viaduct,0
+Bridges,O?land Bridge,19921.0,Box-Girder,0
+Bridges,O?land Bridge,19921.0,Cable-Stayed,1
+Bridges,O?land Bridge,19921.0,Suspension,1
+Bridges,O?land Bridge,19921.0,Steel,0
+Bridges,O?land Bridge,19921.0,Concrete,1
+Bridges,O?land Bridge,19921.0,Rail,0
+Bridges,O?land Bridge,19921.0,Car,0
+Bridges,Yolo Causeway,17100.0,Toll,0
+Bridges,Yolo Causeway,17100.0,Capital,0
+Bridges,Yolo Causeway,17100.0,Guinness,0
+Bridges,Yolo Causeway,17100.0,Long,0
+Bridges,Yolo Causeway,17100.0,Viaduct,1
+Bridges,Yolo Causeway,17100.0,Box-Girder,1
+Bridges,Yolo Causeway,17100.0,Cable-Stayed,1
+Bridges,Yolo Causeway,17100.0,Suspension,1
+Bridges,Yolo Causeway,17100.0,Steel,0
+Bridges,Yolo Causeway,17100.0,Concrete,0
+Bridges,Yolo Causeway,17100.0,Rail,0
+Bridges,Yolo Causeway,17100.0,Car,0
+Bridges,Zeeland Bridge,16476.0,Toll,0
+Bridges,Zeeland Bridge,16476.0,Capital,0
+Bridges,Zeeland Bridge,16476.0,Guinness,0
+Bridges,Zeeland Bridge,16476.0,Long,1
+Bridges,Zeeland Bridge,16476.0,Viaduct,0
+Bridges,Zeeland Bridge,16476.0,Box-Girder,0
+Bridges,Zeeland Bridge,16476.0,Cable-Stayed,1
+Bridges,Zeeland Bridge,16476.0,Suspension,1
+Bridges,Zeeland Bridge,16476.0,Steel,0
+Bridges,Zeeland Bridge,16476.0,Concrete,1
+Bridges,Zeeland Bridge,16476.0,Rail,0
+Bridges,Zeeland Bridge,16476.0,Car,0
+Bridges,Sault Ste. Marie International Bridge,14700.0,Toll,1
+Bridges,Sault Ste. Marie International Bridge,14700.0,Capital,0
+Bridges,Sault Ste. Marie International Bridge,14700.0,Guinness,0
+Bridges,Sault Ste. Marie International Bridge,14700.0,Long,0
+Bridges,Sault Ste. Marie International Bridge,14700.0,Viaduct,0
+Bridges,Sault Ste. Marie International Bridge,14700.0,Box-Girder,1
+Bridges,Sault Ste. Marie International Bridge,14700.0,Cable-Stayed,1
+Bridges,Sault Ste. Marie International Bridge,14700.0,Suspension,1
+Bridges,Sault Ste. Marie International Bridge,14700.0,Steel,1
+Bridges,Sault Ste. Marie International Bridge,14700.0,Concrete,0
+Bridges,Sault Ste. Marie International Bridge,14700.0,Rail,0
+Bridges,Sault Ste. Marie International Bridge,14700.0,Car,0
+Bridges,Bayside Bridge,14010.0,Toll,1
+Bridges,Bayside Bridge,14010.0,Capital,0
+Bridges,Bayside Bridge,14010.0,Guinness,0
+Bridges,Bayside Bridge,14010.0,Long,0
+Bridges,Bayside Bridge,14010.0,Viaduct,0
+Bridges,Bayside Bridge,14010.0,Box-Girder,1
+Bridges,Bayside Bridge,14010.0,Cable-Stayed,1
+Bridges,Bayside Bridge,14010.0,Suspension,1
+Bridges,Bayside Bridge,14010.0,Steel,0
+Bridges,Bayside Bridge,14010.0,Concrete,1
+Bridges,Bayside Bridge,14010.0,Rail,0
+Bridges,Bayside Bridge,14010.0,Car,0
+Bridges,Rosario-Victoria Bridge,13445.0,Toll,0
+Bridges,Rosario-Victoria Bridge,13445.0,Capital,0
+Bridges,Rosario-Victoria Bridge,13445.0,Guinness,0
+Bridges,Rosario-Victoria Bridge,13445.0,Long,0
+Bridges,Rosario-Victoria Bridge,13445.0,Viaduct,1
+Bridges,Rosario-Victoria Bridge,13445.0,Box-Girder,1
+Bridges,Rosario-Victoria Bridge,13445.0,Cable-Stayed,0
+Bridges,Rosario-Victoria Bridge,13445.0,Suspension,1
+Bridges,Rosario-Victoria Bridge,13445.0,Steel,1
+Bridges,Rosario-Victoria Bridge,13445.0,Concrete,1
+Bridges,Rosario-Victoria Bridge,13445.0,Rail,0
+Bridges,Rosario-Victoria Bridge,13445.0,Car,0
+Bridges,Crescent City Connection,13428.0,Toll,1
+Bridges,Crescent City Connection,13428.0,Capital,0
+Bridges,Crescent City Connection,13428.0,Guinness,0
+Bridges,Crescent City Connection,13428.0,Long,0
+Bridges,Crescent City Connection,13428.0,Viaduct,0
+Bridges,Crescent City Connection,13428.0,Box-Girder,1
+Bridges,Crescent City Connection,13428.0,Cable-Stayed,1
+Bridges,Crescent City Connection,13428.0,Suspension,1
+Bridges,Crescent City Connection,13428.0,Steel,1
+Bridges,Crescent City Connection,13428.0,Concrete,0
+Bridges,Crescent City Connection,13428.0,Rail,0
+Bridges,Crescent City Connection,13428.0,Car,0
+Bridges,Anghel Saligny Bridge,13412.0,Toll,0
+Bridges,Anghel Saligny Bridge,13412.0,Capital,0
+Bridges,Anghel Saligny Bridge,13412.0,Guinness,0
+Bridges,Anghel Saligny Bridge,13412.0,Long,1
+Bridges,Anghel Saligny Bridge,13412.0,Viaduct,0
+Bridges,Anghel Saligny Bridge,13412.0,Box-Girder,0
+Bridges,Anghel Saligny Bridge,13412.0,Cable-Stayed,1
+Bridges,Anghel Saligny Bridge,13412.0,Suspension,1
+Bridges,Anghel Saligny Bridge,13412.0,Steel,1
+Bridges,Anghel Saligny Bridge,13412.0,Concrete,0
+Bridges,Anghel Saligny Bridge,13412.0,Rail,1
+Bridges,Anghel Saligny Bridge,13412.0,Car,1
+Bridges,Arthur Ravenel Jr. Bridge,13199.0,Toll,0
+Bridges,Arthur Ravenel Jr. Bridge,13199.0,Capital,0
+Bridges,Arthur Ravenel Jr. Bridge,13199.0,Guinness,0
+Bridges,Arthur Ravenel Jr. Bridge,13199.0,Long,1
+Bridges,Arthur Ravenel Jr. Bridge,13199.0,Viaduct,0
+Bridges,Arthur Ravenel Jr. Bridge,13199.0,Box-Girder,1
+Bridges,Arthur Ravenel Jr. Bridge,13199.0,Cable-Stayed,0
+Bridges,Arthur Ravenel Jr. Bridge,13199.0,Suspension,1
+Bridges,Arthur Ravenel Jr. Bridge,13199.0,Steel,1
+Bridges,Arthur Ravenel Jr. Bridge,13199.0,Concrete,1
+Bridges,Arthur Ravenel Jr. Bridge,13199.0,Rail,0
+Bridges,Arthur Ravenel Jr. Bridge,13199.0,Car,0
+Bridges,Fred Hartman Bridge,13000.0,Toll,0
+Bridges,Fred Hartman Bridge,13000.0,Capital,0
+Bridges,Fred Hartman Bridge,13000.0,Guinness,0
+Bridges,Fred Hartman Bridge,13000.0,Long,1
+Bridges,Fred Hartman Bridge,13000.0,Viaduct,0
+Bridges,Fred Hartman Bridge,13000.0,Box-Girder,1
+Bridges,Fred Hartman Bridge,13000.0,Cable-Stayed,0
+Bridges,Fred Hartman Bridge,13000.0,Suspension,1
+Bridges,Fred Hartman Bridge,13000.0,Steel,1
+Bridges,Fred Hartman Bridge,13000.0,Concrete,1
+Bridges,Fred Hartman Bridge,13000.0,Rail,0
+Bridges,Fred Hartman Bridge,13000.0,Car,0
+Bridges,Zacatal Bridge,12972.0,Toll,0
+Bridges,Zacatal Bridge,12972.0,Capital,0
+Bridges,Zacatal Bridge,12972.0,Guinness,0
+Bridges,Zacatal Bridge,12972.0,Long,0
+Bridges,Zacatal Bridge,12972.0,Viaduct,0
+Bridges,Zacatal Bridge,12972.0,Box-Girder,0
+Bridges,Zacatal Bridge,12972.0,Cable-Stayed,1
+Bridges,Zacatal Bridge,12972.0,Suspension,1
+Bridges,Zacatal Bridge,12972.0,Steel,0
+Bridges,Zacatal Bridge,12972.0,Concrete,1
+Bridges,Zacatal Bridge,12972.0,Rail,0
+Bridges,Zacatal Bridge,12972.0,Car,0
+Bridges,Köhlbrandbrücke,12930.0,Toll,0
+Bridges,Köhlbrandbrücke,12930.0,Capital,0
+Bridges,Köhlbrandbrücke,12930.0,Guinness,0
+Bridges,Köhlbrandbrücke,12930.0,Long,0
+Bridges,Köhlbrandbrücke,12930.0,Viaduct,0
+Bridges,Köhlbrandbrücke,12930.0,Box-Girder,1
+Bridges,Köhlbrandbrücke,12930.0,Cable-Stayed,0
+Bridges,Köhlbrandbrücke,12930.0,Suspension,1
+Bridges,Köhlbrandbrücke,12930.0,Steel,1
+Bridges,Köhlbrandbrücke,12930.0,Concrete,1
+Bridges,Köhlbrandbrücke,12930.0,Rail,0
+Bridges,Köhlbrandbrücke,12930.0,Car,0
+Bridges,Akashi-Kaikyo Bridge,12831.0,Toll,1
+Bridges,Akashi-Kaikyo Bridge,12831.0,Capital,0
+Bridges,Akashi-Kaikyo Bridge,12831.0,Guinness,0
+Bridges,Akashi-Kaikyo Bridge,12831.0,Long,1
+Bridges,Akashi-Kaikyo Bridge,12831.0,Viaduct,0
+Bridges,Akashi-Kaikyo Bridge,12831.0,Box-Girder,1
+Bridges,Akashi-Kaikyo Bridge,12831.0,Cable-Stayed,1
+Bridges,Akashi-Kaikyo Bridge,12831.0,Suspension,0
+Bridges,Akashi-Kaikyo Bridge,12831.0,Steel,1
+Bridges,Akashi-Kaikyo Bridge,12831.0,Concrete,1
+Bridges,Akashi-Kaikyo Bridge,12831.0,Rail,0
+Bridges,Akashi-Kaikyo Bridge,12831.0,Car,0
+Bridges,Suez Canal Bridge,12800.0,Toll,0
+Bridges,Suez Canal Bridge,12800.0,Capital,0
+Bridges,Suez Canal Bridge,12800.0,Guinness,0
+Bridges,Suez Canal Bridge,12800.0,Long,0
+Bridges,Suez Canal Bridge,12800.0,Viaduct,0
+Bridges,Suez Canal Bridge,12800.0,Box-Girder,0
+Bridges,Suez Canal Bridge,12800.0,Cable-Stayed,0
+Bridges,Suez Canal Bridge,12800.0,Suspension,1
+Bridges,Suez Canal Bridge,12800.0,Steel,1
+Bridges,Suez Canal Bridge,12800.0,Concrete,1
+Bridges,Suez Canal Bridge,12800.0,Rail,0
+Bridges,Suez Canal Bridge,12800.0,Car,0
+Bridges,Ponte Della Liberta,12630.0,Toll,1
+Bridges,Ponte Della Liberta,12630.0,Capital,0
+Bridges,Ponte Della Liberta,12630.0,Guinness,0
+Bridges,Ponte Della Liberta,12630.0,Long,1
+Bridges,Ponte Della Liberta,12630.0,Viaduct,0
+Bridges,Ponte Della Liberta,12630.0,Box-Girder,1
+Bridges,Ponte Della Liberta,12630.0,Cable-Stayed,1
+Bridges,Ponte Della Liberta,12630.0,Suspension,1
+Bridges,Ponte Della Liberta,12630.0,Steel,0
+Bridges,Ponte Della Liberta,12630.0,Concrete,1
+Bridges,Ponte Della Liberta,12630.0,Rail,0
+Bridges,Ponte Della Liberta,12630.0,Car,0
+Bridges,Saint-Nazaire Bridge,11010.0,Toll,0
+Bridges,Saint-Nazaire Bridge,11010.0,Capital,0
+Bridges,Saint-Nazaire Bridge,11010.0,Guinness,0
+Bridges,Saint-Nazaire Bridge,11010.0,Long,0
+Bridges,Saint-Nazaire Bridge,11010.0,Viaduct,0
+Bridges,Saint-Nazaire Bridge,11010.0,Box-Girder,0
+Bridges,Saint-Nazaire Bridge,11010.0,Cable-Stayed,0
+Bridges,Saint-Nazaire Bridge,11010.0,Suspension,1
+Bridges,Saint-Nazaire Bridge,11010.0,Steel,1
+Bridges,Saint-Nazaire Bridge,11010.0,Concrete,1
+Bridges,Saint-Nazaire Bridge,11010.0,Rail,0
+Bridges,Saint-Nazaire Bridge,11010.0,Car,0
+Bridges,Deputy Darcy Castelo de Mendoca Bridge,10800.0,Toll,1
+Bridges,Deputy Darcy Castelo de Mendoca Bridge,10800.0,Capital,0
+Bridges,Deputy Darcy Castelo de Mendoca Bridge,10800.0,Guinness,0
+Bridges,Deputy Darcy Castelo de Mendoca Bridge,10800.0,Long,0
+Bridges,Deputy Darcy Castelo de Mendoca Bridge,10800.0,Viaduct,0
+Bridges,Deputy Darcy Castelo de Mendoca Bridge,10800.0,Box-Girder,0
+Bridges,Deputy Darcy Castelo de Mendoca Bridge,10800.0,Cable-Stayed,1
+Bridges,Deputy Darcy Castelo de Mendoca Bridge,10800.0,Suspension,1
+Bridges,Deputy Darcy Castelo de Mendoca Bridge,10800.0,Steel,0
+Bridges,Deputy Darcy Castelo de Mendoca Bridge,10800.0,Concrete,1
+Bridges,Deputy Darcy Castelo de Mendoca Bridge,10800.0,Rail,0
+Bridges,Deputy Darcy Castelo de Mendoca Bridge,10800.0,Car,0
+Hamburgers,Hamburger,2.0,Meal Deal,0
+Hamburgers,Hamburger,2.0,Drive Through,0
+Hamburgers,Hamburger,2.0,24 Hours,0
+Hamburgers,Hamburger,2.0,Calorie Menu,1
+Hamburgers,Hamburger,2.0,Self-Serve Drinks,0
+Hamburgers,Hamburger,2.0,Condiments,1
+Hamburgers,Hamburger,2.0,Build Burger,0
+Hamburgers,Hamburger,6.99,Meal Deal,1
+Hamburgers,Hamburger,6.99,Drive Through,1
+Hamburgers,Hamburger,6.99,24 Hours,1
+Hamburgers,Hamburger,6.99,Calorie Menu,1
+Hamburgers,Hamburger,6.99,Self-Serve Drinks,1
+Hamburgers,Hamburger,6.99,Condiments,0
+Hamburgers,Hamburger,6.99,Build Burger,0
+Hamburgers,The Original Big Boy,7.99,Meal Deal,1
+Hamburgers,The Original Big Boy,7.99,Drive Through,0
+Hamburgers,The Original Big Boy,7.99,24 Hours,0
+Hamburgers,The Original Big Boy,7.99,Calorie Menu,1
+Hamburgers,The Original Big Boy,7.99,Self-Serve Drinks,1
+Hamburgers,The Original Big Boy,7.99,Condiments,0
+Hamburgers,The Original Big Boy,7.99,Build Burger,1
+Hamburgers,Classic Burger,9.25,Meal Deal,1
+Hamburgers,Classic Burger,9.25,Drive Through,1
+Hamburgers,Classic Burger,9.25,24 Hours,1
+Hamburgers,Classic Burger,9.25,Calorie Menu,0
+Hamburgers,Classic Burger,9.25,Self-Serve Drinks,1
+Hamburgers,Classic Burger,9.25,Condiments,1
+Hamburgers,Classic Burger,9.25,Build Burger,0
+Hamburgers,Hamburger,8.79,Meal Deal,1
+Hamburgers,Hamburger,8.79,Drive Through,1
+Hamburgers,Hamburger,8.79,24 Hours,1
+Hamburgers,Hamburger,8.79,Calorie Menu,1
+Hamburgers,Hamburger,8.79,Self-Serve Drinks,1
+Hamburgers,Hamburger,8.79,Condiments,1
+Hamburgers,Hamburger,8.79,Build Burger,1
+Hamburgers,Whopper,3.79,Meal Deal,0
+Hamburgers,Whopper,3.79,Drive Through,0
+Hamburgers,Whopper,3.79,24 Hours,0
+Hamburgers,Whopper,3.79,Calorie Menu,1
+Hamburgers,Whopper,3.79,Self-Serve Drinks,0
+Hamburgers,Whopper,3.79,Condiments,1
+Hamburgers,Whopper,3.79,Build Burger,0
+Hamburgers,Famous Star,2.89,Meal Deal,0
+Hamburgers,Famous Star,2.89,Drive Through,0
+Hamburgers,Famous Star,2.89,24 Hours,0
+Hamburgers,Famous Star,2.89,Calorie Menu,1
+Hamburgers,Famous Star,2.89,Self-Serve Drinks,0
+Hamburgers,Famous Star,2.89,Condiments,1
+Hamburgers,Famous Star,2.89,Build Burger,0
+Hamburgers,The Old Fashioned Burger,9.95,Meal Deal,1
+Hamburgers,The Old Fashioned Burger,9.95,Drive Through,1
+Hamburgers,The Old Fashioned Burger,9.95,24 Hours,1
+Hamburgers,The Old Fashioned Burger,9.95,Calorie Menu,0
+Hamburgers,The Old Fashioned Burger,9.95,Self-Serve Drinks,1
+Hamburgers,The Old Fashioned Burger,9.95,Condiments,0
+Hamburgers,The Old Fashioned Burger,9.95,Build Burger,0
+Hamburgers,Classic Cheeseburger,10.29,Meal Deal,1
+Hamburgers,Classic Cheeseburger,10.29,Drive Through,1
+Hamburgers,Classic Cheeseburger,10.29,24 Hours,1
+Hamburgers,Classic Cheeseburger,10.29,Calorie Menu,1
+Hamburgers,Classic Cheeseburger,10.29,Self-Serve Drinks,1
+Hamburgers,Classic Cheeseburger,10.29,Condiments,0
+Hamburgers,Classic Cheeseburger,10.29,Build Burger,0
+Hamburgers,The Culver's Deluxe,2.89,Meal Deal,0
+Hamburgers,The Culver's Deluxe,2.89,Drive Through,0
+Hamburgers,The Culver's Deluxe,2.89,24 Hours,1
+Hamburgers,The Culver's Deluxe,2.89,Calorie Menu,1
+Hamburgers,The Culver's Deluxe,2.89,Self-Serve Drinks,0
+Hamburgers,The Culver's Deluxe,2.89,Condiments,0
+Hamburgers,The Culver's Deluxe,2.89,Build Burger,0
+Hamburgers,Original Cheeseburger,1.99,Meal Deal,0
+Hamburgers,Original Cheeseburger,1.99,Drive Through,0
+Hamburgers,Original Cheeseburger,1.99,24 Hours,1
+Hamburgers,Original Cheeseburger,1.99,Calorie Menu,1
+Hamburgers,Original Cheeseburger,1.99,Self-Serve Drinks,0
+Hamburgers,Original Cheeseburger,1.99,Condiments,0
+Hamburgers,Original Cheeseburger,1.99,Build Burger,0
+Hamburgers,Cheeseburger,1.59,Meal Deal,0
+Hamburgers,Cheeseburger,1.59,Drive Through,0
+Hamburgers,Cheeseburger,1.59,24 Hours,0
+Hamburgers,Cheeseburger,1.59,Calorie Menu,1
+Hamburgers,Cheeseburger,1.59,Self-Serve Drinks,0
+Hamburgers,Cheeseburger,1.59,Condiments,0
+Hamburgers,Cheeseburger,1.59,Build Burger,0
+Hamburgers,Fatburger,3.49,Meal Deal,0
+Hamburgers,Fatburger,3.49,Drive Through,0
+Hamburgers,Fatburger,3.49,24 Hours,0
+Hamburgers,Fatburger,3.49,Calorie Menu,1
+Hamburgers,Fatburger,3.49,Self-Serve Drinks,0
+Hamburgers,Fatburger,3.49,Condiments,0
+Hamburgers,Fatburger,3.49,Build Burger,0
+Hamburgers,Hamburger,5.79,Meal Deal,1
+Hamburgers,Hamburger,5.79,Drive Through,1
+Hamburgers,Hamburger,5.79,24 Hours,1
+Hamburgers,Hamburger,5.79,Calorie Menu,1
+Hamburgers,Hamburger,5.79,Self-Serve Drinks,0
+Hamburgers,Hamburger,5.79,Condiments,0
+Hamburgers,Hamburger,5.79,Build Burger,0
+Hamburgers,Legendary Burger,14.45,Meal Deal,1
+Hamburgers,Legendary Burger,14.45,Drive Through,1
+Hamburgers,Legendary Burger,14.45,24 Hours,1
+Hamburgers,Legendary Burger,14.45,Calorie Menu,1
+Hamburgers,Legendary Burger,14.45,Self-Serve Drinks,1
+Hamburgers,Legendary Burger,14.45,Condiments,0
+Hamburgers,Legendary Burger,14.45,Build Burger,0
+Hamburgers,Burger,6.99,Meal Deal,1
+Hamburgers,Burger,6.99,Drive Through,1
+Hamburgers,Burger,6.99,24 Hours,1
+Hamburgers,Burger,6.99,Calorie Menu,1
+Hamburgers,Burger,6.99,Self-Serve Drinks,1
+Hamburgers,Burger,6.99,Condiments,0
+Hamburgers,Burger,6.99,Build Burger,1
+Hamburgers,The Original,6.99,Meal Deal,1
+Hamburgers,The Original,6.99,Drive Through,1
+Hamburgers,The Original,6.99,24 Hours,1
+Hamburgers,The Original,6.99,Calorie Menu,1
+Hamburgers,The Original,6.99,Self-Serve Drinks,1
+Hamburgers,The Original,6.99,Condiments,0
+Hamburgers,The Original,6.99,Build Burger,1
+Hamburgers,Hamburger,1.9,Meal Deal,0
+Hamburgers,Hamburger,1.9,Drive Through,0
+Hamburgers,Hamburger,1.9,24 Hours,1
+Hamburgers,Hamburger,1.9,Calorie Menu,1
+Hamburgers,Hamburger,1.9,Self-Serve Drinks,0
+Hamburgers,Hamburger,1.9,Condiments,1
+Hamburgers,Hamburger,1.9,Build Burger,0
+Hamburgers,Big Wave,6.79,Meal Deal,1
+Hamburgers,Big Wave,6.79,Drive Through,1
+Hamburgers,Big Wave,6.79,24 Hours,1
+Hamburgers,Big Wave,6.79,Calorie Menu,0
+Hamburgers,Big Wave,6.79,Self-Serve Drinks,1
+Hamburgers,Big Wave,6.79,Condiments,0
+Hamburgers,Big Wave,6.79,Build Burger,0
+Hamburgers,Jumbo Jack w/Cheese,2.69,Meal Deal,0
+Hamburgers,Jumbo Jack w/Cheese,2.69,Drive Through,0
+Hamburgers,Jumbo Jack w/Cheese,2.69,24 Hours,0
+Hamburgers,Jumbo Jack w/Cheese,2.69,Calorie Menu,1
+Hamburgers,Jumbo Jack w/Cheese,2.69,Self-Serve Drinks,0
+Hamburgers,Jumbo Jack w/Cheese,2.69,Condiments,0
+Hamburgers,Jumbo Jack w/Cheese,2.69,Build Burger,0
+Hamburgers,Hamburger,1.19,Meal Deal,0
+Hamburgers,Hamburger,1.19,Drive Through,0
+Hamburgers,Hamburger,1.19,24 Hours,0
+Hamburgers,Hamburger,1.19,Calorie Menu,0
+Hamburgers,Hamburger,1.19,Self-Serve Drinks,0
+Hamburgers,Hamburger,1.19,Condiments,1
+Hamburgers,Hamburger,1.19,Build Burger,0
+Hamburgers,Rainforest Burger,13.99,Meal Deal,1
+Hamburgers,Rainforest Burger,13.99,Drive Through,1
+Hamburgers,Rainforest Burger,13.99,24 Hours,1
+Hamburgers,Rainforest Burger,13.99,Calorie Menu,1
+Hamburgers,Rainforest Burger,13.99,Self-Serve Drinks,1
+Hamburgers,Rainforest Burger,13.99,Condiments,0
+Hamburgers,Rainforest Burger,13.99,Build Burger,0
+Hamburgers,Big Red's Tavern,8.79,Meal Deal,1
+Hamburgers,Big Red's Tavern,8.79,Drive Through,1
+Hamburgers,Big Red's Tavern,8.79,24 Hours,1
+Hamburgers,Big Red's Tavern,8.79,Calorie Menu,1
+Hamburgers,Big Red's Tavern,8.79,Self-Serve Drinks,1
+Hamburgers,Big Red's Tavern,8.79,Condiments,1
+Hamburgers,Big Red's Tavern,8.79,Build Burger,0
+Hamburgers,The All American,9.99,Meal Deal,1
+Hamburgers,The All American,9.99,Drive Through,1
+Hamburgers,The All American,9.99,24 Hours,1
+Hamburgers,The All American,9.99,Calorie Menu,1
+Hamburgers,The All American,9.99,Self-Serve Drinks,1
+Hamburgers,The All American,9.99,Condiments,1
+Hamburgers,The All American,9.99,Build Burger,0
+Hamburgers,Ruby's Classic Burger,9.49,Meal Deal,1
+Hamburgers,Ruby's Classic Burger,9.49,Drive Through,1
+Hamburgers,Ruby's Classic Burger,9.49,24 Hours,1
+Hamburgers,Ruby's Classic Burger,9.49,Calorie Menu,1
+Hamburgers,Ruby's Classic Burger,9.49,Self-Serve Drinks,1
+Hamburgers,Ruby's Classic Burger,9.49,Condiments,1
+Hamburgers,Ruby's Classic Burger,9.49,Build Burger,0
+Hamburgers,Sonic Burger,3.09,Meal Deal,0
+Hamburgers,Sonic Burger,3.09,Drive Through,0
+Hamburgers,Sonic Burger,3.09,24 Hours,0
+Hamburgers,Sonic Burger,3.09,Calorie Menu,1
+Hamburgers,Sonic Burger,3.09,Self-Serve Drinks,0
+Hamburgers,Sonic Burger,3.09,Condiments,0
+Hamburgers,Sonic Burger,3.09,Build Burger,0
+Hamburgers,Classic American,8.99,Meal Deal,1
+Hamburgers,Classic American,8.99,Drive Through,1
+Hamburgers,Classic American,8.99,24 Hours,1
+Hamburgers,Classic American,8.99,Calorie Menu,1
+Hamburgers,Classic American,8.99,Self-Serve Drinks,1
+Hamburgers,Classic American,8.99,Condiments,1
+Hamburgers,Classic American,8.99,Build Burger,0
+Hamburgers,1/4 Single,2.59,Meal Deal,0
+Hamburgers,1/4 Single,2.59,Drive Through,0
+Hamburgers,1/4 Single,2.59,24 Hours,0
+Hamburgers,1/4 Single,2.59,Calorie Menu,0
+Hamburgers,1/4 Single,2.59,Self-Serve Drinks,0
+Hamburgers,1/4 Single,2.59,Condiments,0
+Hamburgers,1/4 Single,2.59,Build Burger,0
+Hamburgers,Whatburger,2.94,Meal Deal,0
+Hamburgers,Whatburger,2.94,Drive Through,0
+Hamburgers,Whatburger,2.94,24 Hours,0
+Hamburgers,Whatburger,2.94,Calorie Menu,1
+Hamburgers,Whatburger,2.94,Self-Serve Drinks,0
+Hamburgers,Whatburger,2.94,Condiments,0
+Hamburgers,Whatburger,2.94,Build Burger,0
+Hamburgers,The Original Slider,0.69,Meal Deal,0
+Hamburgers,The Original Slider,0.69,Drive Through,0
+Hamburgers,The Original Slider,0.69,24 Hours,0
+Hamburgers,The Original Slider,0.69,Calorie Menu,1
+Hamburgers,The Original Slider,0.69,Self-Serve Drinks,0
+Hamburgers,The Original Slider,0.69,Condiments,0
+Hamburgers,The Original Slider,0.69,Build Burger,0
+Theme Parks,The Magic Kingdom,17536000.0,Trademark,1
+Theme Parks,The Magic Kingdom,17536000.0,Water-Rides,0
+Theme Parks,The Magic Kingdom,17536000.0,Neighboring,1
+Theme Parks,The Magic Kingdom,17536000.0,Seasonal,1
+Theme Parks,The Magic Kingdom,17536000.0,Hotels,1
+Theme Parks,The Magic Kingdom,17536000.0,Multiple Sites,1
+Theme Parks,The Magic Kingdom,17536000.0,Parades,1
+Theme Parks,Disneyland,15963000.0,Trademark,1
+Theme Parks,Disneyland,15963000.0,Water-Rides,0
+Theme Parks,Disneyland,15963000.0,Neighboring,1
+Theme Parks,Disneyland,15963000.0,Seasonal,1
+Theme Parks,Disneyland,15963000.0,Hotels,1
+Theme Parks,Disneyland,15963000.0,Multiple Sites,1
+Theme Parks,Disneyland,15963000.0,Parades,1
+Theme Parks,Epcot at Walt Disney World,11063000.0,Trademark,1
+Theme Parks,Epcot at Walt Disney World,11063000.0,Water-Rides,1
+Theme Parks,Epcot at Walt Disney World,11063000.0,Neighboring,1
+Theme Parks,Epcot at Walt Disney World,11063000.0,Seasonal,1
+Theme Parks,Epcot at Walt Disney World,11063000.0,Hotels,1
+Theme Parks,Epcot at Walt Disney World,11063000.0,Multiple Sites,1
+Theme Parks,Epcot at Walt Disney World,11063000.0,Parades,0
+Theme Parks,Disney's Animal Kingdom,9998000.0,Trademark,1
+Theme Parks,Disney's Animal Kingdom,9998000.0,Water-Rides,0
+Theme Parks,Disney's Animal Kingdom,9998000.0,Neighboring,1
+Theme Parks,Disney's Animal Kingdom,9998000.0,Seasonal,1
+Theme Parks,Disney's Animal Kingdom,9998000.0,Hotels,1
+Theme Parks,Disney's Animal Kingdom,9998000.0,Multiple Sites,1
+Theme Parks,Disney's Animal Kingdom,9998000.0,Parades,1
+Theme Parks,Disney Hollywood Studios,9912000.0,Trademark,1
+Theme Parks,Disney Hollywood Studios,9912000.0,Water-Rides,1
+Theme Parks,Disney Hollywood Studios,9912000.0,Neighboring,1
+Theme Parks,Disney Hollywood Studios,9912000.0,Seasonal,1
+Theme Parks,Disney Hollywood Studios,9912000.0,Hotels,1
+Theme Parks,Disney Hollywood Studios,9912000.0,Multiple Sites,1
+Theme Parks,Disney Hollywood Studios,9912000.0,Parades,0
+Theme Parks,Universal Studios Island of Adventure,7981000.0,Trademark,1
+Theme Parks,Universal Studios Island of Adventure,7981000.0,Water-Rides,0
+Theme Parks,Universal Studios Island of Adventure,7981000.0,Neighboring,1
+Theme Parks,Universal Studios Island of Adventure,7981000.0,Seasonal,1
+Theme Parks,Universal Studios Island of Adventure,7981000.0,Hotels,1
+Theme Parks,Universal Studios Island of Adventure,7981000.0,Multiple Sites,1
+Theme Parks,Universal Studios Island of Adventure,7981000.0,Parades,0
+Theme Parks,Disney's California Adventure,7775000.0,Trademark,1
+Theme Parks,Disney's California Adventure,7775000.0,Water-Rides,0
+Theme Parks,Disney's California Adventure,7775000.0,Neighboring,1
+Theme Parks,Disney's California Adventure,7775000.0,Seasonal,1
+Theme Parks,Disney's California Adventure,7775000.0,Hotels,1
+Theme Parks,Disney's California Adventure,7775000.0,Multiple Sites,1
+Theme Parks,Disney's California Adventure,7775000.0,Parades,1
+Theme Parks,Universal Studios Florida,6195000.0,Trademark,1
+Theme Parks,Universal Studios Florida,6195000.0,Water-Rides,0
+Theme Parks,Universal Studios Florida,6195000.0,Neighboring,1
+Theme Parks,Universal Studios Florida,6195000.0,Seasonal,0
+Theme Parks,Universal Studios Florida,6195000.0,Hotels,1
+Theme Parks,Universal Studios Florida,6195000.0,Multiple Sites,1
+Theme Parks,Universal Studios Florida,6195000.0,Parades,1
+Theme Parks,Universal Studios Hollywood,5912000.0,Trademark,1
+Theme Parks,Universal Studios Hollywood,5912000.0,Water-Rides,0
+Theme Parks,Universal Studios Hollywood,5912000.0,Neighboring,0
+Theme Parks,Universal Studios Hollywood,5912000.0,Seasonal,1
+Theme Parks,Universal Studios Hollywood,5912000.0,Hotels,0
+Theme Parks,Universal Studios Hollywood,5912000.0,Multiple Sites,1
+Theme Parks,Universal Studios Hollywood,5912000.0,Parades,0
+Theme Parks,Sea World Florida,5912000.0,Trademark,0
+Theme Parks,Sea World Florida,5912000.0,Water-Rides,0
+Theme Parks,Sea World Florida,5912000.0,Neighboring,0
+Theme Parks,Sea World Florida,5912000.0,Seasonal,1
+Theme Parks,Sea World Florida,5912000.0,Hotels,0
+Theme Parks,Sea World Florida,5912000.0,Multiple Sites,1
+Theme Parks,Sea World Florida,5912000.0,Parades,0
+Theme Parks,Sea World San Diego,4444000.0,Trademark,0
+Theme Parks,Sea World San Diego,4444000.0,Water-Rides,0
+Theme Parks,Sea World San Diego,4444000.0,Neighboring,0
+Theme Parks,Sea World San Diego,4444000.0,Seasonal,1
+Theme Parks,Sea World San Diego,4444000.0,Hotels,0
+Theme Parks,Sea World San Diego,4444000.0,Multiple Sites,1
+Theme Parks,Sea World San Diego,4444000.0,Parades,0
+Theme Parks,Busch Gardens,4348000.0,Trademark,1
+Theme Parks,Busch Gardens,4348000.0,Water-Rides,0
+Theme Parks,Busch Gardens,4348000.0,Neighboring,0
+Theme Parks,Busch Gardens,4348000.0,Seasonal,1
+Theme Parks,Busch Gardens,4348000.0,Hotels,0
+Theme Parks,Busch Gardens,4348000.0,Multiple Sites,1
+Theme Parks,Busch Gardens,4348000.0,Parades,0
+Theme Parks,Canada Wonderland,3655000.0,Trademark,1
+Theme Parks,Canada Wonderland,3655000.0,Water-Rides,0
+Theme Parks,Canada Wonderland,3655000.0,Neighboring,0
+Theme Parks,Canada Wonderland,3655000.0,Seasonal,0
+Theme Parks,Canada Wonderland,3655000.0,Hotels,0
+Theme Parks,Canada Wonderland,3655000.0,Multiple Sites,1
+Theme Parks,Canada Wonderland,3655000.0,Parades,0
+Theme Parks,Knott's Berry Farm,3508000.0,Trademark,1
+Theme Parks,Knott's Berry Farm,3508000.0,Water-Rides,0
+Theme Parks,Knott's Berry Farm,3508000.0,Neighboring,1
+Theme Parks,Knott's Berry Farm,3508000.0,Seasonal,1
+Theme Parks,Knott's Berry Farm,3508000.0,Hotels,1
+Theme Parks,Knott's Berry Farm,3508000.0,Multiple Sites,1
+Theme Parks,Knott's Berry Farm,3508000.0,Parades,1
+Theme Parks,Cedar Point,3221000.0,Trademark,1
+Theme Parks,Cedar Point,3221000.0,Water-Rides,0
+Theme Parks,Cedar Point,3221000.0,Neighboring,1
+Theme Parks,Cedar Point,3221000.0,Seasonal,0
+Theme Parks,Cedar Point,3221000.0,Hotels,1
+Theme Parks,Cedar Point,3221000.0,Multiple Sites,1
+Theme Parks,Cedar Point,3221000.0,Parades,0
+Theme Parks,Paramount's Kings Island,3206000.0,Trademark,1
+Theme Parks,Paramount's Kings Island,3206000.0,Water-Rides,0
+Theme Parks,Paramount's Kings Island,3206000.0,Neighboring,1
+Theme Parks,Paramount's Kings Island,3206000.0,Seasonal,0
+Theme Parks,Paramount's Kings Island,3206000.0,Hotels,0
+Theme Parks,Paramount's Kings Island,3206000.0,Multiple Sites,1
+Theme Parks,Paramount's Kings Island,3206000.0,Parades,0
+Theme Parks,Bush Gardens Williamsburg,3140000.0,Trademark,1
+Theme Parks,Bush Gardens Williamsburg,3140000.0,Water-Rides,0
+Theme Parks,Bush Gardens Williamsburg,3140000.0,Neighboring,0
+Theme Parks,Bush Gardens Williamsburg,3140000.0,Seasonal,1
+Theme Parks,Bush Gardens Williamsburg,3140000.0,Hotels,0
+Theme Parks,Bush Gardens Williamsburg,3140000.0,Multiple Sites,1
+Theme Parks,Bush Gardens Williamsburg,3140000.0,Parades,0
+Theme Parks,Hershey Park,2854000.0,Trademark,1
+Theme Parks,Hershey Park,2854000.0,Water-Rides,0
+Theme Parks,Hershey Park,2854000.0,Neighboring,0
+Theme Parks,Hershey Park,2854000.0,Seasonal,0
+Theme Parks,Hershey Park,2854000.0,Hotels,0
+Theme Parks,Hershey Park,2854000.0,Multiple Sites,0
+Theme Parks,Hershey Park,2854000.0,Parades,1
+Theme Parks,Six Flags Magic Mountain,2808000.0,Trademark,1
+Theme Parks,Six Flags Magic Mountain,2808000.0,Water-Rides,0
+Theme Parks,Six Flags Magic Mountain,2808000.0,Neighboring,1
+Theme Parks,Six Flags Magic Mountain,2808000.0,Seasonal,1
+Theme Parks,Six Flags Magic Mountain,2808000.0,Hotels,0
+Theme Parks,Six Flags Magic Mountain,2808000.0,Multiple Sites,1
+Theme Parks,Six Flags Magic Mountain,2808000.0,Parades,1
+Theme Parks,Sea World Texas,2678000.0,Trademark,0
+Theme Parks,Sea World Texas,2678000.0,Water-Rides,0
+Theme Parks,Sea World Texas,2678000.0,Neighboring,0
+Theme Parks,Sea World Texas,2678000.0,Seasonal,1
+Theme Parks,Sea World Texas,2678000.0,Hotels,0
+Theme Parks,Sea World Texas,2678000.0,Multiple Sites,1
+Theme Parks,Sea World Texas,2678000.0,Parades,0
+US Universities,California Institute of Technology,94.9,Public,1
+US Universities,California Institute of Technology,94.9,Research,1
+US Universities,California Institute of Technology,94.9,Smoke Free,1
+US Universities,California Institute of Technology,94.9,NCAA D1,1
+US Universities,California Institute of Technology,94.9,Capital,1
+US Universities,California Institute of Technology,94.9,ROTC,1
+US Universities,California Institute of Technology,94.9,Quarter,1
+US Universities,California Institute of Technology,94.9,President,0
+US Universities,California Institute of Technology,94.9,Online,0
+US Universities,Harvard University,93.9,Public,1
+US Universities,Harvard University,93.9,Research,1
+US Universities,Harvard University,93.9,Smoke Free,1
+US Universities,Harvard University,93.9,NCAA D1,0
+US Universities,Harvard University,93.9,Capital,1
+US Universities,Harvard University,93.9,ROTC,0
+US Universities,Harvard University,93.9,Quarter,0
+US Universities,Harvard University,93.9,President,1
+US Universities,Harvard University,93.9,Online,1
+US Universities,Stanford University,93.8,Public,1
+US Universities,Stanford University,93.8,Research,1
+US Universities,Stanford University,93.8,Smoke Free,1
+US Universities,Stanford University,93.8,NCAA D1,0
+US Universities,Stanford University,93.8,Capital,1
+US Universities,Stanford University,93.8,ROTC,0
+US Universities,Stanford University,93.8,Quarter,1
+US Universities,Stanford University,93.8,President,1
+US Universities,Stanford University,93.8,Online,1
+US Universities,Massachusetts Institute of Technology,93.0,Public,1
+US Universities,Massachusetts Institute of Technology,93.0,Research,1
+US Universities,Massachusetts Institute of Technology,93.0,Smoke Free,1
+US Universities,Massachusetts Institute of Technology,93.0,NCAA D1,1
+US Universities,Massachusetts Institute of Technology,93.0,Capital,1
+US Universities,Massachusetts Institute of Technology,93.0,ROTC,0
+US Universities,Massachusetts Institute of Technology,93.0,Quarter,0
+US Universities,Massachusetts Institute of Technology,93.0,President,0
+US Universities,Massachusetts Institute of Technology,93.0,Online,0
+US Universities,Princeton University,92.7,Public,1
+US Universities,Princeton University,92.7,Research,1
+US Universities,Princeton University,92.7,Smoke Free,1
+US Universities,Princeton University,92.7,NCAA D1,0
+US Universities,Princeton University,92.7,Capital,1
+US Universities,Princeton University,92.7,ROTC,0
+US Universities,Princeton University,92.7,Quarter,0
+US Universities,Princeton University,92.7,President,1
+US Universities,Princeton University,92.7,Online,0
+US Universities,"University of California, Berkeley",89.8,Public,0
+US Universities,"University of California, Berkeley",89.8,Research,1
+US Universities,"University of California, Berkeley",89.8,Smoke Free,0
+US Universities,"University of California, Berkeley",89.8,NCAA D1,0
+US Universities,"University of California, Berkeley",89.8,Capital,1
+US Universities,"University of California, Berkeley",89.8,ROTC,0
+US Universities,"University of California, Berkeley",89.8,Quarter,1
+US Universities,"University of California, Berkeley",89.8,President,0
+US Universities,"University of California, Berkeley",89.8,Online,1
+US Universities,University of Chicago,87.8,Public,1
+US Universities,University of Chicago,87.8,Research,1
+US Universities,University of Chicago,87.8,Smoke Free,0
+US Universities,University of Chicago,87.8,NCAA D1,1
+US Universities,University of Chicago,87.8,Capital,1
+US Universities,University of Chicago,87.8,ROTC,1
+US Universities,University of Chicago,87.8,Quarter,1
+US Universities,University of Chicago,87.8,President,0
+US Universities,University of Chicago,87.8,Online,1
+US Universities,Yale University,87.4,Public,1
+US Universities,Yale University,87.4,Research,1
+US Universities,Yale University,87.4,Smoke Free,1
+US Universities,Yale University,87.4,NCAA D1,0
+US Universities,Yale University,87.4,Capital,1
+US Universities,Yale University,87.4,ROTC,1
+US Universities,Yale University,87.4,Quarter,0
+US Universities,Yale University,87.4,President,1
+US Universities,Yale University,87.4,Online,1
+US Universities,"University of California, Los Angeles",86.3,Public,0
+US Universities,"University of California, Los Angeles",86.3,Research,1
+US Universities,"University of California, Los Angeles",86.3,Smoke Free,0
+US Universities,"University of California, Los Angeles",86.3,NCAA D1,0
+US Universities,"University of California, Los Angeles",86.3,Capital,1
+US Universities,"University of California, Los Angeles",86.3,ROTC,0
+US Universities,"University of California, Los Angeles",86.3,Quarter,1
+US Universities,"University of California, Los Angeles",86.3,President,0
+US Universities,"University of California, Los Angeles",86.3,Online,1
+US Universities,Columbia University,85.2,Public,1
+US Universities,Columbia University,85.2,Research,1
+US Universities,Columbia University,85.2,Smoke Free,1
+US Universities,Columbia University,85.2,NCAA D1,0
+US Universities,Columbia University,85.2,Capital,1
+US Universities,Columbia University,85.2,ROTC,0
+US Universities,Columbia University,85.2,Quarter,0
+US Universities,Columbia University,85.2,President,1
+US Universities,Columbia University,85.2,Online,1
+US Universities,Johns Hopkins University,83.7,Public,1
+US Universities,Johns Hopkins University,83.7,Research,1
+US Universities,Johns Hopkins University,83.7,Smoke Free,1
+US Universities,Johns Hopkins University,83.7,NCAA D1,1
+US Universities,Johns Hopkins University,83.7,Capital,1
+US Universities,Johns Hopkins University,83.7,ROTC,0
+US Universities,Johns Hopkins University,83.7,Quarter,0
+US Universities,Johns Hopkins University,83.7,President,1
+US Universities,Johns Hopkins University,83.7,Online,1
+US Universities,University of Pennsylvania,81.0,Public,1
+US Universities,University of Pennsylvania,81.0,Research,1
+US Universities,University of Pennsylvania,81.0,Smoke Free,1
+US Universities,University of Pennsylvania,81.0,NCAA D1,0
+US Universities,University of Pennsylvania,81.0,Capital,1
+US Universities,University of Pennsylvania,81.0,ROTC,0
+US Universities,University of Pennsylvania,81.0,Quarter,0
+US Universities,University of Pennsylvania,81.0,President,1
+US Universities,University of Pennsylvania,81.0,Online,1
+US Universities,Duke University,79.3,Public,1
+US Universities,Duke University,79.3,Research,1
+US Universities,Duke University,79.3,Smoke Free,1
+US Universities,Duke University,79.3,NCAA D1,0
+US Universities,Duke University,79.3,Capital,1
+US Universities,Duke University,79.3,ROTC,0
+US Universities,Duke University,79.3,Quarter,0
+US Universities,Duke University,79.3,President,1
+US Universities,Duke University,79.3,Online,1
+US Universities,"University of Michigan, Ann Arbor",79.2,Public,0
+US Universities,"University of Michigan, Ann Arbor",79.2,Research,1
+US Universities,"University of Michigan, Ann Arbor",79.2,Smoke Free,0
+US Universities,"University of Michigan, Ann Arbor",79.2,NCAA D1,0
+US Universities,"University of Michigan, Ann Arbor",79.2,Capital,1
+US Universities,"University of Michigan, Ann Arbor",79.2,ROTC,1
+US Universities,"University of Michigan, Ann Arbor",79.2,Quarter,0
+US Universities,"University of Michigan, Ann Arbor",79.2,President,1
+US Universities,"University of Michigan, Ann Arbor",79.2,Online,1
+US Universities,Cornell University,79.1,Public,1
+US Universities,Cornell University,79.1,Research,1
+US Universities,Cornell University,79.1,Smoke Free,1
+US Universities,Cornell University,79.1,NCAA D1,0
+US Universities,Cornell University,79.1,Capital,1
+US Universities,Cornell University,79.1,ROTC,0
+US Universities,Cornell University,79.1,Quarter,0
+US Universities,Cornell University,79.1,President,0
+US Universities,Cornell University,79.1,Online,1
+US Universities,Northwestern University,77.1,Public,1
+US Universities,Northwestern University,77.1,Research,1
+US Universities,Northwestern University,77.1,Smoke Free,1
+US Universities,Northwestern University,77.1,NCAA D1,0
+US Universities,Northwestern University,77.1,Capital,1
+US Universities,Northwestern University,77.1,ROTC,1
+US Universities,Northwestern University,77.1,Quarter,1
+US Universities,Northwestern University,77.1,President,0
+US Universities,Northwestern University,77.1,Online,1
+US Universities,Carnegie Mellon University,76.0,Public,1
+US Universities,Carnegie Mellon University,76.0,Research,1
+US Universities,Carnegie Mellon University,76.0,Smoke Free,1
+US Universities,Carnegie Mellon University,76.0,NCAA D1,1
+US Universities,Carnegie Mellon University,76.0,Capital,1
+US Universities,Carnegie Mellon University,76.0,ROTC,1
+US Universities,Carnegie Mellon University,76.0,Quarter,0
+US Universities,Carnegie Mellon University,76.0,President,0
+US Universities,Carnegie Mellon University,76.0,Online,1
+US Universities,University of Washington at Seattle,73.4,Public,0
+US Universities,University of Washington at Seattle,73.4,Research,1
+US Universities,University of Washington at Seattle,73.4,Smoke Free,1
+US Universities,University of Washington at Seattle,73.4,NCAA D1,0
+US Universities,University of Washington at Seattle,73.4,Capital,1
+US Universities,University of Washington at Seattle,73.4,ROTC,1
+US Universities,University of Washington at Seattle,73.4,Quarter,1
+US Universities,University of Washington at Seattle,73.4,President,0
+US Universities,University of Washington at Seattle,73.4,Online,1
+US Universities,University of Texas at Austin,72.2,Public,0
+US Universities,University of Texas at Austin,72.2,Research,0
+US Universities,University of Texas at Austin,72.2,Smoke Free,0
+US Universities,University of Texas at Austin,72.2,NCAA D1,0
+US Universities,University of Texas at Austin,72.2,Capital,0
+US Universities,University of Texas at Austin,72.2,ROTC,0
+US Universities,University of Texas at Austin,72.2,Quarter,0
+US Universities,University of Texas at Austin,72.2,President,0
+US Universities,University of Texas at Austin,72.2,Online,1
+US Universities,Georgia Institute of Technology,71.6,Public,0
+US Universities,Georgia Institute of Technology,71.6,Research,1
+US Universities,Georgia Institute of Technology,71.6,Smoke Free,1
+US Universities,Georgia Institute of Technology,71.6,NCAA D1,1
+US Universities,Georgia Institute of Technology,71.6,Capital,0
+US Universities,Georgia Institute of Technology,71.6,ROTC,0
+US Universities,Georgia Institute of Technology,71.6,Quarter,0
+US Universities,Georgia Institute of Technology,71.6,President,1
+US Universities,Georgia Institute of Technology,71.6,Online,1
+US Universities,University of Illinois at Urbana Champaign,71.4,Public,0
+US Universities,University of Illinois at Urbana Champaign,71.4,Research,1
+US Universities,University of Illinois at Urbana Champaign,71.4,Smoke Free,0
+US Universities,University of Illinois at Urbana Champaign,71.4,NCAA D1,0
+US Universities,University of Illinois at Urbana Champaign,71.4,Capital,1
+US Universities,University of Illinois at Urbana Champaign,71.4,ROTC,0
+US Universities,University of Illinois at Urbana Champaign,71.4,Quarter,0
+US Universities,University of Illinois at Urbana Champaign,71.4,President,0
+US Universities,University of Illinois at Urbana Champaign,71.4,Online,1
+US Universities,University of Wisconsin - Madison,71.1,Public,0
+US Universities,University of Wisconsin - Madison,71.1,Research,1
+US Universities,University of Wisconsin - Madison,71.1,Smoke Free,1
+US Universities,University of Wisconsin - Madison,71.1,NCAA D1,0
+US Universities,University of Wisconsin - Madison,71.1,Capital,0
+US Universities,University of Wisconsin - Madison,71.1,ROTC,0
+US Universities,University of Wisconsin - Madison,71.1,Quarter,0
+US Universities,University of Wisconsin - Madison,71.1,President,0
+US Universities,University of Wisconsin - Madison,71.1,Online,0
+US Universities,"University of California, Santa Barbara",68.4,Public,0
+US Universities,"University of California, Santa Barbara",68.4,Research,1
+US Universities,"University of California, Santa Barbara",68.4,Smoke Free,0
+US Universities,"University of California, Santa Barbara",68.4,NCAA D1,0
+US Universities,"University of California, Santa Barbara",68.4,Capital,1
+US Universities,"University of California, Santa Barbara",68.4,ROTC,0
+US Universities,"University of California, Santa Barbara",68.4,Quarter,1
+US Universities,"University of California, Santa Barbara",68.4,President,0
+US Universities,"University of California, Santa Barbara",68.4,Online,0
+US Universities,New York University,67.4,Public,1
+US Universities,New York University,67.4,Research,1
+US Universities,New York University,67.4,Smoke Free,0
+US Universities,New York University,67.4,NCAA D1,1
+US Universities,New York University,67.4,Capital,1
+US Universities,New York University,67.4,ROTC,0
+US Universities,New York University,67.4,Quarter,0
+US Universities,New York University,67.4,President,0
+US Universities,New York University,67.4,Online,1
+US Universities,"University of California, San Diego",67.4,Public,0
+US Universities,"University of California, San Diego",67.4,Research,1
+US Universities,"University of California, San Diego",67.4,Smoke Free,0
+US Universities,"University of California, San Diego",67.4,NCAA D1,0
+US Universities,"University of California, San Diego",67.4,Capital,1
+US Universities,"University of California, San Diego",67.4,ROTC,0
+US Universities,"University of California, San Diego",67.4,Quarter,1
+US Universities,"University of California, San Diego",67.4,President,0
+US Universities,"University of California, San Diego",67.4,Online,0
+US Universities,Washington University in St. Louis,67.2,Public,0
+US Universities,Washington University in St. Louis,67.2,Research,1
+US Universities,Washington University in St. Louis,67.2,Smoke Free,0
+US Universities,Washington University in St. Louis,67.2,NCAA D1,1
+US Universities,Washington University in St. Louis,67.2,Capital,1
+US Universities,Washington University in St. Louis,67.2,ROTC,0
+US Universities,Washington University in St. Louis,67.2,Quarter,0
+US Universities,Washington University in St. Louis,67.2,President,0
+US Universities,Washington University in St. Louis,67.2,Online,0
+US Universities,University of Minnesota,64.9,Public,0
+US Universities,University of Minnesota,64.9,Research,1
+US Universities,University of Minnesota,64.9,Smoke Free,0
+US Universities,University of Minnesota,64.9,NCAA D1,0
+US Universities,University of Minnesota,64.9,Capital,1
+US Universities,University of Minnesota,64.9,ROTC,1
+US Universities,University of Minnesota,64.9,Quarter,0
+US Universities,University of Minnesota,64.9,President,1
+US Universities,University of Minnesota,64.9,Online,1
+US Universities,University of North Carolina at Chapel Hill,64.5,Public,0
+US Universities,University of North Carolina at Chapel Hill,64.5,Research,1
+US Universities,University of North Carolina at Chapel Hill,64.5,Smoke Free,1
+US Universities,University of North Carolina at Chapel Hill,64.5,NCAA D1,0
+US Universities,University of North Carolina at Chapel Hill,64.5,Capital,1
+US Universities,University of North Carolina at Chapel Hill,64.5,ROTC,0
+US Universities,University of North Carolina at Chapel Hill,64.5,Quarter,0
+US Universities,University of North Carolina at Chapel Hill,64.5,President,1
+US Universities,University of North Carolina at Chapel Hill,64.5,Online,1
+US Universities,Pennsylvania State University,64.2,Public,0
+US Universities,Pennsylvania State University,64.2,Research,1
+US Universities,Pennsylvania State University,64.2,Smoke Free,1
+US Universities,Pennsylvania State University,64.2,NCAA D1,0
+US Universities,Pennsylvania State University,64.2,Capital,1
+US Universities,Pennsylvania State University,64.2,ROTC,0
+US Universities,Pennsylvania State University,64.2,Quarter,0
+US Universities,Pennsylvania State University,64.2,President,0
+US Universities,Pennsylvania State University,64.2,Online,1
+US Universities,Boston University,63.5,Public,1
+US Universities,Boston University,63.5,Research,1
+US Universities,Boston University,63.5,Smoke Free,1
+US Universities,Boston University,63.5,NCAA D1,0
+US Universities,Boston University,63.5,Capital,0
+US Universities,Boston University,63.5,ROTC,0
+US Universities,Boston University,63.5,Quarter,0
+US Universities,Boston University,63.5,President,0
+US Universities,Boston University,63.5,Online,1
+US Universities,Brown University,63.2,Public,1
+US Universities,Brown University,63.2,Research,1
+US Universities,Brown University,63.2,Smoke Free,1
+US Universities,Brown University,63.2,NCAA D1,0
+US Universities,Brown University,63.2,Capital,0
+US Universities,Brown University,63.2,ROTC,1
+US Universities,Brown University,63.2,Quarter,0
+US Universities,Brown University,63.2,President,0
+US Universities,Brown University,63.2,Online,0
+US Universities,"University of California, Davis",63.2,Public,0
+US Universities,"University of California, Davis",63.2,Research,1
+US Universities,"University of California, Davis",63.2,Smoke Free,0
+US Universities,"University of California, Davis",63.2,NCAA D1,0
+US Universities,"University of California, Davis",63.2,Capital,1
+US Universities,"University of California, Davis",63.2,ROTC,0
+US Universities,"University of California, Davis",63.2,Quarter,1
+US Universities,"University of California, Davis",63.2,President,0
+US Universities,"University of California, Davis",63.2,Online,0
+US Universities,Ohio State University at Columbus,62.0,Public,0
+US Universities,Ohio State University at Columbus,62.0,Research,1
+US Universities,Ohio State University at Columbus,62.0,Smoke Free,1
+US Universities,Ohio State University at Columbus,62.0,NCAA D1,0
+US Universities,Ohio State University at Columbus,62.0,Capital,0
+US Universities,Ohio State University at Columbus,62.0,ROTC,0
+US Universities,Ohio State University at Columbus,62.0,Quarter,0
+US Universities,Ohio State University at Columbus,62.0,President,0
+US Universities,Ohio State University at Columbus,62.0,Online,1
+US Universities,Purdue University,60.7,Public,0
+US Universities,Purdue University,60.7,Research,1
+US Universities,Purdue University,60.7,Smoke Free,0
+US Universities,Purdue University,60.7,NCAA D1,0
+US Universities,Purdue University,60.7,Capital,1
+US Universities,Purdue University,60.7,ROTC,0
+US Universities,Purdue University,60.7,Quarter,0
+US Universities,Purdue University,60.7,President,0
+US Universities,Purdue University,60.7,Online,1
+US Universities,Rice University,59.8,Public,1
+US Universities,Rice University,59.8,Research,1
+US Universities,Rice University,59.8,Smoke Free,1
+US Universities,Rice University,59.8,NCAA D1,0
+US Universities,Rice University,59.8,Capital,1
+US Universities,Rice University,59.8,ROTC,1
+US Universities,Rice University,59.8,Quarter,0
+US Universities,Rice University,59.8,President,0
+US Universities,Rice University,59.8,Online,0
+US Universities,University of Southern California,59.0,Public,1
+US Universities,University of Southern California,59.0,Research,1
+US Universities,University of Southern California,59.0,Smoke Free,1
+US Universities,University of Southern California,59.0,NCAA D1,0
+US Universities,University of Southern California,59.0,Capital,1
+US Universities,University of Southern California,59.0,ROTC,0
+US Universities,University of Southern California,59.0,Quarter,0
+US Universities,University of Southern California,59.0,President,0
+US Universities,University of Southern California,59.0,Online,1
+US Universities,University of Pittsburgh,56.7,Public,0
+US Universities,University of Pittsburgh,56.7,Research,1
+US Universities,University of Pittsburgh,56.7,Smoke Free,1
+US Universities,University of Pittsburgh,56.7,NCAA D1,0
+US Universities,University of Pittsburgh,56.7,Capital,1
+US Universities,University of Pittsburgh,56.7,ROTC,0
+US Universities,University of Pittsburgh,56.7,Quarter,0
+US Universities,University of Pittsburgh,56.7,President,0
+US Universities,University of Pittsburgh,56.7,Online,1
+US Universities,Emory University,56.1,Public,1
+US Universities,Emory University,56.1,Research,1
+US Universities,Emory University,56.1,Smoke Free,0
+US Universities,Emory University,56.1,NCAA D1,1
+US Universities,Emory University,56.1,Capital,0
+US Universities,Emory University,56.1,ROTC,0
+US Universities,Emory University,56.1,Quarter,0
+US Universities,Emory University,56.1,President,0
+US Universities,Emory University,56.1,Online,1
+US Universities,Tufts University,56.1,Public,1
+US Universities,Tufts University,56.1,Research,1
+US Universities,Tufts University,56.1,Smoke Free,0
+US Universities,Tufts University,56.1,NCAA D1,1
+US Universities,Tufts University,56.1,Capital,1
+US Universities,Tufts University,56.1,ROTC,0
+US Universities,Tufts University,56.1,Quarter,0
+US Universities,Tufts University,56.1,President,0
+US Universities,Tufts University,56.1,Online,0
+US Universities,Michigan State University,55.9,Public,0
+US Universities,Michigan State University,55.9,Research,1
+US Universities,Michigan State University,55.9,Smoke Free,1
+US Universities,Michigan State University,55.9,NCAA D1,0
+US Universities,Michigan State University,55.9,Capital,0
+US Universities,Michigan State University,55.9,ROTC,0
+US Universities,Michigan State University,55.9,Quarter,0
+US Universities,Michigan State University,55.9,President,0
+US Universities,Michigan State University,55.9,Online,1
+US Universities,Vanderbilt University,55.0,Public,1
+US Universities,Vanderbilt University,55.0,Research,1
+US Universities,Vanderbilt University,55.0,Smoke Free,1
+US Universities,Vanderbilt University,55.0,NCAA D1,0
+US Universities,Vanderbilt University,55.0,Capital,0
+US Universities,Vanderbilt University,55.0,ROTC,0
+US Universities,Vanderbilt University,55.0,Quarter,0
+US Universities,Vanderbilt University,55.0,President,0
+US Universities,Vanderbilt University,55.0,Online,0
+US Universities,Case Western Reserve University,55.0,Public,1
+US Universities,Case Western Reserve University,55.0,Research,1
+US Universities,Case Western Reserve University,55.0,Smoke Free,1
+US Universities,Case Western Reserve University,55.0,NCAA D1,1
+US Universities,Case Western Reserve University,55.0,Capital,1
+US Universities,Case Western Reserve University,55.0,ROTC,0
+US Universities,Case Western Reserve University,55.0,Quarter,0
+US Universities,Case Western Reserve University,55.0,President,0
+US Universities,Case Western Reserve University,55.0,Online,1
+US Universities,University of Notre Dame,54.7,Public,1
+US Universities,University of Notre Dame,54.7,Research,1
+US Universities,University of Notre Dame,54.7,Smoke Free,0
+US Universities,University of Notre Dame,54.7,NCAA D1,0
+US Universities,University of Notre Dame,54.7,Capital,1
+US Universities,University of Notre Dame,54.7,ROTC,0
+US Universities,University of Notre Dame,54.7,Quarter,0
+US Universities,University of Notre Dame,54.7,President,0
+US Universities,University of Notre Dame,54.7,Online,0
+US Universities,"University of California, Irvine",54.1,Public,0
+US Universities,"University of California, Irvine",54.1,Research,1
+US Universities,"University of California, Irvine",54.1,Smoke Free,0
+US Universities,"University of California, Irvine",54.1,NCAA D1,0
+US Universities,"University of California, Irvine",54.1,Capital,1
+US Universities,"University of California, Irvine",54.1,ROTC,0
+US Universities,"University of California, Irvine",54.1,Quarter,1
+US Universities,"University of California, Irvine",54.1,President,0
+US Universities,"University of California, Irvine",54.1,Online,0
+US Universities,University of Rochester,53.6,Public,1
+US Universities,University of Rochester,53.6,Research,1
+US Universities,University of Rochester,53.6,Smoke Free,1
+US Universities,University of Rochester,53.6,NCAA D1,1
+US Universities,University of Rochester,53.6,Capital,1
+US Universities,University of Rochester,53.6,ROTC,0
+US Universities,University of Rochester,53.6,Quarter,0
+US Universities,University of Rochester,53.6,President,0
+US Universities,University of Rochester,53.6,Online,0
+US Universities,University of Colorado at Boulder,53.4,Public,0
+US Universities,University of Colorado at Boulder,53.4,Research,1
+US Universities,University of Colorado at Boulder,53.4,Smoke Free,1
+US Universities,University of Colorado at Boulder,53.4,NCAA D1,0
+US Universities,University of Colorado at Boulder,53.4,Capital,1
+US Universities,University of Colorado at Boulder,53.4,ROTC,0
+US Universities,University of Colorado at Boulder,53.4,Quarter,0
+US Universities,University of Colorado at Boulder,53.4,President,0
+US Universities,University of Colorado at Boulder,53.4,Online,1
+US Universities,University of Arizona,52.4,Public,0
+US Universities,University of Arizona,52.4,Research,1
+US Universities,University of Arizona,52.4,Smoke Free,1
+US Universities,University of Arizona,52.4,NCAA D1,0
+US Universities,University of Arizona,52.4,Capital,1
+US Universities,University of Arizona,52.4,ROTC,0
+US Universities,University of Arizona,52.4,Quarter,0
+US Universities,University of Arizona,52.4,President,0
+US Universities,University of Arizona,52.4,Online,1
+US Universities,"Rutgers, the State University of New Jersey",52.4,Public,0
+US Universities,"Rutgers, the State University of New Jersey",52.4,Research,1
+US Universities,"Rutgers, the State University of New Jersey",52.4,Smoke Free,1
+US Universities,"Rutgers, the State University of New Jersey",52.4,NCAA D1,0
+US Universities,"Rutgers, the State University of New Jersey",52.4,Capital,1
+US Universities,"Rutgers, the State University of New Jersey",52.4,ROTC,0
+US Universities,"Rutgers, the State University of New Jersey",52.4,Quarter,0
+US Universities,"Rutgers, the State University of New Jersey",52.4,President,0
+US Universities,"Rutgers, the State University of New Jersey",52.4,Online,1
+US Universities,University of Maryland at College Park,52.2,Public,0
+US Universities,University of Maryland at College Park,52.2,Research,1
+US Universities,University of Maryland at College Park,52.2,Smoke Free,1
+US Universities,University of Maryland at College Park,52.2,NCAA D1,0
+US Universities,University of Maryland at College Park,52.2,Capital,1
+US Universities,University of Maryland at College Park,52.2,ROTC,0
+US Universities,University of Maryland at College Park,52.2,Quarter,0
+US Universities,University of Maryland at College Park,52.2,President,0
+US Universities,University of Maryland at College Park,52.2,Online,1
+US Universities,University of Virginia,51.8,Public,0
+US Universities,University of Virginia,51.8,Research,1
+US Universities,University of Virginia,51.8,Smoke Free,1
+US Universities,University of Virginia,51.8,NCAA D1,0
+US Universities,University of Virginia,51.8,Capital,1
+US Universities,University of Virginia,51.8,ROTC,0
+US Universities,University of Virginia,51.8,Quarter,0
+US Universities,University of Virginia,51.8,President,0
+US Universities,University of Virginia,51.8,Online,0
+US Universities,Dartmouth College,50.5,Public,1
+US Universities,Dartmouth College,50.5,Research,1
+US Universities,Dartmouth College,50.5,Smoke Free,1
+US Universities,Dartmouth College,50.5,NCAA D1,0
+US Universities,Dartmouth College,50.5,Capital,1
+US Universities,Dartmouth College,50.5,ROTC,1
+US Universities,Dartmouth College,50.5,Quarter,1
+US Universities,Dartmouth College,50.5,President,0
+US Universities,Dartmouth College,50.5,Online,1
+US Universities,University of Florida,50.4,Public,0
+US Universities,University of Florida,50.4,Research,1
+US Universities,University of Florida,50.4,Smoke Free,0
+US Universities,University of Florida,50.4,NCAA D1,0
+US Universities,University of Florida,50.4,Capital,1
+US Universities,University of Florida,50.4,ROTC,0
+US Universities,University of Florida,50.4,Quarter,0
+US Universities,University of Florida,50.4,President,0
+US Universities,University of Florida,50.4,Online,1
+US Universities,University of Massachusetts,50.1,Public,0
+US Universities,University of Massachusetts,50.1,Research,1
+US Universities,University of Massachusetts,50.1,Smoke Free,1
+US Universities,University of Massachusetts,50.1,NCAA D1,0
+US Universities,University of Massachusetts,50.1,Capital,1
+US Universities,University of Massachusetts,50.1,ROTC,0
+US Universities,University of Massachusetts,50.1,Quarter,0
+US Universities,University of Massachusetts,50.1,President,0
+US Universities,University of Massachusetts,50.1,Online,1
+US Universities,Indiana University,50.1,Public,0
+US Universities,Indiana University,50.1,Research,1
+US Universities,Indiana University,50.1,Smoke Free,0
+US Universities,Indiana University,50.1,NCAA D1,0
+US Universities,Indiana University,50.1,Capital,1
+US Universities,Indiana University,50.1,ROTC,0
+US Universities,Indiana University,50.1,Quarter,0
+US Universities,Indiana University,50.1,President,0
+US Universities,Indiana University,50.1,Online,1
+US Universities,Boston College,50.0,Public,1
+US Universities,Boston College,50.0,Research,0
+US Universities,Boston College,50.0,Smoke Free,1
+US Universities,Boston College,50.0,NCAA D1,0
+US Universities,Boston College,50.0,Capital,1
+US Universities,Boston College,50.0,ROTC,0
+US Universities,Boston College,50.0,Quarter,0
+US Universities,Boston College,50.0,President,0
+US Universities,Boston College,50.0,Online,1
+US Universities,"University of California, Santa Cruz",49.9,Public,0
+US Universities,"University of California, Santa Cruz",49.9,Research,1
+US Universities,"University of California, Santa Cruz",49.9,Smoke Free,0
+US Universities,"University of California, Santa Cruz",49.9,NCAA D1,1
+US Universities,"University of California, Santa Cruz",49.9,Capital,1
+US Universities,"University of California, Santa Cruz",49.9,ROTC,1
+US Universities,"University of California, Santa Cruz",49.9,Quarter,1
+US Universities,"University of California, Santa Cruz",49.9,President,0
+US Universities,"University of California, Santa Cruz",49.9,Online,0
+US Universities,Colorado School of Mines,49.5,Public,0
+US Universities,Colorado School of Mines,49.5,Research,0
+US Universities,Colorado School of Mines,49.5,Smoke Free,1
+US Universities,Colorado School of Mines,49.5,NCAA D1,1
+US Universities,Colorado School of Mines,49.5,Capital,1
+US Universities,Colorado School of Mines,49.5,ROTC,0
+US Universities,Colorado School of Mines,49.5,Quarter,0
+US Universities,Colorado School of Mines,49.5,President,0
+US Universities,Colorado School of Mines,49.5,Online,0
+US Universities,University of Utah,49.1,Public,0
+US Universities,University of Utah,49.1,Research,1
+US Universities,University of Utah,49.1,Smoke Free,1
+US Universities,University of Utah,49.1,NCAA D1,0
+US Universities,University of Utah,49.1,Capital,0
+US Universities,University of Utah,49.1,ROTC,0
+US Universities,University of Utah,49.1,Quarter,0
+US Universities,University of Utah,49.1,President,0
+US Universities,University of Utah,49.1,Online,1
+US Universities,Arizona State University,48.9,Public,0
+US Universities,Arizona State University,48.9,Research,1
+US Universities,Arizona State University,48.9,Smoke Free,0
+US Universities,Arizona State University,48.9,NCAA D1,0
+US Universities,Arizona State University,48.9,Capital,1
+US Universities,Arizona State University,48.9,ROTC,0
+US Universities,Arizona State University,48.9,Quarter,0
+US Universities,Arizona State University,48.9,President,0
+US Universities,Arizona State University,48.9,Online,1
+US Universities,"University of California, Riverside",48.7,Public,0
+US Universities,"University of California, Riverside",48.7,Research,1
+US Universities,"University of California, Riverside",48.7,Smoke Free,0
+US Universities,"University of California, Riverside",48.7,NCAA D1,0
+US Universities,"University of California, Riverside",48.7,Capital,1
+US Universities,"University of California, Riverside",48.7,ROTC,0
+US Universities,"University of California, Riverside",48.7,Quarter,1
+US Universities,"University of California, Riverside",48.7,President,0
+US Universities,"University of California, Riverside",48.7,Online,1
+US Universities,Texas A&M University,47.2,Public,0
+US Universities,Texas A&M University,47.2,Research,1
+US Universities,Texas A&M University,47.2,Smoke Free,1
+US Universities,Texas A&M University,47.2,NCAA D1,0
+US Universities,Texas A&M University,47.2,Capital,1
+US Universities,Texas A&M University,47.2,ROTC,0
+US Universities,Texas A&M University,47.2,Quarter,0
+US Universities,Texas A&M University,47.2,President,0
+US Universities,Texas A&M University,47.2,Online,1
+US Universities,Georgetown University,47.0,Public,1
+US Universities,Georgetown University,47.0,Research,1
+US Universities,Georgetown University,47.0,Smoke Free,1
+US Universities,Georgetown University,47.0,NCAA D1,0
+US Universities,Georgetown University,47.0,Capital,1
+US Universities,Georgetown University,47.0,ROTC,1
+US Universities,Georgetown University,47.0,Quarter,0
+US Universities,Georgetown University,47.0,President,1
+US Universities,Georgetown University,47.0,Online,1
+US Universities,University of Iowa,46.7,Public,0
+US Universities,University of Iowa,46.7,Research,1
+US Universities,University of Iowa,46.7,Smoke Free,0
+US Universities,University of Iowa,46.7,NCAA D1,0
+US Universities,University of Iowa,46.7,Capital,1
+US Universities,University of Iowa,46.7,ROTC,0
+US Universities,University of Iowa,46.7,Quarter,0
+US Universities,University of Iowa,46.7,President,0
+US Universities,University of Iowa,46.7,Online,0
+US Universities,Brandeis University,46.6,Public,1
+US Universities,Brandeis University,46.6,Research,1
+US Universities,Brandeis University,46.6,Smoke Free,1
+US Universities,Brandeis University,46.6,NCAA D1,1
+US Universities,Brandeis University,46.6,Capital,0
+US Universities,Brandeis University,46.6,ROTC,0
+US Universities,Brandeis University,46.6,Quarter,0
+US Universities,Brandeis University,46.6,President,0
+US Universities,Brandeis University,46.6,Online,1
+US Universities,Yeshiva University,46.1,Public,1
+US Universities,Yeshiva University,46.1,Research,1
+US Universities,Yeshiva University,46.1,Smoke Free,1
+US Universities,Yeshiva University,46.1,NCAA D1,1
+US Universities,Yeshiva University,46.1,Capital,1
+US Universities,Yeshiva University,46.1,ROTC,1
+US Universities,Yeshiva University,46.1,Quarter,0
+US Universities,Yeshiva University,46.1,President,0
+US Universities,Yeshiva University,46.1,Online,1

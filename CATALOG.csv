@@ -1,0 +1,40 @@
+dataset,domain,nParticipants,nTrials,origin,path
+stillman-et-al-mixed-gambles,risky-gamble-choice,578,140180,Stillman Krajbich Ferguson 2020 PNAS,datasets/risky-gamble-choice/stillman-et-al-mixed-gambles
+steyvers-lee-wagenmakers-2009-bandit,sequential-choice,451,135300,Steyvers Lee Wagenmakers 2009,datasets/sequential-choice/steyvers-lee-wagenmakers-2009-bandit
+lee-zhang-munro-steyvers-2011-bandit,sequential-choice,10,36000,Lee Zhang Munro Steyvers 2011,datasets/sequential-choice/lee-zhang-munro-steyvers-2011-bandit
+guan-et-al-2020-bandit,sequential-choice,56,107520,Guan et al. 2020,datasets/sequential-choice/guan-et-al-2020-bandit
+guan-et-al-2020-bart,sequential-choice,56,5600,Guan et al. 2020,datasets/sequential-choice/guan-et-al-2020-bart
+guan-et-al-2020-optimal-stopping,sequential-choice,56,8960,Guan et al. 2020,datasets/sequential-choice/guan-et-al-2020-optimal-stopping
+guan-et-al-2020-described-gambles,risky-gamble-choice,56,,Guan et al. 2020 (trials not archived),datasets/risky-gamble-choice/guan-et-al-2020-described-gambles
+mount-2003-optimal-stopping,sequential-choice,50,6000,Mount 2003,datasets/sequential-choice/mount-2003-optimal-stopping
+bart,sequential-choice,543,11140,bart W2023-F2025,datasets/sequential-choice/bart
+gasPrices,sequential-choice,196,3920,gas-station stopping W2023,datasets/sequential-choice/gasPrices
+fishPrices,sequential-choice,344,6940,fish-by-weekday stopping W2024-F2025,datasets/sequential-choice/fishPrices
+lee-cummins-2004,cue-based-multi-attribute,60,7341,Lee and Cummins 2004,datasets/cue-based-multi-attribute/lee-cummins-2004
+bergert-nosofsky-2007,cue-based-multi-attribute,61,2440,Bergert and Nosofsky 2007,datasets/cue-based-multi-attribute/bergert-nosofsky-2007
+lee-dry-2006,cue-based-multi-attribute,30,9000,Lee and Dry 2006,datasets/cue-based-multi-attribute/lee-dry-2006
+childers-recognition-sat,working-memory-recognition,80,131760,Childers et al. OSF word recognition SAT,datasets/working-memory-recognition/childers-recognition-sat
+stark-mst-continuous-osn,working-memory-recognition,65,16640,Stark lab continuous MST old/similar/new,datasets/working-memory-recognition/stark-mst
+stark-mst-study-test-osn,working-memory-recognition,191,43776,Stark lab study-test MST old/similar/new,datasets/working-memory-recognition/stark-mst
+stark-mst-continuous-on,working-memory-recognition,45,11520,Stark lab continuous MST old/new,datasets/working-memory-recognition/stark-mst
+stark-mst-study-test-on,working-memory-recognition,22,4224,Stark lab study-test MST old/new,datasets/working-memory-recognition/stark-mst
+kannan-conditioned-recognition,working-memory-recognition,44,10560,Kannan conditioned recognition,datasets/working-memory-recognition/kannan-conditioned-recognition
+ravlt-amyloid,working-memory-recognition,200,6000,RAVLT recognition amyloid groups (Embic/MCC; Twelve Angry Models),datasets/working-memory-recognition/ravlt-amyloid
+murdock-1962-free-recall,working-memory-recognition,,135,Murdock 1962 aggregated serial-position counts,datasets/working-memory-recognition/murdock-1962-free-recall
+lee-sarnecka-2011-give-n,judgment-and-estimation,56,1104,Lee and Sarnecka 2011,datasets/judgment-and-estimation/lee-sarnecka-2011-give-n
+lee-sarnecka-2011-fast-cards,judgment-and-estimation,56,1114,Lee and Sarnecka 2011,datasets/judgment-and-estimation/lee-sarnecka-2011-fast-cards
+chronicle-et-al-2008-tsp,sequential-choice,82,51660,Chronicle et al. 2008,datasets/sequential-choice/chronicle-et-al-2008-tsp
+vickers-et-al-2001-tsp,sequential-choice,8,2005,Vickers et al. 2001,datasets/sequential-choice/vickers-et-al-2001-tsp
+lee-zhang-shi-2011-price-is-right,judgment-and-estimation,,,Lee Zhang Shi 2011,datasets/judgment-and-estimation/lee-zhang-shi-2011-price-is-right
+lee-shi-2010-small-group-woc,judgment-and-estimation,,,Lee and Shi 2010,datasets/judgment-and-estimation/lee-shi-2010-small-group-woc
+lee-steyvers-miller-2014-rankings,judgment-and-estimation,,,Lee Steyvers Miller 2014,datasets/judgment-and-estimation/lee-steyvers-miller-2014-rankings
+lee-chong-2024-airline-tickets,sequential-choice,46,2300,Lee and Chong 2024,datasets/sequential-choice/lee-chong-2024-airline-tickets
+lee-courey-2021-mate-selection,sequential-choice,55,5494,Lee and Courey 2021,datasets/sequential-choice/lee-courey-2021-mate-selection
+lee-blanco-bo-2016-take-the-best,cue-based-multi-attribute,,11093,Lee Blanco Bo 2016 environments,datasets/cue-based-multi-attribute/lee-blanco-bo-2016-take-the-best
+lee-gluck-walsh-2019-switching,cue-based-multi-attribute,38,4557,Lee Gluck Walsh 2019,datasets/cue-based-multi-attribute/lee-gluck-walsh-2019-switching
+lee-mistry-menon-2022-nback,working-memory-recognition,1143,86391,Lee Mistry Menon 2022,datasets/working-memory-recognition/lee-mistry-menon-2022-nback
+lee-doering-carr-2019-recognition-validity,working-memory-recognition,270,56857,Lee Doering Carr 2019,datasets/working-memory-recognition/lee-doering-carr-2019-recognition-validity
+montgomery-lee-2021-nfl,judgment-and-estimation,1771,139430,Montgomery and Lee 2021,datasets/judgment-and-estimation/montgomery-lee-2021-nfl
+lee-lee-2017-crowd-majority,judgment-and-estimation,,7573,Lee and Lee 2017 problem-level,datasets/judgment-and-estimation/lee-lee-2017-crowd-majority
+lee-danileiko-2014-probability-estimates,judgment-and-estimation,290,11600,Lee and Danileiko 2014,datasets/judgment-and-estimation/lee-danileiko-2014-probability-estimates
+lee-ke-thurstonian-beliefs,judgment-and-estimation,3137,100858,Lee and Ke Thurstonian beliefs,datasets/judgment-and-estimation/lee-ke-thurstonian-beliefs
