@@ -66,6 +66,10 @@ Trial-level human behavioral datasets, mostly from studies associated with Micha
 | [Lee & Lee (2017)](datasets/judgment-and-estimation/lee-lee-2017-crowd-majority/) | Crowd majority vs accuracy (problem-level) |
 | [Lee & Danileiko (2014)](datasets/judgment-and-estimation/lee-danileiko-2014-probability-estimates/) | Probability estimates, general knowledge and soccer |
 | [Lee & Ke](datasets/judgment-and-estimation/lee-ke-thurstonian-beliefs/) | Thurstonian rankings of beliefs |
+| [unpublished percentage estimation](datasets/judgment-and-estimation/percentageEstimation/) | Percentage estimates (course; IDs shared with bart / gasPrices / fishPrices) |
+| [unpublished general-knowledge estimation](datasets/judgment-and-estimation/generalKnowledgeEstimation/) | Anchored and unanchored estimates (course; same IDs) |
+| [unpublished metacognitive estimation](datasets/judgment-and-estimation/metaCognition/) | True/false capitals with confidence (course; same IDs) |
+| [unpublished ranking](datasets/judgment-and-estimation/ranking/) | Partial rankings (course; same IDs) |
 
 ## Trial counts
 
@@ -80,8 +84,11 @@ These datasets live in separate repositories and are not copied here.
 | Repository | Contents |
 |------------|----------|
 | [categoryInvariance](https://github.com/mdlee/categoryInvariance) | 28 category-learning datasets (Danileiko & Lee, 2018); [OSF](https://osf.io/j95q6/) |
-| [orientationModeling](https://github.com/mdlee/orientationModeling) | Visual working-memory orientation reproduction |
+| [orientationModeling](https://github.com/mdlee/orientationModeling) | Visual working-memory orientation reproduction (Tomic & Bays, 2023; Ngiam & Lee, 2026) |
 | [intertemporalChoice](https://github.com/mdlee/intertemporalChoice) | Delay discounting |
+| [anchoringInTheYears](https://github.com/mdlee/anchoringInTheYears) | Event-year anchoring (Lee & Dang) and Barrera-Lemarchand Experiment 2 |
+| [citizenFrogs](https://github.com/mdlee/citizenFrogs) | Frog identification judgments |
+| [delayedRecognitionSpanTask](https://github.com/mdlee/delayedRecognitionSpanTask) | Marmoset delayed recognition span (choice and response time) |
 
 ## Citation
 

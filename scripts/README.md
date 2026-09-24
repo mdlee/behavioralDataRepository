@@ -7,6 +7,7 @@ CSV columns and MATLAB fields use **camelCase**. Each dataset folder has a `data
 ```bash
 python scripts/export_to_csv.py
 python scripts/export_bart.py
+python scripts/export_course_judgments.py
 python scripts/export_lee_stark_mst.py
 python scripts/export_amyloid_ravlt.py
 python scripts/export_osf_additions.py

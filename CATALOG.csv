@@ -35,3 +35,7 @@ montgomery-lee-2021-nfl,judgment-and-estimation,1771,139430,Montgomery and Lee 2
 lee-lee-2017-crowd-majority,judgment-and-estimation,,7573,Lee and Lee 2017 problem-level,datasets/judgment-and-estimation/lee-lee-2017-crowd-majority
 lee-danileiko-2014-probability-estimates,judgment-and-estimation,290,11600,Lee and Danileiko 2014,datasets/judgment-and-estimation/lee-danileiko-2014-probability-estimates
 lee-ke-thurstonian-beliefs,judgment-and-estimation,3137,100858,Lee and Ke Thurstonian beliefs,datasets/judgment-and-estimation/lee-ke-thurstonian-beliefs
+percentageEstimation,judgment-and-estimation,513,16737,unpublished course percentage estimates IRB 4286,datasets/judgment-and-estimation/percentageEstimation
+generalKnowledgeEstimation,judgment-and-estimation,520,5474,unpublished course anchored estimation IRB 4286,datasets/judgment-and-estimation/generalKnowledgeEstimation
+metaCognition,judgment-and-estimation,476,24150,unpublished course metacognitive estimation IRB 4286,datasets/judgment-and-estimation/metaCognition
+ranking,judgment-and-estimation,533,53671,unpublished course partial rankings IRB 4286,datasets/judgment-and-estimation/ranking
