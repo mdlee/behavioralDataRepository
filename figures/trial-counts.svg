@@ -1,78 +1,118 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="608" viewBox="0 0 900 608" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="868" viewBox="0 0 900 868" role="img" aria-labelledby="title desc">
   <title id="title">Exported trials by dataset</title>
-  <desc id="desc">Horizontal bar chart of trial counts for datasets in behavioralDataRepository, largest first. Source: CATALOG.csv.</desc>
-  <rect width="900" height="608" fill="#ffffff"/>
+  <desc id="desc">Horizontal bar chart of exported trials for each dataset in behavioralDataRepository, largest first. Bar color is the dataset group. Source: CATALOG.csv.</desc>
+  <rect width="100%" height="100%" fill="#ffffff"/>
   <text x="16" y="28" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="16" font-weight="600" fill="#111827">Exported trials by dataset</text>
-  <text x="238" y="56.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Stillman mixed gambles</text>
-  <rect x="248" y="48" width="520" height="14" rx="2" fill="#3b6ea8"/>
-  <text x="776" y="56.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">140,180</text>
-  <text x="238" y="78.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">NFL expert/novice</text>
-  <rect x="248" y="70" width="517" height="14" rx="2" fill="#3b6ea8"/>
-  <text x="773" y="78.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">139,430</text>
-  <text x="238" y="100.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Steyvers 2009 bandit</text>
-  <rect x="248" y="92" width="502" height="14" rx="2" fill="#3b6ea8"/>
-  <text x="758" y="100.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">135,300</text>
-  <text x="238" y="122.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Childers recognition</text>
-  <rect x="248" y="114" width="489" height="14" rx="2" fill="#3b6ea8"/>
-  <text x="745" y="122.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">131,760</text>
-  <text x="238" y="144.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Guan bandit</text>
-  <rect x="248" y="136" width="399" height="14" rx="2" fill="#3b6ea8"/>
-  <text x="655" y="144.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">107,520</text>
-  <text x="238" y="166.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Thurstonian beliefs</text>
-  <rect x="248" y="158" width="374" height="14" rx="2" fill="#3b6ea8"/>
-  <text x="630" y="166.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">100,858</text>
-  <text x="238" y="188.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">HCP + Stelter 2-back</text>
-  <rect x="248" y="180" width="320" height="14" rx="2" fill="#3b6ea8"/>
-  <text x="576" y="188.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">86,391</text>
-  <text x="238" y="210.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Recognition validity</text>
-  <rect x="248" y="202" width="211" height="14" rx="2" fill="#3b6ea8"/>
-  <text x="467" y="210.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">56,857</text>
-  <text x="238" y="232.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Chronicle 2008 TSP</text>
-  <rect x="248" y="224" width="192" height="14" rx="2" fill="#3b6ea8"/>
-  <text x="448" y="232.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">51,660</text>
-  <text x="238" y="254.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Lee 2011 bandit</text>
-  <rect x="248" y="246" width="134" height="14" rx="2" fill="#3b6ea8"/>
-  <text x="390" y="254.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">36,000</text>
-  <text x="238" y="276.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">unpublished bart</text>
-  <rect x="248" y="268" width="41" height="14" rx="2" fill="#3b6ea8"/>
-  <text x="297" y="276.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">11,140</text>
-  <text x="238" y="298.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Vijayakumar 2024 recognition</text>
-  <rect x="248" y="290" width="39" height="14" rx="2" fill="#3b6ea8"/>
-  <text x="295" y="298.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">10,560</text>
-  <text x="238" y="320.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Lee &amp; Dry advice</text>
-  <rect x="248" y="312" width="33" height="14" rx="2" fill="#3b6ea8"/>
-  <text x="289" y="320.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">9,000</text>
-  <text x="238" y="342.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Guan stopping</text>
-  <rect x="248" y="334" width="33" height="14" rx="2" fill="#3b6ea8"/>
-  <text x="289" y="342.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">8,960</text>
-  <text x="238" y="364.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Lee &amp; Stark 2023 MST</text>
-  <rect x="248" y="356" width="30" height="14" rx="2" fill="#3b6ea8"/>
-  <text x="286" y="364.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">8,064</text>
-  <text x="238" y="386.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Lee &amp; Cummins cues</text>
-  <rect x="248" y="378" width="27" height="14" rx="2" fill="#3b6ea8"/>
-  <text x="283" y="386.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">7,341</text>
-  <text x="238" y="408.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">unpublished fish prices</text>
-  <rect x="248" y="400" width="26" height="14" rx="2" fill="#3b6ea8"/>
-  <text x="282" y="408.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">6,940</text>
-  <text x="238" y="430.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Mount stopping</text>
-  <rect x="248" y="422" width="22" height="14" rx="2" fill="#3b6ea8"/>
-  <text x="278" y="430.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">6,000</text>
-  <text x="238" y="452.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Guan BART</text>
-  <rect x="248" y="444" width="21" height="14" rx="2" fill="#3b6ea8"/>
-  <text x="277" y="452.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">5,600</text>
-  <text x="238" y="474.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Lee &amp; Courey mate</text>
-  <rect x="248" y="466" width="20" height="14" rx="2" fill="#3b6ea8"/>
-  <text x="276" y="474.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">5,494</text>
-  <text x="238" y="496.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Lee, Gluck, &amp; Walsh</text>
-  <rect x="248" y="488" width="17" height="14" rx="2" fill="#3b6ea8"/>
-  <text x="273" y="496.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">4,557</text>
-  <text x="238" y="518.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">unpublished gas prices</text>
-  <rect x="248" y="510" width="15" height="14" rx="2" fill="#3b6ea8"/>
-  <text x="271" y="518.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">3,920</text>
-  <text x="238" y="540.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Bergert &amp; Nosofsky</text>
-  <rect x="248" y="532" width="9" height="14" rx="2" fill="#3b6ea8"/>
-  <text x="265" y="540.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">2,440</text>
-  <text x="238" y="562.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Lee &amp; Chong tickets</text>
-  <rect x="248" y="554" width="9" height="14" rx="2" fill="#3b6ea8"/>
-  <text x="265" y="562.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">2,300</text>
+  <text x="248" y="56.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Stillman mixed gambles</text>
+  <rect x="258" y="49" width="500" height="14" rx="2" fill="#3b6ea8"/>
+  <text x="766" y="56.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">140,180</text>
+  <text x="248" y="78.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">NFL expert/novice</text>
+  <rect x="258" y="71" width="497" height="14" rx="2" fill="#8a4b5c"/>
+  <text x="763" y="78.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">139,430</text>
+  <text x="248" y="100.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Steyvers 2009 bandit</text>
+  <rect x="258" y="93" width="483" height="14" rx="2" fill="#2f7d6d"/>
+  <text x="749" y="100.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">135,300</text>
+  <text x="248" y="122.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Childers recognition</text>
+  <rect x="258" y="115" width="470" height="14" rx="2" fill="#6b5b95"/>
+  <text x="736" y="122.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">131,760</text>
+  <text x="248" y="144.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Guan bandit</text>
+  <rect x="258" y="137" width="384" height="14" rx="2" fill="#2f7d6d"/>
+  <text x="650" y="144.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">107,520</text>
+  <text x="248" y="166.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Thurstonian beliefs</text>
+  <rect x="258" y="159" width="360" height="14" rx="2" fill="#8a4b5c"/>
+  <text x="626" y="166.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">100,858</text>
+  <text x="248" y="188.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">HCP + Stelter 2-back</text>
+  <rect x="258" y="181" width="308" height="14" rx="2" fill="#6b5b95"/>
+  <text x="574" y="188.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">86,391</text>
+  <text x="248" y="210.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Recognition validity</text>
+  <rect x="258" y="203" width="203" height="14" rx="2" fill="#6b5b95"/>
+  <text x="469" y="210.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">56,857</text>
+  <text x="248" y="232.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">course ranking</text>
+  <rect x="258" y="225" width="191" height="14" rx="2" fill="#8a4b5c"/>
+  <text x="457" y="232.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">53,671</text>
+  <text x="248" y="254.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Chronicle 2008 TSP</text>
+  <rect x="258" y="247" width="184" height="14" rx="2" fill="#2f7d6d"/>
+  <text x="450" y="254.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">51,660</text>
+  <text x="248" y="276.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Lee 2011 bandit</text>
+  <rect x="258" y="269" width="128" height="14" rx="2" fill="#2f7d6d"/>
+  <text x="394" y="276.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">36,000</text>
+  <text x="248" y="298.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">course metacognition</text>
+  <rect x="258" y="291" width="86" height="14" rx="2" fill="#8a4b5c"/>
+  <text x="352" y="298.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">24,150</text>
+  <text x="248" y="320.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">course percentage estimates</text>
+  <rect x="258" y="313" width="60" height="14" rx="2" fill="#8a4b5c"/>
+  <text x="326" y="320.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">16,737</text>
+  <text x="248" y="342.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Probability estimates</text>
+  <rect x="258" y="335" width="41" height="14" rx="2" fill="#8a4b5c"/>
+  <text x="307" y="342.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">11,600</text>
+  <text x="248" y="364.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">unpublished bart</text>
+  <rect x="258" y="357" width="40" height="14" rx="2" fill="#2f7d6d"/>
+  <text x="306" y="364.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">11,140</text>
+  <text x="248" y="386.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">TTB environments</text>
+  <rect x="258" y="379" width="40" height="14" rx="2" fill="#b86e3a"/>
+  <text x="306" y="386.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">11,093</text>
+  <text x="248" y="408.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Vijayakumar 2024 recognition</text>
+  <rect x="258" y="401" width="38" height="14" rx="2" fill="#6b5b95"/>
+  <text x="304" y="408.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">10,560</text>
+  <text x="248" y="430.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Lee &amp; Dry advice</text>
+  <rect x="258" y="423" width="32" height="14" rx="2" fill="#b86e3a"/>
+  <text x="298" y="430.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">9,000</text>
+  <text x="248" y="452.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Guan stopping</text>
+  <rect x="258" y="445" width="32" height="14" rx="2" fill="#2f7d6d"/>
+  <text x="298" y="452.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">8,960</text>
+  <text x="248" y="474.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Lee &amp; Stark 2023 MST</text>
+  <rect x="258" y="467" width="29" height="14" rx="2" fill="#6b5b95"/>
+  <text x="295" y="474.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">8,064</text>
+  <text x="248" y="496.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Crowd majority</text>
+  <rect x="258" y="489" width="27" height="14" rx="2" fill="#8a4b5c"/>
+  <text x="293" y="496.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">7,573</text>
+  <text x="248" y="518.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Lee &amp; Cummins cues</text>
+  <rect x="258" y="511" width="26" height="14" rx="2" fill="#b86e3a"/>
+  <text x="292" y="518.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">7,341</text>
+  <text x="248" y="540.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">unpublished fish prices</text>
+  <rect x="258" y="533" width="25" height="14" rx="2" fill="#2f7d6d"/>
+  <text x="291" y="540.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">6,940</text>
+  <text x="248" y="562.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Mount stopping</text>
+  <rect x="258" y="555" width="21" height="14" rx="2" fill="#2f7d6d"/>
+  <text x="287" y="562.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">6,000</text>
+  <text x="248" y="584.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Guan BART</text>
+  <rect x="258" y="577" width="20" height="14" rx="2" fill="#2f7d6d"/>
+  <text x="286" y="584.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">5,600</text>
+  <text x="248" y="606.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Lee &amp; Courey mate</text>
+  <rect x="258" y="599" width="20" height="14" rx="2" fill="#2f7d6d"/>
+  <text x="286" y="606.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">5,494</text>
+  <text x="248" y="628.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">course general knowledge</text>
+  <rect x="258" y="621" width="20" height="14" rx="2" fill="#8a4b5c"/>
+  <text x="286" y="628.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">5,474</text>
+  <text x="248" y="650.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Lee, Gluck, &amp; Walsh</text>
+  <rect x="258" y="643" width="16" height="14" rx="2" fill="#b86e3a"/>
+  <text x="282" y="650.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">4,557</text>
+  <text x="248" y="672.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">unpublished gas prices</text>
+  <rect x="258" y="665" width="14" height="14" rx="2" fill="#2f7d6d"/>
+  <text x="280" y="672.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">3,920</text>
+  <text x="248" y="694.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Bergert &amp; Nosofsky</text>
+  <rect x="258" y="687" width="9" height="14" rx="2" fill="#b86e3a"/>
+  <text x="275" y="694.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">2,440</text>
+  <text x="248" y="716.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Lee &amp; Chong tickets</text>
+  <rect x="258" y="709" width="8" height="14" rx="2" fill="#2f7d6d"/>
+  <text x="274" y="716.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">2,300</text>
+  <text x="248" y="738.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Vickers 2001 TSP</text>
+  <rect x="258" y="731" width="7" height="14" rx="2" fill="#2f7d6d"/>
+  <text x="273" y="738.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">2,005</text>
+  <text x="248" y="760.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Fast cards</text>
+  <rect x="258" y="753" width="4" height="14" rx="2" fill="#8a4b5c"/>
+  <text x="270" y="760.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">1,114</text>
+  <text x="248" y="782.0" text-anchor="end" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Give-N</text>
+  <rect x="258" y="775" width="4" height="14" rx="2" fill="#8a4b5c"/>
+  <text x="270" y="782.0" dominant-baseline="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="11" fill="#6b7280">1,104</text>
+  <rect x="16" y="812" width="12" height="12" rx="2" fill="#3b6ea8"/>
+  <text x="34" y="822" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Risky / gamble choice</text>
+  <rect x="210" y="812" width="12" height="12" rx="2" fill="#2f7d6d"/>
+  <text x="228" y="822" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Sequential choice</text>
+  <rect x="380" y="812" width="12" height="12" rx="2" fill="#b86e3a"/>
+  <text x="398" y="822" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Cue-based choice</text>
+  <rect x="16" y="836" width="12" height="12" rx="2" fill="#6b5b95"/>
+  <text x="34" y="846" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Recognition and recall</text>
+  <rect x="210" y="836" width="12" height="12" rx="2" fill="#8a4b5c"/>
+  <text x="228" y="846" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="12" fill="#374151">Judgment and estimation</text>
 </svg>

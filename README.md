@@ -75,7 +75,7 @@ Trial-level human behavioral datasets, mostly from studies associated with Micha
 
 ![Exported trials by dataset](figures/trial-counts.svg)
 
-Stillman all studies is 140,180 rows; Study 1 gain–loss only is 24,420. NFL counts are expert plus novice predictions. Thurstonian beliefs and crowd-majority files are rankings or problem-level counts, not sequential trials. Murdock (1962) and the RAVLT amyloid extract are omitted. Source: `CATALOG.csv`.
+Bar color is the dataset group. Stillman all studies is 140,180 rows; Study 1 gain–loss only is 24,420. NFL counts are expert plus novice predictions. Thurstonian beliefs and crowd-majority files are rankings or problem-level counts, not sequential trials. Take-the-best environments have no human choices. Murdock (1962) and the RAVLT amyloid extract are omitted. Source: `CATALOG.csv`.
 
 ## Related repositories
 
