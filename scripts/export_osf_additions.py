@@ -649,6 +649,94 @@ def export_probability() -> dict:
     }
 
 
+def export_bennett_wiser_crowd() -> dict:
+    """Bennett, Benjamin, Mistry & Steyvers (2018) general-knowledge opt-in.
+
+    Source: OSF nhv3s / child cfqxy (Complete_Dataset.csv, Questions.xlsx).
+    """
+    out = DATA / "wisdom-of-crowds/bennett-benjamin-mistry-steyvers-2018-general-knowledge"
+    src = SRC / "bennettSteyvers2018"
+    qrows = read_xlsx(str(src / "Questions.xlsx"))["Sheet1"]
+    questions = []
+    for r in qrows[1:]:
+        if not r or r[2] in (None, ""):
+            continue
+        questions.append(
+            {
+                "questionId": int(float(r[2])),
+                "topicId": int(float(r[0])),
+                "topic": as_str(r[1]),
+                "questionText": as_str(r[3]).replace("\xa0", " "),
+                "option1": as_str(r[4]),
+                "option2": as_str(r[5]),
+                "correctOption": int(float(r[6])),
+                "pilotAccuracy": float(r[7]) if finite(r[7]) else "",
+            }
+        )
+    write_csv(out / "questions.csv", questions)
+
+    # Condition codes in Complete_Dataset.csv → experiment / item bank / design
+    cond_meta = {
+        "Self-Selected1": ("1a", "easy", "partialOptIn"),
+        "Randomly-Assigned1": ("1a", "easy", "control"),
+        "Self-Selected2": ("1b", "hard", "partialOptIn"),
+        "Randomly-Assigned2": ("1b", "hard", "control"),
+        "Self-Selected3": ("2", "easy", "partialOptIn"),
+        "Randomly-Assigned3": ("2", "easy", "control"),
+        "Self-Selected4": ("2", "easy", "fullOptIn"),
+    }
+    df = pd.read_csv(src / "Complete_Dataset.csv")
+    # Stable global participant IDs (source IDs restart within each condition)
+    key_to_pid: dict[tuple, int] = {}
+    next_pid = 1
+    trials = []
+    for _, row in df.iterrows():
+        cond = as_str(row["Condition"])
+        exp, bank, design = cond_meta[cond]
+        src_pid = int(row["Participant Number"])
+        key = (cond, src_pid)
+        if key not in key_to_pid:
+            key_to_pid[key] = next_pid
+            next_pid += 1
+        acc = row["Accuracy"]
+        answered = int(finite(acc) and float(acc) in (0.0, 1.0))
+        correct = "" if not answered else int(float(acc))
+        trials.append(
+            {
+                "participant": key_to_pid[key],
+                "experiment": exp,
+                "itemBank": bank,
+                "design": design,
+                "condition": cond,
+                "question": int(row["Question Number"]),
+                "answered": answered,
+                "correct": correct,
+                "difficultyRating": int(row["Difficulty Rating"])
+                if finite(row["Difficulty Rating"])
+                else "",
+            }
+        )
+    n = write_csv(out / "trials.csv", trials)
+    participants = [
+        {
+            "participant": pid,
+            "experiment": cond_meta[cond][0],
+            "itemBank": cond_meta[cond][1],
+            "design": cond_meta[cond][2],
+            "condition": cond,
+        }
+        for (cond, _), pid in sorted(key_to_pid.items(), key=lambda kv: kv[1])
+    ]
+    write_csv(out / "participants.csv", participants)
+    write_data_mat(out)
+    return {
+        "id": "bennett-benjamin-mistry-steyvers-2018-general-knowledge",
+        "n_rows": n,
+        "n_participants": len(key_to_pid),
+        "extra": f"questions={len(questions)}; answered={sum(t['answered'] for t in trials)}",
+    }
+
+
 def export_beliefs() -> dict:
     out = DATA / "wisdom-of-crowds/lee-ke-thurstonian-beliefs"
     files = {
@@ -702,6 +790,7 @@ def main() -> None:
         export_surprisingly_popular_nfl,
         export_crowd,
         export_probability,
+        export_bennett_wiser_crowd,
         export_beliefs,
     ):
         info = fn()
