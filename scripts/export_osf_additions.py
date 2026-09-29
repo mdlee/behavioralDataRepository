@@ -502,6 +502,73 @@ def export_nfl() -> dict:
     }
 
 
+def export_surprisingly_popular_nfl() -> dict:
+    """Lee, Danileiko, & Vi (2018) surprisingly popular NFL predictions (OSF 3kjmu)."""
+    out = DATA / "judgment-and-estimation/lee-danileiko-vi-2018-surprisingly-popular-nfl"
+    src = SRC / "surprisinglyPopularNfl"
+    trial_rows = []
+    part_rows = []
+    pid0 = 0
+    for week in range(1, 18):
+        path = src / f"NFLSP_week{week}.mat"
+        if not path.is_file():
+            raise FileNotFoundError(path)
+        d = load_d(path)
+        n_subj = int(d.nSubjects)
+        n_games = int(d.nGames)
+        own = np.atleast_2d(d.own)
+        meta = np.atleast_2d(d.meta)
+        conf = np.atleast_2d(d.confidence)
+        truth = np.atleast_1d(d.truth).astype(float)
+        opt1 = [as_str(x) for x in np.atleast_1d(d.option1)]
+        opt2 = [as_str(x) for x in np.atleast_1d(d.option2)]
+        knowledge = np.atleast_1d(d.knowledge)
+        for s in range(n_subj):
+            pid = pid0 + s + 1
+            part_rows.append(
+                {
+                    "participant": pid,
+                    "week": week,
+                    "knowledge": int(knowledge[s]) if finite(knowledge[s]) else "",
+                }
+            )
+            for g in range(n_games):
+                pred = int(own[s, g])
+                t = truth[g]
+                if finite(t):
+                    t_int = int(t)
+                    # truth 1 = option1 wins; 0 = option2 wins (surprisingPredictionsNFL_5.m)
+                    correct = int(pred == (1 if t_int == 1 else 2))
+                    t_out = t_int
+                else:
+                    correct = ""
+                    t_out = ""
+                trial_rows.append(
+                    {
+                        "participant": pid,
+                        "week": week,
+                        "game": g + 1,
+                        "option1": opt1[g],
+                        "option2": opt2[g],
+                        "prediction": pred,
+                        "confidence": int(conf[s, g]) if finite(conf[s, g]) else "",
+                        "meta": float(meta[s, g]) if finite(meta[s, g]) else "",
+                        "truth": t_out,
+                        "correct": correct,
+                    }
+                )
+        pid0 += n_subj
+    n = write_csv(out / "trials.csv", trial_rows)
+    write_csv(out / "participants.csv", part_rows)
+    write_data_mat(out)
+    return {
+        "id": "lee-danileiko-vi-2018-surprisingly-popular-nfl",
+        "n_rows": n,
+        "n_participants": len(part_rows),
+        "extra": "weeks 1-17; prediction 1=option1 2=option2; truth 1=option1 0=option2",
+    }
+
+
 def export_crowd() -> dict:
     out = DATA / "judgment-and-estimation/lee-lee-2017-crowd-majority"
     files = {
@@ -632,6 +699,7 @@ def main() -> None:
         export_nback,
         export_recognition_validity,
         export_nfl,
+        export_surprisingly_popular_nfl,
         export_crowd,
         export_probability,
         export_beliefs,

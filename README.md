@@ -60,9 +60,8 @@ Trial-level human behavioral datasets, mostly from studies associated with Micha
 | [Lee, Zhang, & Shi (2011)](datasets/judgment-and-estimation/lee-zhang-shi-2011-price-is-right/) | Price is Right showcase bids |
 | [Lee & Shi (2010)](datasets/judgment-and-estimation/lee-shi-2010-small-group-woc/) | Small-group price estimates |
 | [Lee, Steyvers, & Miller (2014)](datasets/judgment-and-estimation/lee-steyvers-miller-2014-rankings/) | Wisdom-of-crowd rankings |
-| [Lee & Sarnecka (2011) Give-N](datasets/judgment-and-estimation/lee-sarnecka-2011-give-n/) | Give-N in children (IDs shared with fast-cards) |
-| [Lee & Sarnecka (2011) fast-cards](datasets/judgment-and-estimation/lee-sarnecka-2011-fast-cards/) | Fast-cards in children (IDs shared with Give-N) |
 | [Montgomery & Lee (2021)](datasets/judgment-and-estimation/montgomery-lee-2021-nfl/) | NFL win predictions, experts and novices |
+| [Lee, Danileiko, & Vi (2018)](datasets/judgment-and-estimation/lee-danileiko-vi-2018-surprisingly-popular-nfl/) | Surprisingly popular NFL game predictions |
 | [Lee & Lee (2017)](datasets/judgment-and-estimation/lee-lee-2017-crowd-majority/) | Crowd majority vs accuracy (problem-level) |
 | [Lee & Danileiko (2014)](datasets/judgment-and-estimation/lee-danileiko-2014-probability-estimates/) | Probability estimates, general knowledge and soccer |
 | [Lee & Ke](datasets/judgment-and-estimation/lee-ke-thurstonian-beliefs/) | Thurstonian rankings of beliefs |
@@ -70,6 +69,13 @@ Trial-level human behavioral datasets, mostly from studies associated with Micha
 | [unpublished general-knowledge estimation](datasets/judgment-and-estimation/generalKnowledgeEstimation/) | Anchored and unanchored estimates (course; same IDs) |
 | [unpublished metacognitive estimation](datasets/judgment-and-estimation/metaCognition/) | True/false capitals with confidence (course; same IDs) |
 | [unpublished ranking](datasets/judgment-and-estimation/ranking/) | Partial rankings (course; same IDs) |
+
+### Developmental
+
+| Dataset | People | Trials | Task |
+|---------|--------|--------|------|
+| [Lee & Sarnecka (2011) Give-N](datasets/developmental/lee-sarnecka-2011-give-n/) | 56 | 1,104 | Give-N in children (IDs shared with fast-cards) |
+| [Lee & Sarnecka (2011) fast-cards](datasets/developmental/lee-sarnecka-2011-fast-cards/) | 56 | 1,114 | Fast-cards in children (IDs shared with Give-N) |
 
 ## Trial counts
 
@@ -103,6 +109,7 @@ datasets/
   cue-based-multi-attribute/
   working-memory-recognition/
   judgment-and-estimation/
+  developmental/
 scripts/     # rebuild CSVs and data.mat from the original source files
 CATALOG.csv
 figures/     # trial-count chart used in this README

@@ -536,11 +536,11 @@ def export_number() -> dict:
     pairs = [
         (
             "LeeSarnecka2011_giveN_long.csv",
-            DATA / "judgment-and-estimation/lee-sarnecka-2011-give-n",
+            DATA / "developmental/lee-sarnecka-2011-give-n",
         ),
         (
             "LeeSarnecka2011_fastCards_long.csv",
-            DATA / "judgment-and-estimation/lee-sarnecka-2011-fast-cards",
+            DATA / "developmental/lee-sarnecka-2011-fast-cards",
         ),
     ]
     n = 0

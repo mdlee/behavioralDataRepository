@@ -18,8 +18,8 @@ lee-stark-2023-mst,working-memory-recognition,21,8064,Lee and Stark 2023 Behavio
 kannan-conditioned-recognition,working-memory-recognition,44,10560,Vijayakumar 2024 dissertation (Kannan; Twelve Angry Models),datasets/working-memory-recognition/kannan-conditioned-recognition
 ravlt-amyloid,working-memory-recognition,200,6000,RAVLT recognition amyloid groups (Embic/MCC; Twelve Angry Models),datasets/working-memory-recognition/ravlt-amyloid
 murdock-1962-free-recall,working-memory-recognition,,135,Murdock 1962 aggregated serial-position counts,datasets/working-memory-recognition/murdock-1962-free-recall
-lee-sarnecka-2011-give-n,judgment-and-estimation,56,1104,Lee and Sarnecka 2011,datasets/judgment-and-estimation/lee-sarnecka-2011-give-n
-lee-sarnecka-2011-fast-cards,judgment-and-estimation,56,1114,Lee and Sarnecka 2011,datasets/judgment-and-estimation/lee-sarnecka-2011-fast-cards
+lee-sarnecka-2011-give-n,developmental,56,1104,Lee and Sarnecka 2011,datasets/developmental/lee-sarnecka-2011-give-n
+lee-sarnecka-2011-fast-cards,developmental,56,1114,Lee and Sarnecka 2011,datasets/developmental/lee-sarnecka-2011-fast-cards
 chronicle-et-al-2008-tsp,sequential-choice,82,51660,Chronicle et al. 2008,datasets/sequential-choice/chronicle-et-al-2008-tsp
 vickers-et-al-2001-tsp,sequential-choice,8,2005,Vickers et al. 2001,datasets/sequential-choice/vickers-et-al-2001-tsp
 lee-zhang-shi-2011-price-is-right,judgment-and-estimation,,,Lee Zhang Shi 2011,datasets/judgment-and-estimation/lee-zhang-shi-2011-price-is-right
@@ -32,6 +32,7 @@ lee-gluck-walsh-2019-switching,cue-based-multi-attribute,38,4557,Lee Gluck Walsh
 lee-mistry-menon-2022-nback,working-memory-recognition,1143,86391,Lee Mistry Menon 2022,datasets/working-memory-recognition/lee-mistry-menon-2022-nback
 lee-doering-carr-2019-recognition-validity,working-memory-recognition,270,56857,Lee Doering Carr 2019,datasets/working-memory-recognition/lee-doering-carr-2019-recognition-validity
 montgomery-lee-2021-nfl,judgment-and-estimation,1771,139430,Montgomery and Lee 2021,datasets/judgment-and-estimation/montgomery-lee-2021-nfl
+lee-danileiko-vi-2018-surprisingly-popular-nfl,judgment-and-estimation,1700,25700,Lee Danileiko Vi 2018 surprisingly popular NFL,datasets/judgment-and-estimation/lee-danileiko-vi-2018-surprisingly-popular-nfl
 lee-lee-2017-crowd-majority,judgment-and-estimation,,7573,Lee and Lee 2017 problem-level,datasets/judgment-and-estimation/lee-lee-2017-crowd-majority
 lee-danileiko-2014-probability-estimates,judgment-and-estimation,290,11600,Lee and Danileiko 2014,datasets/judgment-and-estimation/lee-danileiko-2014-probability-estimates
 lee-ke-thurstonian-beliefs,judgment-and-estimation,3137,100858,Lee and Ke Thurstonian beliefs,datasets/judgment-and-estimation/lee-ke-thurstonian-beliefs
