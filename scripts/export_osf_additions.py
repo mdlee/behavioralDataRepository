@@ -447,7 +447,7 @@ def export_recognition_validity() -> dict:
 
 
 def export_nfl() -> dict:
-    out = DATA / "judgment-and-estimation/montgomery-lee-2021-nfl"
+    out = DATA / "wisdom-of-crowds/montgomery-lee-2021-nfl"
     expert = load_d(SRC / "nfl/expertNFL2017.mat")
     names = [as_str(x) for x in np.atleast_1d(expert.heuristic)]
     e_rows = []
@@ -504,7 +504,7 @@ def export_nfl() -> dict:
 
 def export_surprisingly_popular_nfl() -> dict:
     """Lee, Danileiko, & Vi (2018) surprisingly popular NFL predictions (OSF 3kjmu)."""
-    out = DATA / "judgment-and-estimation/lee-danileiko-vi-2018-surprisingly-popular-nfl"
+    out = DATA / "wisdom-of-crowds/lee-danileiko-vi-2018-surprisingly-popular-nfl"
     src = SRC / "surprisinglyPopularNfl"
     trial_rows = []
     part_rows = []
@@ -570,7 +570,7 @@ def export_surprisingly_popular_nfl() -> dict:
 
 
 def export_crowd() -> dict:
-    out = DATA / "judgment-and-estimation/lee-lee-2017-crowd-majority"
+    out = DATA / "wisdom-of-crowds/lee-lee-2017-crowd-majority"
     files = {
         "afl_games.csv": "AFL games.csv",
         "cancer_diagnosis.csv": "Cancer diagnosis.csv",
@@ -593,7 +593,7 @@ def export_crowd() -> dict:
 
 
 def export_probability() -> dict:
-    out = DATA / "judgment-and-estimation/lee-danileiko-2014-probability-estimates"
+    out = DATA / "wisdom-of-crowds/lee-danileiko-2014-probability-estimates"
     gk = read_xlsx(str(SRC / "probs/GenKnowledgeProbs.xlsx"))["Sheet1"]
     gk_rows = []
     for q, row in enumerate(gk[1:], start=1):
@@ -650,7 +650,7 @@ def export_probability() -> dict:
 
 
 def export_beliefs() -> dict:
-    out = DATA / "judgment-and-estimation/lee-ke-thurstonian-beliefs"
+    out = DATA / "wisdom-of-crowds/lee-ke-thurstonian-beliefs"
     files = {
         "nba_players": "BestNBAPlayers_310423rankOnly.mat",
         "presidents": "BestPresidentsInPast50Years_518292rankOnly.mat",

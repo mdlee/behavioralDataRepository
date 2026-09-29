@@ -53,22 +53,27 @@ Trial-level human behavioral datasets, mostly from studies associated with Micha
 | [RAVLT amyloid](datasets/working-memory-recognition/ravlt-amyloid/) | 200 | 6,000 | RAVLT old/new recognition counts (100 amyloid-negative, 100 amyloid-positive) |
 | [Murdock (1962)](datasets/working-memory-recognition/murdock-1962-free-recall/) | — | aggregates | Free-recall serial-position counts (not trial-level) |
 
-### Judgment and estimation
+### Judgment and decision making
+
+| Dataset | People | Trials | Task |
+|---------|--------|--------|------|
+| [unpublished percentage estimation](datasets/judgment-and-decision-making/percentageEstimation/) | 513 | 16,737 | Percentage estimates (course; IDs shared with bart / gasPrices / fishPrices) |
+| [unpublished general-knowledge estimation](datasets/judgment-and-decision-making/generalKnowledgeEstimation/) | 520 | 5,474 | Anchored and unanchored estimates (course; same IDs) |
+| [unpublished metacognitive estimation](datasets/judgment-and-decision-making/metaCognition/) | 476 | 24,150 | True/false capitals with confidence (course; same IDs) |
+
+### Wisdom of crowds
 
 | Dataset | Task |
 |---------|------|
-| [Lee, Zhang, & Shi (2011)](datasets/judgment-and-estimation/lee-zhang-shi-2011-price-is-right/) | Price is Right showcase bids |
-| [Lee & Shi (2010)](datasets/judgment-and-estimation/lee-shi-2010-small-group-woc/) | Small-group price estimates |
-| [Lee, Steyvers, & Miller (2014)](datasets/judgment-and-estimation/lee-steyvers-miller-2014-rankings/) | Wisdom-of-crowd rankings |
-| [Montgomery & Lee (2021)](datasets/judgment-and-estimation/montgomery-lee-2021-nfl/) | NFL win predictions, experts and novices |
-| [Lee, Danileiko, & Vi (2018)](datasets/judgment-and-estimation/lee-danileiko-vi-2018-surprisingly-popular-nfl/) | Surprisingly popular NFL game predictions |
-| [Lee & Lee (2017)](datasets/judgment-and-estimation/lee-lee-2017-crowd-majority/) | Crowd majority vs accuracy (problem-level) |
-| [Lee & Danileiko (2014)](datasets/judgment-and-estimation/lee-danileiko-2014-probability-estimates/) | Probability estimates, general knowledge and soccer |
-| [Lee & Ke](datasets/judgment-and-estimation/lee-ke-thurstonian-beliefs/) | Thurstonian rankings of beliefs |
-| [unpublished percentage estimation](datasets/judgment-and-estimation/percentageEstimation/) | Percentage estimates (course; IDs shared with bart / gasPrices / fishPrices) |
-| [unpublished general-knowledge estimation](datasets/judgment-and-estimation/generalKnowledgeEstimation/) | Anchored and unanchored estimates (course; same IDs) |
-| [unpublished metacognitive estimation](datasets/judgment-and-estimation/metaCognition/) | True/false capitals with confidence (course; same IDs) |
-| [unpublished ranking](datasets/judgment-and-estimation/ranking/) | Partial rankings (course; same IDs) |
+| [Lee, Zhang, & Shi (2011)](datasets/wisdom-of-crowds/lee-zhang-shi-2011-price-is-right/) | Price is Right showcase bids |
+| [Lee & Shi (2010)](datasets/wisdom-of-crowds/lee-shi-2010-small-group-woc/) | Small-group price estimates |
+| [Lee, Steyvers, & Miller (2014)](datasets/wisdom-of-crowds/lee-steyvers-miller-2014-rankings/) | Wisdom-of-crowd rankings |
+| [Montgomery & Lee (2021)](datasets/wisdom-of-crowds/montgomery-lee-2021-nfl/) | NFL win predictions, experts and novices |
+| [Lee, Danileiko, & Vi (2018)](datasets/wisdom-of-crowds/lee-danileiko-vi-2018-surprisingly-popular-nfl/) | Surprisingly popular NFL game predictions |
+| [Lee & Lee (2017)](datasets/wisdom-of-crowds/lee-lee-2017-crowd-majority/) | Crowd majority vs accuracy (problem-level) |
+| [Lee & Danileiko (2014)](datasets/wisdom-of-crowds/lee-danileiko-2014-probability-estimates/) | Probability estimates, general knowledge and soccer |
+| [Lee & Ke](datasets/wisdom-of-crowds/lee-ke-thurstonian-beliefs/) | Thurstonian rankings of beliefs |
+| [unpublished ranking](datasets/wisdom-of-crowds/ranking/) | Partial rankings (course; IDs shared with bart / gasPrices / fishPrices) |
 
 ### Developmental
 
@@ -108,7 +113,8 @@ datasets/
   sequential-choice/
   cue-based-multi-attribute/
   working-memory-recognition/
-  judgment-and-estimation/
+  judgment-and-decision-making/
+  wisdom-of-crowds/
   developmental/
 scripts/     # rebuild CSVs and data.mat from the original source files
 CATALOG.csv

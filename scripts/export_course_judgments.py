@@ -28,7 +28,8 @@ from io_util import load_local_paths, write_csv, write_data_mat  # noqa: E402
 from xlsx_sheets import read_xlsx  # noqa: E402
 
 TASKS = load_local_paths().TASKS
-DATA = ROOT / "datasets" / "judgment-and-estimation"
+JDM = ROOT / "datasets" / "judgment-and-decision-making"
+WOC = ROOT / "datasets" / "wisdom-of-crowds"
 
 PCT_F2025 = [
     ("left handed", 11),
@@ -930,15 +931,15 @@ def main() -> None:
     meta = collect_meta(book)
     rank = collect_ranking(book)
     jobs = [
-        ("percentageEstimation", pct),
-        ("generalKnowledgeEstimation", gk),
-        ("metaCognition", meta),
-        ("ranking", rank),
+        ("percentageEstimation", pct, JDM),
+        ("generalKnowledgeEstimation", gk, JDM),
+        ("metaCognition", meta, JDM),
+        ("ranking", rank, WOC),
     ]
     # overlap with previously assigned IDs
     old_max_probe = max(_existing_id_map().values())
-    for name, rows in jobs:
-        out = DATA / name
+    for name, rows, root in jobs:
+        out = root / name
         n, p = _summarize(name, rows)
         write_csv(out / "trials.csv", rows)
         write_data_mat(out)

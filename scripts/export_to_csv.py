@@ -631,7 +631,7 @@ def export_tsp() -> dict:
 
 
 def export_wisdom() -> dict:
-    out = DATA / "judgment-and-estimation/lee-zhang-shi-2011-price-is-right"
+    out = DATA / "wisdom-of-crowds/lee-zhang-shi-2011-price-is-right"
     out.mkdir(parents=True, exist_ok=True)
     df = pd.read_csv(BDR / "WisdomOfTheCrowd/LeeZhangShi2011.csv")
     df["Episode"] = df["Episode"].ffill().astype(int)
@@ -642,7 +642,7 @@ def export_wisdom() -> dict:
     write_dataframe(out / "bids.csv", df)
 
     d = load_struct(BDR / "WisdomOfTheCrowd/LeeShi2010.mat")
-    wout = DATA / "judgment-and-estimation/lee-shi-2010-small-group-woc"
+    wout = DATA / "wisdom-of-crowds/lee-shi-2010-small-group-woc"
     est_rows = []
     names = [str(x) for x in np.atleast_1d(d.productName)]
     for set_i in range(int(d.nSets)):
@@ -719,7 +719,7 @@ def export_wisdom() -> dict:
     n = write_csv(wout / "estimates.csv", est_rows)
 
     sheets = read_xlsx(str(BDR / "WisdomOfTheCrowd/LeeSteversMiller2014.xlsx"))
-    rout = DATA / "judgment-and-estimation/lee-steyvers-miller-2014-rankings"
+    rout = DATA / "wisdom-of-crowds/lee-steyvers-miller-2014-rankings"
     rout.mkdir(parents=True, exist_ok=True)
     n_rank = 0
     for name, table in sheets.items():
