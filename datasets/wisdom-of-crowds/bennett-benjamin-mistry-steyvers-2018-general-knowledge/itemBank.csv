@@ -1,0 +1,201 @@
+itemBank,question,questionId,topicId,topic,qualtricsText,matchScore
+easy,1,41,4,Sports,Who has a higher NBA career playoff points per game? -- Kobe Bryant or Michael Jordan?,1.1273
+easy,2,13,2,Climate change,Carbon dioxide produced by burning fossil fuels contributes to global warming. -- True or False?,0.8265
+easy,3,104,9,Life Sciences,What light-sensitive cells in the eye detect colors? -- Cones or Rods?,1.1242
+easy,4,67,6,Psychology,Autism has become an epidemic. -- True or False?,0.8262
+easy,5,15,2,Climate change,Scientists estimate global sea levels have increased by approximately how much in the last 100 od...,0.5808
+easy,6,31,3,World Facts,The top 10 car manufacturing countries produced approximately how many new cars in 2014? 50 milli...,0.7459
+easy,7,12,1,Space & Universe,Jupiter's largest moon Ganymede is smaller (diameter) than the planet Mercury. -- True or False?,0.8288
+easy,8,75,7,Physical Sciences,The velocity of a radio wave and a visible light wave in a vacuum are the same. -- True or False?,0.835
+easy,9,48,4,Sports,A bat-and-ball game played between two teams of nine players each who take turns batting and fiel...,0.7
+easy,10,19,2,Climate change,"Methane, Carbon Dioxide and Water vapor in the atmosphere are all good at trapping heat from the...",0.7576
+easy,11,76,7,Physical Sciences,It is possible for water to exist in liquid form below 0 degrees C (32 degrees F). -- True or False?,0.7986
+easy,12,138,12,Maths & Logic,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 da...",0.5315
+easy,13,18,2,Climate change,Greenhouse effect refers to what? -- Gases in the atmosphere that trap heat or Impact to the Eart...,0.7969
+easy,14,109,10,Physical geography,Which is Earths largest continent by surface size? -- North America or Asia?,1.1255
+easy,15,37,4,Sports,How many points is a touchdown in American Football? -- 6 or 8?,0.8732
+easy,16,42,4,Sports,How many gold medals did Michael Phelps win at the Beijing Olympics? -- 4 or 8?,0.8787
+easy,17,115,10,Physical geography,In which continent does Canada lie? -- North America or South America?,1.114
+easy,18,62,6,Psychology,Most psychiatric therapies are based on Freud. -- True or False?,0.8474
+easy,19,17,2,Climate change,Ocean acidification is caused by what? -- Chemical spills in the ocean or Absorption of carbon di...,0.8614
+easy,20,82,7,Physical Sciences,Lasers work by focusing sound waves? -- True or False?,0.8359
+easy,21,81,7,Physical Sciences,Not all metals are attracted to magnets. -- True or False?,0.841
+easy,22,101,9,Life Sciences,People with amnesia forget all details of their earlier life. -- True or False?,0.8585
+easy,23,35,3,World Facts,The radius of the Earth is approximately how many miles? -- 4000 miles or 200 miles?,0.9756
+easy,24,144,12,Maths & Logic,"If A is neccessary for B to occur and C is sufficient for B to occur, then it follows that if C h...",0.6644
+easy,25,135,12,Maths & Logic,Given: Any glass requires cups to exist but cups can exist without glass. One cup can support onl...,0.5894
+easy,26,72,6,Psychology,Psychology is used to study the life cycle of animals and plants. -- True or False?,0.8607
+easy,27,14,2,Climate change,How high has the highest natural surface temperature recorded on Earth been? -- Less than 55°C or...,0.8649
+easy,28,34,3,World Facts,China has over 1 billion mobile cellular connections. -- True or False?,0.8532
+easy,29,77,7,Physical Sciences,Melting point is the temperature at which solids do what? -- Turn into liquids or Turn into gasses?,0.6458
+easy,30,139,12,Maths & Logic,4 is a prime number. -- True or False?,0.8014
+easy,31,50,5,World History,Which happened earlier in history? -- Chinese issue the first paper money or European sailors beg...,0.8337
+easy,32,16,2,Climate change,Global warming is a humanitarian initiative to slow down freezing in the North Pole. -- True or F...,0.8179
+easy,33,106,9,Life Sciences,Plants use oxygen. -- True or False?,0.7943
+easy,34,79,7,Physical Sciences,All radioactivity is man-made. -- True or False?,0.8341
+easy,35,136,12,Maths & Logic,A bat and a ball cost $1.10 in total. The bat costs $1.00 more than the ball. How much does the b...,0.7456
+easy,36,121,11,Vocabulary,"Which comes closest in meaning to the word ""Easy""? -- Complex or Simple?",1.0206
+easy,37,123,11,Vocabulary,"Which comes closest in meaning to the word ""Intransigent""? -- Transitory or Infexible?",0.8262
+easy,38,141,12,Maths & Logic,"A man bought a car for $10,000. He sold the car once the price fell by 17%, and invested the mone...",0.5323
+easy,39,69,6,Psychology,People with schizophrenia have multiple personalities. -- True or False?,0.8539
+easy,40,43,4,Sports,Which is the only country to qualify for every FIFA World Cup (soccer) since inception in 1930? -...,0.6875
+easy,41,86,8,Earth Sciences,Moderate earthquakes (5.0 - 5.9 on the Richter Scale) happen approximately twice a day. -- True o...,0.7924
+easy,42,96,8,Earth Sciences,A conical mountain having a crater or vent through which lava and gases erupt is called what? --...,0.7271
+easy,43,56,5,World History,Which happened earlier in history? -- Julius Caesar getting assassinated or Alexander the Great c...,0.885
+easy,44,36,3,World Facts,The world population is approximately how many? -- 7 million or 7 billion?,0.7575
+easy,45,84,7,Physical Sciences,Positive charges cannot flow in any conductor. -- True or False?,0.8474
+easy,46,137,12,Maths & Logic,"If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 1...",0.9333
+easy,47,110,10,Physical geography,Which is the smallest independent country? -- Monaco or Vatican City?,1.124
+easy,48,46,4,Sports,Which two sports both have 11 members of each team playing on the field (under normal circumstanc...,0.5397
+easy,49,102,9,Life Sciences,Humans have evolved from monkeys. -- True or False?,0.8314
+easy,50,6,1,Space & Universe,Which planet in our solar system is closest to the Sun? -- Pluto or Mercury?,1.1255
+easy,51,143,12,Maths & Logic,Which is not a correct possible solution for x in the equation: |x - 9| 1*|x|? -- x=-5 or x=5?,0.4213
+easy,52,114,10,Physical geography,Phnom penh is the capital of which country? -- Vietnam or Cambodia?,1.1235
+easy,53,45,4,Sports,Wrestling is a non-contact sport. -- True or False?,0.8258
+easy,54,87,8,Earth Sciences,"A ball made of solid steel will not float on water. However, when steel is used to make a boat it...",0.6834
+easy,55,89,8,Earth Sciences,The number of weeks in a year is approximately how many? -- 500 or 52?,0.7471
+easy,56,108,9,Life Sciences,Apples are classified as what? -- Fruits or Vegetables?,1.0717
+easy,57,10,1,Space & Universe,Who was the first human in space? -- Neil Armstrong or Yuri Gagarin?,1.1237
+easy,58,80,7,Physical Sciences,"Stretchiness, or the ability of an object or material to resume its normal shape after being stre...",0.5196
+easy,59,33,3,World Facts,The number of tourist arrivals per year in China (as of 2013) was approximately what? -- 50 milli...,0.7125
+easy,60,128,11,Vocabulary,"Which comes closest in meaning to the word ""Soporific""? -- Pertaining to one's self or Sleep indu...",0.8641
+easy,61,97,9,Life Sciences,House flies have an average life span of less than 2 days. -- True or False?,0.8567
+easy,62,125,11,Vocabulary,"Which comes closest in meaning to the word ""Ersatz""? Fake or Elite?",1.0052
+easy,63,65,6,Psychology,ESP (extra sensory perception) is not a scientifically well-established phenomenon. -- True or Fa...,0.7791
+easy,64,39,4,Sports,What is the length of an Olympic swimming pool? 80 meters or 50 meters?,1.0906
+easy,65,53,5,World History,Which happened earlier in history? -- World War 1 or Construction of the Egyptian pyramids?,1.128
+easy,66,55,5,World History,Which happened earlier in history? -- Alexander Graham Bell patents the telephone or Charles Darw...,0.8177
+easy,67,134,12,Maths & Logic,Given: Some hair is red. No red is green. Logical conclusion: Anything green cannot be hair. -- T...,0.8514
+easy,68,127,11,Vocabulary,"Which comes closest in meaning to the word ""Antediluvian""? -- Ancient or Liberal?",1.0288
+easy,69,119,10,Physical geography,The Pacific Ocean's area is larger than all the earth's land masses combined -- True or False?,0.816
+easy,70,20,2,Climate change,Ocean currents carry heat from the equator toward the north and south poles. -- True or False?,0.8657
+easy,71,132,11,Vocabulary,"Which comes closest in meaning to the word ""Quick""? -- Fast or Slow?",1.0186
+easy,72,85,8,Earth Sciences,The reason we experience seasons is because the distance between the earth and sun changes. -- Tr...,0.8094
+easy,73,11,1,Space & Universe,The Sun is a what? -- Star or Planet?,1.0271
+easy,74,124,11,Vocabulary,"Which comes closest in meaning to the the word ""Contusion""? -- Collaboration or Bruise?",1.0234
+easy,75,103,9,Life Sciences,Human children have more bones than adults. -- True or False?,0.8444
+easy,76,61,6,Psychology,People use approximately only 10% of their brains. -- True or False?,0.8509
+easy,77,107,9,Life Sciences,Which of the following is found in plant cells but not animal cells? -- Chloroplasts or Ribosomes?,1.0472
+easy,78,100,9,Life Sciences,Bats are not blind. -- True or False?,0.798
+easy,79,5,1,Space & Universe,"In 2006, the status of the then planet Pluto was reduced to ""dwarf Planet"" so that it was no long...",0.3393
+easy,80,49,5,World History,Which happened earlier in history? -- Genghis Khan leads the Mongol army or Oxford University is...,0.9129
+easy,81,88,8,Earth Sciences,Most diamonds are not formed from coal. -- True or False?,0.8398
+easy,82,78,7,Physical Sciences,Radioactive milk cannot be made safe by boiling it. -- True or False?,0.8517
+easy,83,21,2,Climate change,Global temperatures have been rising by about 10 degress every year over the last 10 years. -- Tr...,0.8471
+easy,84,113,10,Physical geography,Budapest is the capital of which county? -- Hungary or Austria?,1.1224
+easy,85,112,10,Physical geography,In which continent does Germany lie? -- Asia or Europe?,1.1082
+easy,86,59,5,World History,Which country remained neutral throughout World War II? -- Turkey or Afghanistan?,1.1265
+easy,87,58,5,World History,Which happened earlier in history? -- Abraham Lincoln became President of USA or George Bush beca...,0.9436
+easy,88,93,8,Earth Sciences,"If you are standing on the Equator, your approximate rotational speed is what? -- Less than 1,000...",0.7353
+easy,89,1,1,Space & Universe,Approximately how many stars are in the Milky Way galaxy? -- Greater than 100 billion or Less tha...,0.668
+easy,90,63,6,Psychology,Psychology is the study of hypnosis. -- True or False?,0.8359
+easy,91,2,1,Space & Universe,Which element is found in greater quantity in the Sun? -- Hydrogen or Helium?,1.1257
+easy,92,28,3,World Facts,The land area of Canada is approximately how many times the land area of India? -- Half or Three...,0.9174
+easy,93,38,4,Sports,Which champion boxer had the birth name Cassius Clay? -- Mike Tyson or Muhammed Ali?,1.127
+easy,94,98,9,Life Sciences,Snakes are classified as what? -- Mammals or Reptiles?,1.0708
+easy,95,142,12,Maths & Logic,5 + 5 + 5 equals what? -- 15 or 50?,0.4473
+easy,96,126,11,Vocabulary,"Which comes closest in meaning to the word ""Zephyr""? -- Breeze or Tide?",1.0209
+easy,97,51,5,World History,What was the beta (early) version of the Internet called? -- ARPAnet or Intranet?,1.1265
+easy,98,52,5,World History,"Which happened earlier in history? -- Sputnik I becomes the first man-made satellite or Nautilus,...",0.8408
+easy,99,26,3,World Facts,The total number of cinema visits in USA in 2013 were approximately how much? 140 million or 1.4...,0.9068
+easy,100,27,3,World Facts,"There are approximately how many airports in the World? -- 10,000 or 40,000?",0.8694
+hard,1,26,3,World Facts,The total number of cinema visits in USA in 2013 were approximately how many -- 140 million or 1....,0.822
+hard,2,40,4,Sports,How many games are there in an NBA season -- 56 or 82?,0.8636
+hard,3,95,8,Earth Sciences,Winter weather can be predicted by studying the thickness of the fur on some animals. -- True or...,0.8777
+hard,4,25,3,World Facts,The population of Mexico is approximately how many times the population of Belgium -- 3-4 times o...,0.8652
+hard,5,70,6,Psychology,It has been proven that subliminal messages can affect buying behavior. -- True or False?,0.8636
+hard,6,12,1,Space & Universe,Jupiter's largest moon Ganymede is smaller (diameter) than the planet Mercury. -- True or False?,0.8288
+hard,7,85,8,Earth Sciences,The reason we experience seasons is because the distance between the earth and sun changes. -- Tr...,0.8094
+hard,8,84,7,Physical Sciences,Positive charges cannot flow in any conductor. -- True or False?,0.8474
+hard,9,137,12,Maths & Logic,"If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 1...",0.9333
+hard,10,43,4,Sports,Which is the only country to qualify for every FIFA World Cup (soccer) since inception in 1930 --...,0.6834
+hard,11,68,6,Psychology,"Sugar has a limited effect on behavior in children, similar to any carbohydrate, such as potatoes...",0.8225
+hard,12,103,9,Life Sciences,Human children have more bones than adults. -- True or False?,0.8444
+hard,13,93,8,Earth Sciences,"If you are standing on the Equator, your approximate rotational speed is what -- Less than 1,000...",0.7377
+hard,14,46,4,Sports,Which two sports both have 11 members of each team playing on the field (under normal circumstanc...,0.5397
+hard,15,32,3,World Facts,The approximate percentage of MP seats held by women in Rwanda in 2013 was -- 55% or 5%?,0.8756
+hard,16,14,2,Climate change,How high has the highest natural surface temperature recorded on Earth been -- Less than 55°C or...,0.8672
+hard,17,54,5,World History,Which happened earlier in history -- Importing slaves to the US gets outlawed or Napolean gets de...,0.877
+hard,18,66,6,Psychology,The primary symptom of Dyslexics is to see letters as their mirror image -- True or False?,0.8675
+hard,19,15,2,Climate change,Scientists estimate global sea levels have increased by approximately how much in the last 100 od...,0.5808
+hard,20,7,1,Space & Universe,Mercury is the hottest planet in our Solar System. -- True or False?,0.8557
+hard,21,140,12,Maths & Logic,"For every 4 chocolates sold, there were 3 cakes sold. If C is the number of chocolates and K is t...",0.5736
+hard,22,27,3,World Facts,"There are approximately how many airports in the World? -- 10,000 or 40,000?",0.8694
+hard,23,56,5,World History,Which happened earlier in history -- Julius Caesar getting assassinated or Alexander the Great co...,0.8821
+hard,24,76,7,Physical Sciences,It is possible for water to exist in liquid form below 0 degrees C (32 degrees F). -- True or False?,0.7986
+hard,25,6,1,Space & Universe,Which planet in our solar system is closest to the Sun -- Pluto or Mercury?,1.1215
+hard,26,116,10,Physical geography,Which continent has more independent countries including island nations -- Africa or Europe?,1.0328
+hard,27,110,10,Physical geography,Which is the smallest independent country -- Monaco or Vatican City?,1.1191
+hard,28,73,7,Physical Sciences,The bubbles in boiling water consist primarily of air. -- True or False?,0.8585
+hard,29,62,6,Psychology,Most psychiatric therapies are based on Freud. -- True or False?,0.8474
+hard,30,61,6,Psychology,People use approximately only 10% of their brains. -- True or False?,0.8509
+hard,31,130,11,Vocabulary,"Which comes closest in meaning to the word ""Canard"" -- Hoax or Foolish?",1.0249
+hard,32,111,10,Physical geography,What is the capital of Australia -- Canberra or Sydney?,1.1138
+hard,33,99,9,Life Sciences,Human tongue has localized taste centers that are responsible for different basic tastes. -- True...,0.8339
+hard,34,128,11,Vocabulary,"Which comes closest in meaning to the word ""Soporific"" -- Pertaining to one's self or Sleep induc...",0.8685
+hard,35,42,4,Sports,How many gold medals did Michael Phelps win at the Beijing Olympics -- 4 or 8?,0.8751
+hard,36,4,1,Space & Universe,"The star closest to us (apart from the Sun), Proxima Centauri, is how many light years away -- Gr...",0.7243
+hard,37,104,9,Life Sciences,What light-sensitive cells in the eye detect colors -- Cones or Rods?,1.1199
+hard,38,64,6,Psychology,Elderly have higher suicide rates than adolescents -- True or False?,0.8557
+hard,39,102,9,Life Sciences,Humans have evolved from monkeys. -- True or False?,0.8314
+hard,40,24,2,Climate change,Hole in the ozone layer is a large contributor to global warming. -- True or False?,0.8645
+hard,41,44,4,Sports,The first ever official baseball gold medal was won by which country at the 1992 Summer Olympics...,0.6688
+hard,42,28,3,World Facts,The land area of Canada is approximately how many times the land area of India -- Half or Three t...,0.8765
+hard,43,82,7,Physical Sciences,Lasers work by focusing sound waves -- True or False?,0.8413
+hard,44,57,5,World History,Which happened earlier in history -- Scottish bacteriologist Alexander Fleming notices penicillin...,0.5326
+hard,45,83,7,Physical Sciences,The highest man-made temperature has been -- Less than 1 million °C or Greater than 1 million °C?,1.1302
+hard,46,90,8,Earth Sciences,Humid air is lighter or less dense than dry air -- True or False?,0.8534
+hard,47,114,10,Physical geography,Phnom penh is the capital of which country -- Vietnam or Cambodia?,1.1186
+hard,48,117,10,Physical geography,The westernmost part of South America lies directly below which state -- Florida or California?,1.1255
+hard,49,120,10,Physical geography,Approximately 2/3rd of the African land mass lies in the Southern hemisphere. -- True or False?,0.8257
+hard,50,92,8,Earth Sciences,Which element is found in greater quantity (by weight) in the Earth's crust -- Oxygen or Silicon?,1.0439
+hard,51,8,1,Space & Universe,Phases of the Moon are not caused by a shadow from the Earth. -- True or False?,0.8585
+hard,52,5,1,Space & Universe,"In 2006, the status of the then planet Pluto was reduced to ""dwarf Planet"" so that it was no long...",0.3393
+hard,53,65,6,Psychology,ESP (extra sensory perception) is not a scientifically well-established phenomenon. -- True or Fa...,0.7791
+hard,54,52,5,World History,"Which happened earlier in history? -- Sputnik I becomes the first man-made satellite or Nautilus,...",0.8408
+hard,55,97,9,Life Sciences,House flies have an average life span of less than 2 days. -- True or False?,0.8567
+hard,56,105,9,Life Sciences,Which process releases usable energy from food? -- Digestion or Respiration?,1.1255
+hard,57,143,12,Maths & Logic,Which is not a correct possible solution for x in the equation: | x - 9 | 1 * |x|? -- x=-5 or x=5?,0.4253
+hard,58,51,5,World History,What was the beta (early) version of the Internet called? -- ARPAnet or Intranet?,1.1265
+hard,59,78,7,Physical Sciences,Radioactive milk cannot be made safe by boiling it. -- True or False?,0.8517
+hard,60,123,11,Vocabulary,"Which comes closest in meaning to the word ""Intransigent""? -- Transitory or Infexible?",0.8262
+hard,61,141,12,Maths & Logic,"A man bought a car for $10,000. He sold the car once the price fell by 17%, and invested the mone...",0.5323
+hard,62,79,7,Physical Sciences,All radioactivity is man-made. -- True or False?,0.8341
+hard,63,144,12,Maths & Logic,"If A is neccessary for B to occur and C is sufficient for B to occur, then it follows that if C h...",0.6644
+hard,64,106,9,Life Sciences,Plants use oxygen. -- True or False?,0.7943
+hard,65,9,1,Space & Universe,The North Star (Polaris) is the brightest star in our sky -- True or False?,0.8603
+hard,66,133,12,Maths & Logic,Given: All bread is bad. Some bad things are not expensive. Logical conclusion: Some bread is not...,0.8658
+hard,67,30,3,World Facts,The best estimated refugee population in the World as of 2013 was approximately how many? -- 10 m...,0.6548
+hard,68,69,6,Psychology,People with schizophrenia have multiple personalities. -- True or False?,0.8539
+hard,69,131,11,Vocabulary,"Which comes closest in meaning to the word ""Diaphanous""? -- Delicate or Ambiguous?",1.0285
+hard,70,39,4,Sports,What is the length of an Olympic swimming pool? -- 80 meters or 50 meters?,1.1251
+hard,71,50,5,World History,Which happened earlier in history? -- Chinese issue the first paper money or European sailors beg...,0.8337
+hard,72,47,4,Sports,What city did the Lakers play in before moving to L.A.? -- Minneapolis or Los Angeles?,1.1273
+hard,73,10,1,Space & Universe,Who was the first human in space? -- Neil Armstrong or Yuri Gagarin?,1.1237
+hard,74,60,5,World History,Which side did Italy fight on in World War I? -- Central Powers or Allies?,1.0996
+hard,75,75,7,Physical Sciences,The velocity of a radio wave and a visible light wave in a vacuum are the same. -- True or False?,0.835
+hard,76,94,8,Earth Sciences,The radius of the Earth is approximately -- 4000 miles or 12000 miles?,1.1242
+hard,77,122,11,Vocabulary,"Which comes closest in meaning to the word ""Impecunious"" -- Meticulous or Impoverished",1.0359
+hard,78,22,2,Climate change,The Earth's climate is warmer now than it has ever been before -- True or False?,0.863
+hard,79,67,6,Psychology,Autism has become an epidemic. -- True or False?,0.8262
+hard,80,49,5,World History,Which happened earlier in history? -- Genghis Khan leads the Mongol army or Oxford University is...,0.9129
+hard,81,91,8,Earth Sciences,Each cubic metre of air on Earth (at sea level) contains less than 1 trillion trillion molecules...,0.7614
+hard,82,87,8,Earth Sciences,"A ball made of solid steel will not float on water. However, when steel is used to make a boat it...",0.6834
+hard,83,23,2,Climate change,The amount of Carbon dioxide in the atmosphere (measured in parts per million) has increased by a...,0.5789
+hard,84,129,11,Vocabulary,"Which comes closest in meaning to the word ""Redoubtable""? -- Formidable or Unreliable?",1.0306
+hard,85,21,2,Climate change,Global temperatures have been rising by about 10 degress every year over the last 10 years. -- Tr...,0.8471
+hard,86,31,3,World Facts,The top 10 car manufacturing countries produced approximately how many new cars in 2014? -- 50 mi...,0.742
+hard,87,100,9,Life Sciences,Bats are not blind. -- True or False?,0.798
+hard,88,138,12,Maths & Logic,"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 da...",0.5315
+hard,89,88,8,Earth Sciences,Most diamonds are not formed from coal. -- True or False?,0.8398
+hard,90,136,12,Maths & Logic,A bat and a ball cost $1.10 in total. The bat costs $1.00 more than the ball. How much does the b...,0.7456
+hard,91,118,10,Physical geography,Pacific Ocean is more than 20 times the size of the Arctic ocean -- True or False?,0.864
+hard,92,71,6,Psychology,Right-brained and left-brained people are different and have different skill sets. -- True or False?,0.7909
+hard,93,17,2,Climate change,Ocean acidification is caused by what? -- Chemical spills in the ocean or Absorption of carbon di...,0.8614
+hard,94,101,9,Life Sciences,People with amnesia forget all details of their earlier life. -- True or False?,0.8585
+hard,95,59,5,World History,Which country remained neutral throughout World War II? -- Turkey or Afghanistan?,1.1265
+hard,96,55,5,World History,Which happened earlier in history? -- Alexander Graham Bell patents the telephone or Charles Darw...,0.8177
+hard,97,3,1,Space & Universe,The Sun and the planets in our Solar system all rotate in the same direction -- because they were...,0.5994
+hard,98,33,3,World Facts,The number of tourist arrivals per year in China (as of 2013) were approximately how many? -- 50...,0.7043
+hard,99,74,7,Physical Sciences,"When a book is at rest on a table (not moving), other than the force of gravity, there are no oth...",0.7329
+hard,100,29,3,World Facts,The population density of South Korea is approximately how many times that of Vatican City? -- 4...,0.8284

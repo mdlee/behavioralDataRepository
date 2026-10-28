@@ -3,7 +3,10 @@
 
 from __future__ import annotations
 
+import re
 import sys
+import unicodedata
+from difflib import SequenceMatcher
 from pathlib import Path
 
 import numpy as np
@@ -649,10 +652,93 @@ def export_probability() -> dict:
     }
 
 
+_BENNETT_STOP = {
+    "the", "a", "an", "of", "to", "or", "and", "in", "is", "are", "for", "on",
+    "what", "which", "how", "does", "do", "your", "answer", "select", "true",
+    "false", "been", "has", "have", "that", "this", "with", "from", "by", "be",
+    "it", "its", "was", "were", "as", "at",
+}
+
+
+def _bennett_norm(s: str) -> str:
+    s = unicodedata.normalize("NFKC", str(s or ""))
+    s = s.replace("\xa0", " ")
+    for a, b in (("’", "'"), ("‘", "'"), ("“", '"'), ("”", '"'), ("–", "-"), ("—", "-"), ("°", " degrees ")):
+        s = s.replace(a, b)
+    s = re.sub(r"select your answer\.?", " ", s.lower())
+    return re.sub(r"\s+", " ", s).strip()
+
+
+def _bennett_tokens(s: str) -> set[str]:
+    keep_digits = {"15", "50", "100", "55"}
+    out = set()
+    for t in re.findall(r"[a-z0-9]+", _bennett_norm(s)):
+        if t in _BENNETT_STOP:
+            continue
+        if t.isdigit() and t not in keep_digits:
+            continue
+        out.add(t)
+    return out
+
+
+def _bennett_score(mat_text: str, row: dict) -> float:
+    m = _bennett_norm(mat_text)
+    bank = _bennett_norm(f"{row['questionText']} {row['option1']} {row['option2']}")
+    ratio = SequenceMatcher(None, m, bank).ratio()
+    mt, bt = _bennett_tokens(mat_text), _bennett_tokens(bank)
+    jacc = len(mt & bt) / len(mt | bt) if (mt | bt) else 0.0
+    stem = re.split(r"\s+--\s+", mat_text, maxsplit=1)[0]
+    stem_ratio = SequenceMatcher(None, _bennett_norm(stem), _bennett_norm(row["questionText"])).ratio()
+    opt_bonus = 0.0
+    for opt in (row["option1"], row["option2"]):
+        o = _bennett_norm(opt)
+        if o and o not in {"0", "1", "0.0", "1.0"} and o in m:
+            opt_bonus += 0.12
+    return 0.30 * ratio + 0.40 * jacc + 0.20 * stem_ratio + opt_bonus
+
+
+def _bennett_load_qualtrics_questions(path: Path, key: str) -> list[str]:
+    S = loadmat(str(path), squeeze_me=True)
+    return [as_str(x) for x in np.atleast_1d(S[key])]
+
+
+def _bennett_assign_bank(texts: list[str], questions: list[dict]) -> list[dict]:
+    """1–1 match Qualtrics presentation order to the 144-item OSF bank."""
+    pairs = []
+    for i, t in enumerate(texts):
+        for q in questions:
+            pairs.append((_bennett_score(t, q), i, q["questionId"]))
+    pairs.sort(reverse=True)
+    used_i: set[int] = set()
+    used_id: set[int] = set()
+    by_index: dict[int, dict] = {}
+    q_by_id = {q["questionId"]: q for q in questions}
+    for sc, i, qid in pairs:
+        if i in used_i or qid in used_id or sc < 0.28:
+            continue
+        q = q_by_id[qid]
+        by_index[i] = {
+            "question": i + 1,
+            "questionId": qid,
+            "topicId": q["topicId"],
+            "topic": q["topic"],
+            "qualtricsText": texts[i],
+            "matchScore": round(float(sc), 4),
+        }
+        used_i.add(i)
+        used_id.add(qid)
+    if len(by_index) != 100:
+        missing = [i + 1 for i in range(100) if i not in by_index]
+        raise SystemExit(f"Bennett item-bank match incomplete; missing indices {missing}")
+    return [by_index[i] for i in range(100)]
+
+
 def export_bennett_wiser_crowd() -> dict:
     """Bennett, Benjamin, Mistry & Steyvers (2018) general-knowledge opt-in.
 
-    Source: OSF nhv3s / child cfqxy (Complete_Dataset.csv, Questions.xlsx).
+    Source: OSF nhv3s / child cfqxy (Complete_Dataset.csv, Questions.xlsx),
+    plus Steyvers Qualtrics reconstructions Exp1Easy.mat / Exp1Hard.mat
+    (question text in presentation order; OSF omitted this index).
     """
     out = DATA / "wisdom-of-crowds/bennett-benjamin-mistry-steyvers-2018-general-knowledge"
     src = SRC / "bennettSteyvers2018"
@@ -673,7 +759,26 @@ def export_bennett_wiser_crowd() -> dict:
                 "pilotAccuracy": float(r[7]) if finite(r[7]) else "",
             }
         )
+
+    easy_texts = _bennett_load_qualtrics_questions(src / "redataset/Exp1Easy.mat", "ChoiceQuestions")
+    hard_texts = _bennett_load_qualtrics_questions(src / "redataset/Exp1Hard.mat", "ChoiceQuestions")
+    easy_map = _bennett_assign_bank(easy_texts, questions)
+    hard_map = _bennett_assign_bank(hard_texts, questions)
+    easy_ids = {r["questionId"] for r in easy_map}
+    hard_ids = {r["questionId"] for r in hard_map}
+    if easy_ids | hard_ids != {q["questionId"] for q in questions}:
+        raise SystemExit("Bennett easy/hard banks do not cover the 144-item pool")
+    easy_pos = {r["questionId"]: r["question"] for r in easy_map}
+    hard_pos = {r["questionId"]: r["question"] for r in hard_map}
+    for q in questions:
+        q["easyQuestion"] = easy_pos.get(q["questionId"], "")
+        q["hardQuestion"] = hard_pos.get(q["questionId"], "")
     write_csv(out / "questions.csv", questions)
+
+    bank_rows = [{"itemBank": "easy", **r} for r in easy_map] + [{"itemBank": "hard", **r} for r in hard_map]
+    write_csv(out / "itemBank.csv", bank_rows)
+    lookup = {("easy", r["question"]): r for r in easy_map}
+    lookup.update({("hard", r["question"]): r for r in hard_map})
 
     # Condition codes in Complete_Dataset.csv → experiment / item bank / design
     cond_meta = {
@@ -701,6 +806,8 @@ def export_bennett_wiser_crowd() -> dict:
         acc = row["Accuracy"]
         answered = int(finite(acc) and float(acc) in (0.0, 1.0))
         correct = "" if not answered else int(float(acc))
+        qn = int(row["Question Number"])
+        item = lookup[(bank, qn)]
         trials.append(
             {
                 "participant": key_to_pid[key],
@@ -708,7 +815,10 @@ def export_bennett_wiser_crowd() -> dict:
                 "itemBank": bank,
                 "design": design,
                 "condition": cond,
-                "question": int(row["Question Number"]),
+                "question": qn,
+                "questionId": item["questionId"],
+                "topicId": item["topicId"],
+                "topic": item["topic"],
                 "answered": answered,
                 "correct": correct,
                 "difficultyRating": int(row["Difficulty Rating"])
@@ -733,7 +843,10 @@ def export_bennett_wiser_crowd() -> dict:
         "id": "bennett-benjamin-mistry-steyvers-2018-general-knowledge",
         "n_rows": n,
         "n_participants": len(key_to_pid),
-        "extra": f"questions={len(questions)}; answered={sum(t['answered'] for t in trials)}",
+        "extra": (
+            f"questions={len(questions)}; answered={sum(t['answered'] for t in trials)}; "
+            f"easyHardOverlap={len(easy_ids & hard_ids)}"
+        ),
     }
 
 
