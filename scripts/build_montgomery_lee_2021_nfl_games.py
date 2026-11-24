@@ -1,17 +1,16 @@
-"""Game-level recode of Montgomery & Lee (2021) NFL experts.
+"""Checks the game-level recode of Montgomery & Lee (2021) NFL experts.
 
-Writes datasets/wisdom-of-crowds/montgomery-lee-2021-nfl-games/.
-
-The published heuristic files stay in montgomery-lee-2021-nfl/. This
-script does not modify that folder. Novices are not written: every
-novice team pick in the Montgomery table is already a Lee, Danileiko,
-and Vi (2018) trial.
+Does not write a dataset folder. The commentator picks, with one id
+per person across 2015–2017, are in
+datasets/wisdom-of-crowds/expert-nfl-picks/. The published heuristic
+files stay in montgomery-lee-2021-nfl/. This script does not modify
+that folder. Novices are not written: every novice team pick in the
+Montgomery table is already a Lee, Danileiko, and Vi (2018) trial.
 
 Experts are the 71 commentators retained by parseData_2.m (the bot
-"Pickwatch Fan Picks" is left out). Participant numbers match
+"Pickwatch Fan Picks" is left out). Checks use the 1–71 ids from
 expertPredictions.csv. option1, option2, and the within-week game
-number follow the Danileiko survey for the same week and the same two
-teams. gameId is 2017-away@home, the same key as nfl-game-picks-irt.
+number follow the Danileiko survey. gameId is 2017-away@home.
 montgomeryGame is the season-long id in expertPredictions.csv.
 """
 
@@ -376,15 +375,6 @@ def build():
         )
 
     trials.sort(key=lambda trial: (int(trial["participant"]), int(trial["week"]), int(trial["game"])))
-    OUT.mkdir(parents=True, exist_ok=True)
-    with (OUT / "trials.csv").open("w", newline="") as handle:
-        writer = csv.DictWriter(handle, fieldnames=TRIAL_FIELDS, extrasaction="ignore", lineterminator="\n")
-        writer.writeheader()
-        writer.writerows(trials)
-    with (OUT / "participants.csv").open("w", newline="") as handle:
-        writer = csv.DictWriter(handle, fieldnames=PERSON_FIELDS, lineterminator="\n")
-        writer.writeheader()
-        writer.writerows(people)
 
     present = {(int(row["personid"]), int(row["weekid"]), int(row["gameid"])) for row in kept}
     schedule_slots = {(int(row["weekid"]), int(row["gameid"])) for row in kept}
@@ -430,7 +420,8 @@ def build():
         trial for trial in trials
         if trial["gameId"] == "2017-KC@NE" and trial["participant"] == "1"
     ]
-    print("sample 2017-KC@NE participant 1", {k: sample[0][k] for k in TRIAL_FIELDS})
+    print("sample 2017-KC@NE local participant 1", {k: sample[0][k] for k in TRIAL_FIELDS})
+    print("commentator database is datasets/wisdom-of-crowds/expert-nfl-picks/")
 
 
 if __name__ == "__main__":

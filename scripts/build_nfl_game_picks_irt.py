@@ -1,13 +1,12 @@
-"""Bennett-style IRT tables for NFL winner picks.
+"""Bennett-style IRT tables for 2017 Mechanical Turk NFL winner picks.
 
-Writes four panels under datasets/wisdom-of-crowds/nfl-game-picks-irt/:
-
-- participants, 2017 Mechanical Turk (Lee, Danileiko, and Vi 2018)
-- ESPN experts, 2015, 2016, and 2017 (Montgomery and Lee 2021 mats)
+Writes the novice panel under datasets/wisdom-of-crowds/nfl-game-picks-irt/.
+Commentators are not written here. They are in
+datasets/wisdom-of-crowds/expert-nfl-picks/.
 
 A gameId is the season plus away@home. The same 2017 game has the same
-gameId in the participant file and the expert file, including the
-Dolphins–Buccaneers game that was asked in week 1 and played in week 11.
+gameId here and in the commentator file, including the Dolphins–Buccaneers
+game that was asked in week 1 and played in week 11.
 """
 
 import csv
@@ -599,11 +598,7 @@ def export_experts(season, experts, games):
                 "source": "expert",
             }
             trials.append(trial_from_choice(person, question, choice, "", ""))
-    stem = f"experts-{season}"
-    write_csv(OUT / f"questions-{stem}.csv", QUESTION_FIELDS, questions)
-    write_csv(OUT / f"trials-{stem}.csv", TRIAL_FIELDS, trials)
-    write_csv(OUT / f"participants-{stem}.csv", PERSON_FIELDS, people)
-    write_csv(OUT / f"itemBank-{stem}.csv", BANK_FIELDS, bank_rows(questions, "expert"))
+    # Commentator rows are published in expert-nfl-picks/, not as per-year files here.
     return questions, trials, people
 
 

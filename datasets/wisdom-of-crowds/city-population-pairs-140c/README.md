@@ -17,7 +17,9 @@ Four countries are the topics (the expertise domains). A person may know one cou
 
 A complete workbook has 135 pairs (41 + 37 + 24 + 33). Pairings are a matching: each selected city appears once on that sheet. One city is left out of the German list (83 cities, 82 used) and one is left out of the 49 Italian cities (48 used). US and UK lists are fully paired.
 
-There are 12 monthly matchings (Jan–Dec). Everyone with the same term and month saw the same pairs, in the same order. The random seed changes by year, so a `questionId` in one term is not the same item as that number in another term or another month. Match items by the two city names. The seeds do not make the pairings disjoint: the release contains 4,526 distinct unordered city pairs, 2,527 of them appear in more than one term, and 727 appear in more than one month of the same term.
+There are 12 monthly matchings (Jan–Dec). Everyone with the same term and month saw the same pairs, in the same sheet order. `questionId` is the unordered pair of cities within a country, so the same two cities share one id in every term and month. There are 4,526 such pairs. The monthly seeds do not make the pairings disjoint: 2,527 pairs appear in more than one term, and a pair can appear in more than one monthly bank. Within a single term, 570 pairs show up in more than one month (727 pair–term combinations). `term`, `itemBank`, and the within-sheet `question` index record which matching a person saw. They are not the item id.
+
+Option order is canonical and does not follow the sheet. The two city names are sorted alphabetically, case-sensitive as stored, and the earlier name is `option1`. City ids are stable within a country, but they are not the sort key: alphabetical order and ascending `city1Id` disagree for 2,062 pairs. `correctOption` is 1 when `option1` has the larger population and 2 when `option2` does. If a sheet listed the cities the other way around, `choice` is swapped (1 becomes 2 and 2 becomes 1) and `recognize1` / `recognize2` are swapped with it, so those fields refer to the canonical cities. `correct` is still 1 when the person picked the larger city.
 
 ## Anonymity
 
@@ -27,29 +29,26 @@ Each workbook that yielded at least one valid country sheet is a separate partic
 
 ## Files
 
-- `questions.csv` — one row per pair a student could be shown (term × month × country × pair)
-- `itemBank.csv` — the same pairs, as the monthly bank joined to `questionId`
+- `questions.csv` — one row per distinct city pair (the country and the two cities). `questionId` is unique in this file.
+- `itemBank.csv` — one row per term × month × presented pair, joined to that shared `questionId`. The same `questionId` repeats when a pair is used again.
 - `trials.csv` — one row per person × pair on each country sheet that passed the validity checks
 - `participants.csv` — one row per workbook
 
-`itemBank` is the month (Jan–Dec). That is the shared item set, analogous to an easy/hard bank. The month is not a topic. `topic` is the country. `design` is `assigned` (the month's pairs were assigned, not chosen). `condition` is `140C`. There is no difficulty rating. Recognition is stored as `recognize1` and `recognize2`, not as a difficulty score.
+`itemBank` is the month (Jan–Dec) of the assigned workbook. People with the same term and month saw the same pairs. The month is not a topic and is not the item id. `topic` is the country. `design` is `assigned` (the month's pairs were assigned, not chosen). `condition` is `140C`. There is no difficulty rating. Recognition is stored as `recognize1` and `recognize2`, aligned with the canonical options, not as a difficulty score.
 
 ### `questions.csv`
 
 | Column | Meaning |
 |--------|---------|
-| `questionId` | 1..N in this dataset |
-| `term` | 2012S, 2012F, 2013F, 2014F, 2015F, or 2016F |
-| `itemBank` | Month of the matching |
-| `question` | 1..nq row on that country sheet |
+| `questionId` | 1..4,526, one id per city pair, shared across terms and months. Ordered by `topicId`, then `option1`, then `option2`. |
 | `topicId`, `topic` | 1 German Cities, 2 US Cities, 3 Italian Cities, 4 UK Cities |
 | `questionText` | "Which city has the larger population?" |
-| `option1`, `option2` | City names from the course list |
-| `correctOption` | 1 or 2 |
-| `city1Id`, `city2Id` | 1-based index into that country's city list |
-| `population1`, `population2` | Population (`FeatureEnvironments` criterion) |
+| `option1`, `option2` | City names in alphabetical order (case-sensitive, as stored) |
+| `correctOption` | 1 or 2 in that order |
+| `city1Id`, `city2Id` | 1-based index of `option1` and `option2` in that country's city list |
+| `population1`, `population2` | Population of `option1` and `option2` (`FeatureEnvironments` criterion) |
 
-`correctOption` is 1 when `option1` has the larger population and 2 when `option2` does. That is the stored `q.truth` flag (true when column-1's city is larger). It matches the population criterion for every pair in every term and month. A trial is correct when the person's choice equals `correctOption`, the same rule as the course parser `(choice − 1) == (1 − truth)`.
+`correctOption` is 1 when `option1` has the larger population and 2 when `option2` does. On the original sheets, `q.truth` was true when the city in column 1 was larger; that bit matches the populations for every presentation. Where the sheet listed the cities in the opposite order, the trial's `choice` and recognition codes are flipped so `choice` still equals `correctOption` exactly when the person picked the larger city. The course parser's rule was `(choice − 1) == (1 − truth)` in sheet order; after this remap the same judgment is `choice == correctOption`.
 
 City names are the labels stored with the course list, with trailing spaces removed. The accented name `Forlì` is kept as stored. `L’Aquila` is city 76 on the full Italian list and is not part of any pair.
 
@@ -58,12 +57,12 @@ City names are the labels stored with the course list, with trailing spaces remo
 | Column | Meaning |
 |--------|---------|
 | `participant`, `term`, `itemBank`, `design`, `condition` | Person and the month they were assigned |
-| `question` | 1..nq on that country sheet |
-| `questionId`, `topicId`, `topic` | Join keys to `questions.csv` |
+| `question` | 1..nq on that country sheet (the presentation index, not the item id) |
+| `questionId`, `topicId`, `topic` | Join keys to `questions.csv`. `questionId` is the city pair. |
 | `answered` | 1 if the choice is 1 or 2; 0 otherwise |
-| `correct` | 1 or 0 when answered; blank when not |
-| `choice` | 1 or 2; blank when missing |
-| `recognize1`, `recognize2` | 0 or 1 for option 1 and option 2 |
+| `correct` | 1 or 0 when answered; blank when not. 1 means they picked the larger city. |
+| `choice` | 1 or 2 in canonical option order; blank when missing |
+| `recognize1`, `recognize2` | 0 or 1 for canonical option 1 and option 2 |
 
 If a country sheet passed the checks, every pair on that sheet is included. A sheet that failed is omitted, and the other countries from the same workbook are kept.
 
@@ -73,11 +72,11 @@ If a country sheet passed the checks, every pair on that sheet is included. A sh
 
 ### `itemBank.csv`
 
-`term`, `itemBank`, `question`, `questionId`, `topicId`, `topic`. `question` restarts at 1 on each country sheet, so it is unique within a month only together with `topic`.
+`term`, `itemBank`, `question`, `questionId`, `topicId`, `topic`. One row per term × month × presented pair (9,720 rows: 6 terms × 12 months × 135 pairs). `questionId` is the shared city-pair id and is repeated when that pair is presented again. `question` restarts at 1 on each country sheet, so it is unique within a month only together with `topic`.
 
 ## Counts
 
-1,260 files were in the six submission folders. 965 became participants. 114,063 trials, 9,720 questions (6 terms × 12 months × 135 pairs).
+1,260 files were in the six submission folders. 965 became participants. 114,063 trials, 4,526 questions (one per distinct unordered city pair). The monthly banks still hold 9,720 presentations (6 terms × 12 months × 135 pairs), in `itemBank.csv`.
 
 | Term | Files seen | Participants | Files dropped |
 |------|------------|--------------|---------------|
@@ -149,7 +148,7 @@ The Italian generator comment sets `d(3).nobjs = 49` and describes those cities 
 
 Some workbooks coded recognition as 1/2 instead of 0/1. Those sheets were recoded, as in the course script. Choice stays 1 or 2.
 
-Correctness was checked two ways. Stored `q.truth` agrees with "larger population" for every pair. `correctOption` in `questions.csv` is that same bit, written as 1 or 2.
+Correctness was checked two ways. Stored `q.truth` agrees with "larger population" for every sheet pair. `correctOption` in `questions.csv` is that comparison after the cities are placed in alphabetical order, written as 1 or 2. Remapping `choice` into that order does not change who was correct: answered-trial accuracy stays 0.611 (69,575 / 113,936).
 
 Trailing spaces on many US, Italian, and UK names in the MATLAB labels were removed. The names are otherwise as stored.
 
