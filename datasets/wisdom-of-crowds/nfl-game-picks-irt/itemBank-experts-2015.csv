@@ -1,0 +1,257 @@
+itemBank,question,questionId,gameId,topicId,topic
+season,1,1,2015-PIT@NE,9,AFC
+season,2,2,2015-GB@CHI,6,NFC North
+season,3,3,2015-KC@HOU,9,AFC
+season,4,4,2015-CLE@NYJ,9,AFC
+season,5,5,2015-IND@BUF,9,AFC
+season,6,6,2015-MIA@WAS,11,Interconference
+season,7,7,2015-CAR@JAX,11,Interconference
+season,8,8,2015-SEA@LAR,8,NFC West
+season,9,9,2015-NO@ARI,10,NFC
+season,10,10,2015-DET@LAC,11,Interconference
+season,11,11,2015-TEN@TB,11,Interconference
+season,12,12,2015-CIN@OAK,9,AFC
+season,13,13,2015-BAL@DEN,9,AFC
+season,14,14,2015-NYG@DAL,5,NFC East
+season,15,15,2015-PHI@ATL,10,NFC
+season,16,16,2015-MIN@SF,10,NFC
+season,1,17,2015-DEN@KC,4,AFC West
+season,2,18,2015-HOU@CAR,11,Interconference
+season,3,19,2015-SF@PIT,11,Interconference
+season,4,20,2015-TB@NO,7,NFC South
+season,5,21,2015-DET@MIN,6,NFC North
+season,6,22,2015-ARI@CHI,10,NFC
+season,7,23,2015-NE@BUF,1,AFC East
+season,8,24,2015-LAC@CIN,9,AFC
+season,9,25,2015-TEN@CLE,9,AFC
+season,10,26,2015-ATL@NYG,10,NFC
+season,11,27,2015-LAR@WAS,10,NFC
+season,12,28,2015-MIA@JAX,9,AFC
+season,13,29,2015-BAL@OAK,9,AFC
+season,14,30,2015-DAL@PHI,5,NFC East
+season,15,31,2015-SEA@GB,10,NFC
+season,16,32,2015-NYJ@IND,9,AFC
+season,1,33,2015-WAS@NYG,5,NFC East
+season,2,34,2015-ATL@DAL,10,NFC
+season,3,35,2015-IND@TEN,3,AFC South
+season,4,36,2015-OAK@CLE,9,AFC
+season,5,37,2015-CIN@BAL,2,AFC North
+season,6,38,2015-JAX@NE,9,AFC
+season,7,39,2015-NO@CAR,7,NFC South
+season,8,40,2015-PHI@NYJ,11,Interconference
+season,9,41,2015-TB@HOU,11,Interconference
+season,10,42,2015-LAC@MIN,11,Interconference
+season,11,43,2015-PIT@LAR,11,Interconference
+season,12,44,2015-SF@ARI,8,NFC West
+season,13,45,2015-BUF@MIA,1,AFC East
+season,14,46,2015-CHI@SEA,10,NFC
+season,15,47,2015-DEN@DET,11,Interconference
+season,16,48,2015-KC@GB,11,Interconference
+season,1,49,2015-BAL@PIT,2,AFC North
+season,2,50,2015-NYJ@MIA,1,AFC East
+season,3,51,2015-JAX@IND,3,AFC South
+season,4,52,2015-NYG@BUF,11,Interconference
+season,5,53,2015-CAR@TB,7,NFC South
+season,6,54,2015-PHI@WAS,5,NFC East
+season,7,55,2015-OAK@CHI,11,Interconference
+season,8,56,2015-HOU@ATL,11,Interconference
+season,9,57,2015-KC@CIN,9,AFC
+season,10,58,2015-CLE@LAC,9,AFC
+season,11,59,2015-GB@SF,10,NFC
+season,12,60,2015-LAR@ARI,8,NFC West
+season,13,61,2015-MIN@DEN,11,Interconference
+season,14,62,2015-DAL@NO,10,NFC
+season,15,63,2015-DET@SEA,10,NFC
+season,1,64,2015-IND@HOU,3,AFC South
+season,2,65,2015-CHI@KC,11,Interconference
+season,3,66,2015-SEA@CIN,11,Interconference
+season,4,67,2015-WAS@ATL,10,NFC
+season,5,68,2015-JAX@TB,11,Interconference
+season,6,69,2015-NO@PHI,10,NFC
+season,7,70,2015-CLE@BAL,2,AFC North
+season,8,71,2015-LAR@GB,10,NFC
+season,9,72,2015-BUF@TEN,9,AFC
+season,10,73,2015-ARI@DET,10,NFC
+season,11,74,2015-NE@DAL,11,Interconference
+season,12,75,2015-DEN@OAK,4,AFC West
+season,13,76,2015-SF@NYG,10,NFC
+season,14,77,2015-PIT@LAC,9,AFC
+season,1,78,2015-ATL@NO,7,NFC South
+season,2,79,2015-WAS@NYJ,11,Interconference
+season,3,80,2015-ARI@PIT,11,Interconference
+season,4,81,2015-KC@MIN,11,Interconference
+season,5,82,2015-CIN@BUF,9,AFC
+season,6,83,2015-CHI@DET,6,NFC North
+season,7,84,2015-DEN@CLE,9,AFC
+season,8,85,2015-HOU@JAX,3,AFC South
+season,9,86,2015-MIA@TEN,9,AFC
+season,10,87,2015-CAR@SEA,10,NFC
+season,11,88,2015-LAC@GB,11,Interconference
+season,12,89,2015-BAL@SF,11,Interconference
+season,13,90,2015-NE@IND,9,AFC
+season,14,91,2015-NYG@PHI,5,NFC East
+season,1,92,2015-SEA@SF,8,NFC West
+season,2,93,2015-BUF@JAX,9,AFC
+season,3,94,2015-TB@WAS,10,NFC
+season,4,95,2015-ATL@TEN,11,Interconference
+season,5,96,2015-NO@IND,11,Interconference
+season,6,97,2015-MIN@DET,6,NFC North
+season,7,98,2015-PIT@KC,9,AFC
+season,8,99,2015-CLE@LAR,11,Interconference
+season,9,100,2015-HOU@MIA,9,AFC
+season,10,101,2015-NYJ@NE,1,AFC East
+season,11,102,2015-OAK@LAC,4,AFC West
+season,12,103,2015-DAL@NYG,5,NFC East
+season,13,104,2015-PHI@CAR,10,NFC
+season,14,105,2015-BAL@ARI,11,Interconference
+season,1,106,2015-MIA@NE,1,AFC East
+season,2,107,2015-DET@KC,11,Interconference
+season,3,108,2015-TB@ATL,7,NFC South
+season,4,109,2015-ARI@CLE,11,Interconference
+season,5,110,2015-SF@LAR,8,NFC West
+season,6,111,2015-NYG@NO,10,NFC
+season,7,112,2015-MIN@CHI,6,NFC North
+season,8,113,2015-LAC@BAL,9,AFC
+season,9,114,2015-CIN@PIT,2,AFC North
+season,10,115,2015-TEN@HOU,3,AFC South
+season,11,116,2015-NYJ@OAK,9,AFC
+season,12,117,2015-SEA@DAL,10,NFC
+season,13,118,2015-GB@DEN,11,Interconference
+season,14,119,2015-IND@CAR,11,Interconference
+season,1,120,2015-CLE@CIN,2,AFC North
+season,2,121,2015-GB@CAR,10,NFC
+season,3,122,2015-WAS@NE,11,Interconference
+season,4,123,2015-TEN@NO,11,Interconference
+season,5,124,2015-MIA@BUF,1,AFC East
+season,6,125,2015-LAR@MIN,10,NFC
+season,7,126,2015-JAX@NYJ,9,AFC
+season,8,127,2015-OAK@PIT,9,AFC
+season,9,128,2015-NYG@TB,10,NFC
+season,10,129,2015-ATL@SF,10,NFC
+season,11,130,2015-DEN@IND,9,AFC
+season,12,131,2015-PHI@DAL,5,NFC East
+season,13,132,2015-CHI@LAC,11,Interconference
+season,1,133,2015-BUF@NYJ,1,AFC East
+season,2,134,2015-DET@GB,6,NFC North
+season,3,135,2015-DAL@TB,10,NFC
+season,4,136,2015-CAR@TEN,11,Interconference
+season,5,137,2015-CHI@LAR,10,NFC
+season,6,138,2015-NO@WAS,10,NFC
+season,7,139,2015-MIA@PHI,11,Interconference
+season,8,140,2015-CLE@PIT,2,AFC North
+season,9,141,2015-JAX@BAL,9,AFC
+season,10,142,2015-MIN@OAK,11,Interconference
+season,11,143,2015-NE@NYG,11,Interconference
+season,12,144,2015-KC@DEN,4,AFC West
+season,13,145,2015-ARI@SEA,8,NFC West
+season,14,146,2015-HOU@CIN,9,AFC
+season,1,147,2015-TEN@JAX,3,AFC South
+season,2,148,2015-OAK@DET,11,Interconference
+season,3,149,2015-IND@ATL,11,Interconference
+season,4,150,2015-NYJ@HOU,9,AFC
+season,5,151,2015-TB@PHI,10,NFC
+season,6,152,2015-DEN@CHI,11,Interconference
+season,7,153,2015-LAR@BAL,11,Interconference
+season,8,154,2015-DAL@MIA,11,Interconference
+season,9,155,2015-WAS@CAR,10,NFC
+season,10,156,2015-KC@LAC,4,AFC West
+season,11,157,2015-GB@MIN,6,NFC North
+season,12,158,2015-SF@SEA,8,NFC West
+season,13,159,2015-CIN@ARI,11,Interconference
+season,14,160,2015-BUF@NE,1,AFC East
+season,1,161,2015-PHI@DET,10,NFC
+season,2,162,2015-CAR@DAL,10,NFC
+season,3,163,2015-CHI@GB,6,NFC North
+season,4,164,2015-OAK@TEN,9,AFC
+season,5,165,2015-BUF@KC,9,AFC
+season,6,166,2015-TB@IND,11,Interconference
+season,7,167,2015-NYG@WAS,5,NFC East
+season,8,168,2015-NO@HOU,11,Interconference
+season,9,169,2015-MIN@ATL,10,NFC
+season,10,170,2015-LAR@CIN,11,Interconference
+season,11,171,2015-LAC@JAX,9,AFC
+season,12,172,2015-MIA@NYJ,1,AFC East
+season,13,173,2015-ARI@SF,8,NFC West
+season,14,174,2015-PIT@SEA,11,Interconference
+season,15,175,2015-NE@DEN,9,AFC
+season,16,176,2015-BAL@CLE,2,AFC North
+season,1,177,2015-GB@DET,6,NFC North
+season,2,178,2015-NYJ@NYG,11,Interconference
+season,3,179,2015-ARI@LAR,8,NFC West
+season,4,180,2015-ATL@TB,7,NFC South
+season,5,181,2015-SEA@MIN,10,NFC
+season,6,182,2015-HOU@BUF,9,AFC
+season,7,183,2015-BAL@MIA,9,AFC
+season,8,184,2015-CIN@CLE,2,AFC North
+season,9,185,2015-JAX@TEN,3,AFC South
+season,10,186,2015-SF@CHI,10,NFC
+season,11,187,2015-DEN@LAC,4,AFC West
+season,12,188,2015-KC@OAK,4,AFC West
+season,13,189,2015-CAR@NO,7,NFC South
+season,14,190,2015-PHI@NE,11,Interconference
+season,15,191,2015-IND@PIT,9,AFC
+season,16,192,2015-DAL@WAS,5,NFC East
+season,1,193,2015-MIN@ARI,10,NFC
+season,2,194,2015-BUF@PHI,11,Interconference
+season,3,195,2015-SF@CLE,11,Interconference
+season,4,196,2015-DET@LAR,10,NFC
+season,5,197,2015-NO@TB,7,NFC South
+season,6,198,2015-TEN@NYJ,9,AFC
+season,7,199,2015-PIT@CIN,2,AFC North
+season,8,200,2015-IND@JAX,3,AFC South
+season,9,201,2015-LAC@KC,4,AFC West
+season,10,202,2015-WAS@CHI,10,NFC
+season,11,203,2015-ATL@CAR,7,NFC South
+season,12,204,2015-SEA@BAL,11,Interconference
+season,13,205,2015-OAK@DEN,4,AFC West
+season,14,206,2015-DAL@GB,10,NFC
+season,15,207,2015-NE@HOU,9,AFC
+season,16,208,2015-NYG@MIA,11,Interconference
+season,1,209,2015-TB@LAR,10,NFC
+season,2,210,2015-NYJ@DAL,11,Interconference
+season,3,211,2015-CHI@MIN,6,NFC North
+season,4,212,2015-ATL@JAX,11,Interconference
+season,5,213,2015-HOU@IND,3,AFC South
+season,6,214,2015-CAR@NYG,10,NFC
+season,7,215,2015-TEN@NE,9,AFC
+season,8,216,2015-BUF@WAS,11,Interconference
+season,9,217,2015-KC@BAL,9,AFC
+season,10,218,2015-CLE@SEA,11,Interconference
+season,11,219,2015-GB@OAK,11,Interconference
+season,12,220,2015-DEN@PIT,9,AFC
+season,13,221,2015-MIA@LAC,9,AFC
+season,14,222,2015-CIN@SF,11,Interconference
+season,15,223,2015-ARI@PHI,10,NFC
+season,16,224,2015-DET@NO,10,NFC
+season,1,225,2015-LAC@OAK,4,AFC West
+season,2,226,2015-WAS@PHI,5,NFC East
+season,3,227,2015-NE@NYJ,1,AFC East
+season,4,228,2015-HOU@TEN,3,AFC South
+season,5,229,2015-CLE@KC,9,AFC
+season,6,230,2015-IND@MIA,9,AFC
+season,7,231,2015-SF@DET,10,NFC
+season,8,232,2015-DAL@BUF,11,Interconference
+season,9,233,2015-CHI@TB,10,NFC
+season,10,234,2015-CAR@ATL,7,NFC South
+season,11,235,2015-PIT@BAL,2,AFC North
+season,12,236,2015-JAX@NO,11,Interconference
+season,13,237,2015-LAR@SEA,8,NFC West
+season,14,238,2015-GB@ARI,10,NFC
+season,15,239,2015-NYG@MIN,10,NFC
+season,16,240,2015-CIN@DEN,9,AFC
+season,1,241,2015-NYJ@BUF,1,AFC East
+season,2,242,2015-NE@MIA,1,AFC East
+season,3,243,2015-NO@ATL,7,NFC South
+season,4,244,2015-BAL@CIN,2,AFC North
+season,5,245,2015-PIT@CLE,2,AFC North
+season,6,246,2015-JAX@HOU,3,AFC South
+season,7,247,2015-TEN@IND,3,AFC South
+season,8,248,2015-WAS@DAL,5,NFC East
+season,9,249,2015-PHI@NYG,5,NFC East
+season,10,250,2015-DET@CHI,6,NFC North
+season,11,251,2015-TB@CAR,7,NFC South
+season,12,252,2015-OAK@KC,4,AFC West
+season,13,253,2015-LAC@DEN,4,AFC West
+season,14,254,2015-SEA@ARI,8,NFC West
+season,15,255,2015-LAR@SF,8,NFC West
+season,16,256,2015-MIN@GB,6,NFC North
