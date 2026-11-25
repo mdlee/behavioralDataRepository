@@ -70,7 +70,7 @@ Trial-level human behavioral datasets, mostly from studies associated with Micha
 | [Lee, Steyvers, & Miller (2014)](datasets/wisdom-of-crowds/lee-steyvers-miller-2014-rankings/) | Wisdom-of-crowd rankings |
 | [Montgomery & Lee (2021)](datasets/wisdom-of-crowds/montgomery-lee-2021-nfl/) | NFL win predictions, experts and novices |
 | [Lee, Danileiko, & Vi (2018)](datasets/wisdom-of-crowds/lee-danileiko-vi-2018-surprisingly-popular-nfl/) | Surprisingly popular NFL game predictions |
-| [Expert NFL picks](datasets/wisdom-of-crowds/expert-nfl-picks/) | ESPN 2015–2017 and Montgomery 2017 commentators, one id per person, division and conference topics |
+| [Expert NFL picks](datasets/wisdom-of-crowds/expert-nfl-picks/) | ESPN 2015–2017 and Montgomery 2017 commentators, one id per person, division and conference topics (24,047 trials) |
 | [NFL game picks for IRT](datasets/wisdom-of-crowds/nfl-game-picks-irt/) | 2017 Mechanical Turk novices, with division and conference topics the Danileiko file does not have |
 | [Bennett, Benjamin, Mistry, & Steyvers (2018)](datasets/wisdom-of-crowds/bennett-benjamin-mistry-steyvers-2018-general-knowledge/) | General-knowledge opt-in vs assigned (trials joined to 12 topics) |
 | [Lee & Lee (2017)](datasets/wisdom-of-crowds/lee-lee-2017-crowd-majority/) | Crowd majority vs accuracy (problem-level) |

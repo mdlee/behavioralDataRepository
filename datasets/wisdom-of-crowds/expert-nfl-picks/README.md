@@ -2,13 +2,13 @@
 
 Media commentators, 2015–2017, one database. Mechanical Turk novices are not in this folder.
 
-**82 commentators**, **768 games**, **24,055 trials**.
+**82 commentators**, **768 games**, **24,047 trials**.
 
 | Season | Trials | Where the picks come from |
 |---|---:|---|
 | 2015 | 3,328 | ESPN panel (13 people) |
 | 2016 | 2,304 | ESPN panel (9 people) |
-| 2017 | 18,423 | ESPN panel plus the Montgomery and Lee 71, after de-duplication |
+| 2017 | 18,415 | ESPN panel plus the Montgomery and Lee 71, after de-duplication |
 
 `participant` is one integer per person, assigned by sorting the name. The same person keeps that id in every season, including seasons they skip. ESPN files stored a surname. That surname is the Montgomery and Lee full name when exactly one of the 71 ends with it: Matt Bowen, Mike Clay, Mike Golic, Dan Graziano, K.C. Joyner, Lisa Kerney, Mina Kimes, Louis Riddick, Kevin Seifert, Seth Wickersham. Caplan, Hoge, Jaworski, Allen, Carter, Ditka, Jackson, Johnson, Mortensen, and Schlereth are not in the 71, so the name stays the surname. Wingo is the 2017 ESPN panel only. Jonathan Jones and Lindsay H. Jones share a surname and stay two people.
 
@@ -47,18 +47,18 @@ Topic columns are copied from the IRT question rows on `gameId`. They are not a 
 
 Ten ESPN 2017 commentators are in the Montgomery and Lee 71. Where the pick for that person and `gameId` agrees, one trial is kept and `pickSource` is `both` (2,549 trials). A trial that exists in only one source is kept: `pickSource` is `espn` or `montgomery`. That includes Wingo, the other ESPN-only commentators from 2015–2016, the Montgomery-only 2017 commentators, and three 2017 person-games that were in the ESPN file and missing from the 71 (Kevin Seifert `2017-OAK@TEN`, Seth Wickersham `2017-MIN@WAS`, Lisa Kerney `2017-LAC@DAL`).
 
-Eight person-games disagree. Both picks are kept. `pickSource` is `espn` or `montgomery`. Choice 1 is the home team.
+Eight person-games disagreed between the ESPN export and the Montgomery heuristic export. The Montgomery row was dropped, so each of those person-games is one trial. The kept team is the index in `Data_NFL2017.mat` (`d.picks`: week, slot, expert). The Pickwatch scrape `NFLPickWatchSeason2017.mat` (`d.picks`) names that same team on all eight. The Montgomery `home team` row in `expertPredictions.csv` implied the other team, and `predwinner` in `nfl_data2017_71_EXPERTS.csv` matches that heuristic rather than the scrape, so neither was used. `pickSource` on these eight rows is `espn-mat`. Choice 1 is the home team. Every commentator × game is now one row.
 
-| Name | gameId | ESPN | Montgomery |
-|---|---|---:|---:|
-| Dan Graziano | `2017-NE@TB` | 2 | 1 |
-| Mina Kimes | `2017-GB@MIN` | 2 | 1 |
-| Louis Riddick | `2017-TEN@IND` | 1 | 2 |
-| Seth Wickersham | `2017-DEN@LAC` | 2 | 1 |
-| Seth Wickersham | `2017-DET@CIN` | 2 | 1 |
-| Seth Wickersham | `2017-LAC@OAK` | 2 | 1 |
-| Seth Wickersham | `2017-NYG@ARI` | 1 | 2 |
-| Seth Wickersham | `2017-NYJ@DEN` | 1 | 2 |
+| Name | gameId | Kept | ESPN mat | Montgomery heuristic |
+|---|---|---:|---|---|
+| Dan Graziano | `2017-NE@TB` | 2 | Patriots | Buccaneers |
+| Mina Kimes | `2017-GB@MIN` | 2 | Packers | Vikings |
+| Louis Riddick | `2017-TEN@IND` | 1 | Colts | Titans |
+| Seth Wickersham | `2017-DEN@LAC` | 2 | Broncos | Chargers |
+| Seth Wickersham | `2017-DET@CIN` | 2 | Lions | Bengals |
+| Seth Wickersham | `2017-LAC@OAK` | 2 | Chargers | Raiders |
+| Seth Wickersham | `2017-NYG@ARI` | 1 | Cardinals | Giants |
+| Seth Wickersham | `2017-NYJ@DEN` | 1 | Broncos | Jets |
 
 ## What is not in this folder
 

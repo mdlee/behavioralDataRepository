@@ -10173,8 +10173,7 @@ participant,experiment,itemBank,design,condition,source,askedWeek,question,quest
 11,2017,season,assigned,expert,expert,5,1,576,2017-NE@TB,11,Interconference,9,Cross-division,3,Interconference,3,Interconference,NFC,NFC South,AFC,AFC East,1,2,1,,,montgomery
 12,2017,season,assigned,expert,expert,5,1,576,2017-NE@TB,11,Interconference,9,Cross-division,3,Interconference,3,Interconference,NFC,NFC South,AFC,AFC East,1,2,1,,,montgomery
 13,2017,season,assigned,expert,expert,5,1,576,2017-NE@TB,11,Interconference,9,Cross-division,3,Interconference,3,Interconference,NFC,NFC South,AFC,AFC East,1,1,0,,,montgomery
-14,2017,season,assigned,expert,expert,5,1,576,2017-NE@TB,11,Interconference,9,Cross-division,3,Interconference,3,Interconference,NFC,NFC South,AFC,AFC East,1,2,1,,,espn
-14,2017,season,assigned,expert,expert,5,1,576,2017-NE@TB,11,Interconference,9,Cross-division,3,Interconference,3,Interconference,NFC,NFC South,AFC,AFC East,1,1,0,,,montgomery
+14,2017,season,assigned,expert,expert,5,1,576,2017-NE@TB,11,Interconference,9,Cross-division,3,Interconference,3,Interconference,NFC,NFC South,AFC,AFC East,1,2,1,,,espn-mat
 15,2017,season,assigned,expert,expert,5,1,576,2017-NE@TB,11,Interconference,9,Cross-division,3,Interconference,3,Interconference,NFC,NFC South,AFC,AFC East,1,1,0,,,montgomery
 16,2017,season,assigned,expert,expert,5,1,576,2017-NE@TB,11,Interconference,9,Cross-division,3,Interconference,3,Interconference,NFC,NFC South,AFC,AFC East,1,1,0,,,montgomery
 17,2017,season,assigned,expert,expert,5,1,576,2017-NE@TB,11,Interconference,9,Cross-division,3,Interconference,3,Interconference,NFC,NFC South,AFC,AFC East,1,2,1,,,montgomery
@@ -11366,8 +11365,7 @@ participant,experiment,itemBank,design,condition,source,askedWeek,question,quest
 56,2017,season,assigned,expert,expert,6,3,592,2017-GB@MIN,6,NFC North,6,NFC North,2,NFC,1,Divisional,NFC,NFC North,NFC,NFC North,1,2,0,,,both
 57,2017,season,assigned,expert,expert,6,3,592,2017-GB@MIN,6,NFC North,6,NFC North,2,NFC,1,Divisional,NFC,NFC North,NFC,NFC North,1,2,0,,,montgomery
 58,2017,season,assigned,expert,expert,6,3,592,2017-GB@MIN,6,NFC North,6,NFC North,2,NFC,1,Divisional,NFC,NFC North,NFC,NFC North,1,2,0,,,montgomery
-59,2017,season,assigned,expert,expert,6,3,592,2017-GB@MIN,6,NFC North,6,NFC North,2,NFC,1,Divisional,NFC,NFC North,NFC,NFC North,1,2,0,,,espn
-59,2017,season,assigned,expert,expert,6,3,592,2017-GB@MIN,6,NFC North,6,NFC North,2,NFC,1,Divisional,NFC,NFC North,NFC,NFC North,1,1,1,,,montgomery
+59,2017,season,assigned,expert,expert,6,3,592,2017-GB@MIN,6,NFC North,6,NFC North,2,NFC,1,Divisional,NFC,NFC North,NFC,NFC North,1,2,0,,,espn-mat
 61,2017,season,assigned,expert,expert,6,3,592,2017-GB@MIN,6,NFC North,6,NFC North,2,NFC,1,Divisional,NFC,NFC North,NFC,NFC North,1,2,0,,,montgomery
 62,2017,season,assigned,expert,expert,6,3,592,2017-GB@MIN,6,NFC North,6,NFC North,2,NFC,1,Divisional,NFC,NFC North,NFC,NFC North,1,2,0,,,montgomery
 63,2017,season,assigned,expert,expert,6,3,592,2017-GB@MIN,6,NFC North,6,NFC North,2,NFC,1,Divisional,NFC,NFC North,NFC,NFC North,1,2,0,,,montgomery
@@ -12030,8 +12028,7 @@ participant,experiment,itemBank,design,condition,source,askedWeek,question,quest
 72,2017,season,assigned,expert,expert,6,12,601,2017-LAC@OAK,4,AFC West,4,AFC West,1,AFC,1,Divisional,AFC,AFC West,AFC,AFC West,1,1,0,,,montgomery
 73,2017,season,assigned,expert,expert,6,12,601,2017-LAC@OAK,4,AFC West,4,AFC West,1,AFC,1,Divisional,AFC,AFC West,AFC,AFC West,1,2,1,,,montgomery
 74,2017,season,assigned,expert,expert,6,12,601,2017-LAC@OAK,4,AFC West,4,AFC West,1,AFC,1,Divisional,AFC,AFC West,AFC,AFC West,1,2,1,,,montgomery
-76,2017,season,assigned,expert,expert,6,12,601,2017-LAC@OAK,4,AFC West,4,AFC West,1,AFC,1,Divisional,AFC,AFC West,AFC,AFC West,1,2,1,,,espn
-76,2017,season,assigned,expert,expert,6,12,601,2017-LAC@OAK,4,AFC West,4,AFC West,1,AFC,1,Divisional,AFC,AFC West,AFC,AFC West,1,1,0,,,montgomery
+76,2017,season,assigned,expert,expert,6,12,601,2017-LAC@OAK,4,AFC West,4,AFC West,1,AFC,1,Divisional,AFC,AFC West,AFC,AFC West,1,2,1,,,espn-mat
 77,2017,season,assigned,expert,expert,6,12,601,2017-LAC@OAK,4,AFC West,4,AFC West,1,AFC,1,Divisional,AFC,AFC West,AFC,AFC West,1,2,1,,,montgomery
 78,2017,season,assigned,expert,expert,6,12,601,2017-LAC@OAK,4,AFC West,4,AFC West,1,AFC,1,Divisional,AFC,AFC West,AFC,AFC West,1,1,0,,,montgomery
 79,2017,season,assigned,expert,expert,6,12,601,2017-LAC@OAK,4,AFC West,4,AFC West,1,AFC,1,Divisional,AFC,AFC West,AFC,AFC West,1,2,1,,,montgomery
@@ -13110,8 +13107,7 @@ participant,experiment,itemBank,design,condition,source,askedWeek,question,quest
 72,2017,season,assigned,expert,expert,7,13,616,2017-DEN@LAC,4,AFC West,4,AFC West,1,AFC,1,Divisional,AFC,AFC West,AFC,AFC West,1,2,0,,,montgomery
 73,2017,season,assigned,expert,expert,7,13,616,2017-DEN@LAC,4,AFC West,4,AFC West,1,AFC,1,Divisional,AFC,AFC West,AFC,AFC West,1,2,0,,,montgomery
 74,2017,season,assigned,expert,expert,7,13,616,2017-DEN@LAC,4,AFC West,4,AFC West,1,AFC,1,Divisional,AFC,AFC West,AFC,AFC West,1,1,1,,,montgomery
-76,2017,season,assigned,expert,expert,7,13,616,2017-DEN@LAC,4,AFC West,4,AFC West,1,AFC,1,Divisional,AFC,AFC West,AFC,AFC West,1,2,0,,,espn
-76,2017,season,assigned,expert,expert,7,13,616,2017-DEN@LAC,4,AFC West,4,AFC West,1,AFC,1,Divisional,AFC,AFC West,AFC,AFC West,1,1,1,,,montgomery
+76,2017,season,assigned,expert,expert,7,13,616,2017-DEN@LAC,4,AFC West,4,AFC West,1,AFC,1,Divisional,AFC,AFC West,AFC,AFC West,1,2,0,,,espn-mat
 77,2017,season,assigned,expert,expert,7,13,616,2017-DEN@LAC,4,AFC West,4,AFC West,1,AFC,1,Divisional,AFC,AFC West,AFC,AFC West,1,1,1,,,montgomery
 78,2017,season,assigned,expert,expert,7,13,616,2017-DEN@LAC,4,AFC West,4,AFC West,1,AFC,1,Divisional,AFC,AFC West,AFC,AFC West,1,1,1,,,montgomery
 79,2017,season,assigned,expert,expert,7,13,616,2017-DEN@LAC,4,AFC West,4,AFC West,1,AFC,1,Divisional,AFC,AFC West,AFC,AFC West,1,1,1,,,montgomery
@@ -17549,8 +17545,7 @@ participant,experiment,itemBank,design,condition,source,askedWeek,question,quest
 46,2017,season,assigned,expert,expert,12,6,678,2017-TEN@IND,3,AFC South,3,AFC South,1,AFC,1,Divisional,AFC,AFC South,AFC,AFC South,1,2,1,,,montgomery
 47,2017,season,assigned,expert,expert,12,6,678,2017-TEN@IND,3,AFC South,3,AFC South,1,AFC,1,Divisional,AFC,AFC South,AFC,AFC South,1,2,1,,,both
 48,2017,season,assigned,expert,expert,12,6,678,2017-TEN@IND,3,AFC South,3,AFC South,1,AFC,1,Divisional,AFC,AFC South,AFC,AFC South,1,2,1,,,montgomery
-49,2017,season,assigned,expert,expert,12,6,678,2017-TEN@IND,3,AFC South,3,AFC South,1,AFC,1,Divisional,AFC,AFC South,AFC,AFC South,1,1,0,,,espn
-49,2017,season,assigned,expert,expert,12,6,678,2017-TEN@IND,3,AFC South,3,AFC South,1,AFC,1,Divisional,AFC,AFC South,AFC,AFC South,1,2,1,,,montgomery
+49,2017,season,assigned,expert,expert,12,6,678,2017-TEN@IND,3,AFC South,3,AFC South,1,AFC,1,Divisional,AFC,AFC South,AFC,AFC South,1,1,0,,,espn-mat
 50,2017,season,assigned,expert,expert,12,6,678,2017-TEN@IND,3,AFC South,3,AFC South,1,AFC,1,Divisional,AFC,AFC South,AFC,AFC South,1,2,1,,,montgomery
 51,2017,season,assigned,expert,expert,12,6,678,2017-TEN@IND,3,AFC South,3,AFC South,1,AFC,1,Divisional,AFC,AFC South,AFC,AFC South,1,2,1,,,both
 52,2017,season,assigned,expert,expert,12,6,678,2017-TEN@IND,3,AFC South,3,AFC South,1,AFC,1,Divisional,AFC,AFC South,AFC,AFC South,1,2,1,,,montgomery
@@ -20167,8 +20162,7 @@ participant,experiment,itemBank,design,condition,source,askedWeek,question,quest
 72,2017,season,assigned,expert,expert,14,10,714,2017-NYJ@DEN,9,AFC,9,Cross-division,1,AFC,2,Conference,AFC,AFC West,AFC,AFC East,1,2,0,,,montgomery
 73,2017,season,assigned,expert,expert,14,10,714,2017-NYJ@DEN,9,AFC,9,Cross-division,1,AFC,2,Conference,AFC,AFC West,AFC,AFC East,1,2,0,,,montgomery
 74,2017,season,assigned,expert,expert,14,10,714,2017-NYJ@DEN,9,AFC,9,Cross-division,1,AFC,2,Conference,AFC,AFC West,AFC,AFC East,1,2,0,,,montgomery
-76,2017,season,assigned,expert,expert,14,10,714,2017-NYJ@DEN,9,AFC,9,Cross-division,1,AFC,2,Conference,AFC,AFC West,AFC,AFC East,1,1,1,,,espn
-76,2017,season,assigned,expert,expert,14,10,714,2017-NYJ@DEN,9,AFC,9,Cross-division,1,AFC,2,Conference,AFC,AFC West,AFC,AFC East,1,2,0,,,montgomery
+76,2017,season,assigned,expert,expert,14,10,714,2017-NYJ@DEN,9,AFC,9,Cross-division,1,AFC,2,Conference,AFC,AFC West,AFC,AFC East,1,1,1,,,espn-mat
 77,2017,season,assigned,expert,expert,14,10,714,2017-NYJ@DEN,9,AFC,9,Cross-division,1,AFC,2,Conference,AFC,AFC West,AFC,AFC East,1,2,0,,,montgomery
 78,2017,season,assigned,expert,expert,14,10,714,2017-NYJ@DEN,9,AFC,9,Cross-division,1,AFC,2,Conference,AFC,AFC West,AFC,AFC East,1,1,1,,,montgomery
 79,2017,season,assigned,expert,expert,14,10,714,2017-NYJ@DEN,9,AFC,9,Cross-division,1,AFC,2,Conference,AFC,AFC West,AFC,AFC East,1,2,0,,,montgomery
@@ -22031,8 +22025,7 @@ participant,experiment,itemBank,design,condition,source,askedWeek,question,quest
 72,2017,season,assigned,expert,expert,16,4,740,2017-DET@CIN,11,Interconference,9,Cross-division,3,Interconference,3,Interconference,AFC,AFC North,NFC,NFC North,1,2,0,,,montgomery
 73,2017,season,assigned,expert,expert,16,4,740,2017-DET@CIN,11,Interconference,9,Cross-division,3,Interconference,3,Interconference,AFC,AFC North,NFC,NFC North,1,2,0,,,montgomery
 74,2017,season,assigned,expert,expert,16,4,740,2017-DET@CIN,11,Interconference,9,Cross-division,3,Interconference,3,Interconference,AFC,AFC North,NFC,NFC North,1,2,0,,,montgomery
-76,2017,season,assigned,expert,expert,16,4,740,2017-DET@CIN,11,Interconference,9,Cross-division,3,Interconference,3,Interconference,AFC,AFC North,NFC,NFC North,1,2,0,,,espn
-76,2017,season,assigned,expert,expert,16,4,740,2017-DET@CIN,11,Interconference,9,Cross-division,3,Interconference,3,Interconference,AFC,AFC North,NFC,NFC North,1,1,1,,,montgomery
+76,2017,season,assigned,expert,expert,16,4,740,2017-DET@CIN,11,Interconference,9,Cross-division,3,Interconference,3,Interconference,AFC,AFC North,NFC,NFC North,1,2,0,,,espn-mat
 77,2017,season,assigned,expert,expert,16,4,740,2017-DET@CIN,11,Interconference,9,Cross-division,3,Interconference,3,Interconference,AFC,AFC North,NFC,NFC North,1,2,0,,,montgomery
 78,2017,season,assigned,expert,expert,16,4,740,2017-DET@CIN,11,Interconference,9,Cross-division,3,Interconference,3,Interconference,AFC,AFC North,NFC,NFC North,1,2,0,,,montgomery
 79,2017,season,assigned,expert,expert,16,4,740,2017-DET@CIN,11,Interconference,9,Cross-division,3,Interconference,3,Interconference,AFC,AFC North,NFC,NFC North,1,2,0,,,montgomery
@@ -22751,8 +22744,7 @@ participant,experiment,itemBank,design,condition,source,askedWeek,question,quest
 72,2017,season,assigned,expert,expert,16,14,750,2017-NYG@ARI,10,NFC,9,Cross-division,2,NFC,2,Conference,NFC,NFC West,NFC,NFC East,1,1,1,,,montgomery
 73,2017,season,assigned,expert,expert,16,14,750,2017-NYG@ARI,10,NFC,9,Cross-division,2,NFC,2,Conference,NFC,NFC West,NFC,NFC East,1,1,1,,,montgomery
 74,2017,season,assigned,expert,expert,16,14,750,2017-NYG@ARI,10,NFC,9,Cross-division,2,NFC,2,Conference,NFC,NFC West,NFC,NFC East,1,2,0,,,montgomery
-76,2017,season,assigned,expert,expert,16,14,750,2017-NYG@ARI,10,NFC,9,Cross-division,2,NFC,2,Conference,NFC,NFC West,NFC,NFC East,1,1,1,,,espn
-76,2017,season,assigned,expert,expert,16,14,750,2017-NYG@ARI,10,NFC,9,Cross-division,2,NFC,2,Conference,NFC,NFC West,NFC,NFC East,1,2,0,,,montgomery
+76,2017,season,assigned,expert,expert,16,14,750,2017-NYG@ARI,10,NFC,9,Cross-division,2,NFC,2,Conference,NFC,NFC West,NFC,NFC East,1,1,1,,,espn-mat
 77,2017,season,assigned,expert,expert,16,14,750,2017-NYG@ARI,10,NFC,9,Cross-division,2,NFC,2,Conference,NFC,NFC West,NFC,NFC East,1,2,0,,,montgomery
 78,2017,season,assigned,expert,expert,16,14,750,2017-NYG@ARI,10,NFC,9,Cross-division,2,NFC,2,Conference,NFC,NFC West,NFC,NFC East,1,2,0,,,montgomery
 79,2017,season,assigned,expert,expert,16,14,750,2017-NYG@ARI,10,NFC,9,Cross-division,2,NFC,2,Conference,NFC,NFC West,NFC,NFC East,1,2,0,,,montgomery
