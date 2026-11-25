@@ -2,37 +2,38 @@
 
 Binary “which team wins?” questions in the same shape as Bennett, Benjamin, Mistry, and Steyvers (2018): one row per question, one row per person × question, `option1` / `option2`, and `correct` when a winner is known.
 
-Four panels, in separate files:
+This folder is the 2017 Mechanical Turk panel.
 
 | Panel | People | Games | Trials |
 |---|---:|---:|---:|
 | Mechanical Turk participants, 2017 | 1,700 | 257 | 25,700 |
-| ESPN experts, 2015 | 13 | 256 | 3,328 |
-| ESPN experts, 2016 | 9 | 256 | 2,304 |
-| ESPN experts, 2017 | 11 | 256 | 2,816 |
 
-Participants are Lee, Danileiko, and Vi (2018): 100 people each week, each person one week only. Experts are the ESPN panel in the Montgomery and Lee (2021) files. The ESPN house “Pick'em” column is not a person and is left out.
+Participants are Lee, Danileiko, and Vi (2018): 100 people each week, each person one week only. Their `participant` numbers are 1–1,700, the same ids as that Danileiko file.
+
+Commentators are not in this folder. ESPN 2015–2017 and the Montgomery and Lee 2017 experts are one database in [`expert-nfl-picks/`](../expert-nfl-picks/), with one id per person. Those ids are not the Mechanical Turk numbers.
+
+These novice trials are kept because they carry division and conference columns. The Danileiko `trials.csv` has `participant`, `week`, `game`, `option1`, `option2`, `prediction`, `confidence`, `meta`, `truth`, and `correct`, and not those topic columns.
 
 ## gameId
 
-`gameId` is `{season}-{away}@{home}`, using stable franchise abbreviations (`LAC` and `LAR` in every season; `WAS` for the Washington franchise). Option 1 is always the home team and option 2 is always the away team. `correctOption` is 1 or 2. `choice` on a trial uses the same coding.
+`gameId` is `{season}-{away}@{home}`, using stable franchise abbreviations (`LAC` and `LAR`; `WAS` for the Washington franchise). Option 1 is always the home team and option 2 is always the away team. `correctOption` is 1 or 2. `choice` on a trial uses the same coding.
 
-Every 2017 game that both panels saw has the same `gameId`. `questionId` restarts in each file, so join on `gameId`, not `questionId`. Participant numbers also restart in each file; `source` is `participant` or `expert`.
+The same 2017 `gameId` is used in [`expert-nfl-picks/`](../expert-nfl-picks/). `source` here is `participant`.
 
-`2017-TB@MIA` was on the week-1 participant slate, postponed, and played in week 11. Participants were asked again in week 11 (100 people each time; 200 trials). Experts picked it only in week 11. Both participant rows and the expert row share `2017-TB@MIA`. `askedWeek` is when the pick was made. `playedWeek` is when the game was played.
+`2017-TB@MIA` was on the week-1 slate, postponed, and played in week 11. Participants were asked again in week 11 (100 people each time; 200 trials). Commentators picked it only in week 11. `askedWeek` is when the pick was made. `playedWeek` is when the game was played.
 
 ## Topics
 
-`topic` is not the week. Week is only the item bank (`week01` … `week17` for participants, `season` for experts), because that is who saw which games.
+`topic` is not the week. Week is only the item bank (`week01` … `week17`), because that is who saw which games.
 
 A game has two teams, so division and conference are coded three ways. Use `topic` for a single factor. Use the other two columns if you want a pure partition.
 
-- `topic` uses the division when both teams are in it (`AFC East`, …, `NFC West`: 12 games each). Otherwise it uses the conference matchup: `AFC` or `NFC` for a same-conference game that is not divisional (48 games each), or `Interconference` (64 games). Divisional games are not also labeled with the bare conference, so `AFC` means cross-division AFC games only.
+- `topic` uses the division when both teams are in it (`AFC East`, …, `NFC West`: 12 games in a 256-game season). Otherwise it uses the conference matchup: `AFC` or `NFC` for a same-conference game that is not divisional (48 games each), or `Interconference` (64 games). The participant question file has 65 `Interconference` rows because `2017-TB@MIA` was asked twice. Divisional games are not also labeled with the bare conference, so `AFC` means cross-division AFC games only.
 - `divisionTopic` is that shared division, or `Cross-division` for every other game.
 - `conferenceTopic` is `AFC`, `NFC`, or `Interconference`, and it does include divisional games.
 - `scopeTopic` is `Divisional`, `Conference`, or `Interconference`: the type of game, not which division.
 
-Home and away division and conference are also on each question, if a model should let one game load on both teams’ divisions.
+Home and away division and conference are also on each question, if a model should let one game load on both teams’ divisions. The same columns are on the commentator trials in `expert-nfl-picks/`, copied from this coding by `gameId`.
 
 Other groupings that look like topics but are not used as `topic`:
 
@@ -43,22 +44,22 @@ Other groupings that look like topics but are not used as `topic`:
 
 ## Outcome
 
-`correct` is 1 when `choice` matches the final score, and blank when the game tied or has no score. There is no `difficultyRating`. Participants have `confidence` (1–5) and `meta` (judged proportion of others who agree). Experts do not. `knowledge` on the participant file is the self-rating from the survey.
+`correct` is 1 when `choice` matches the final score, and blank when the game has no score. There is no `difficultyRating`. Participants have `confidence` (1–5) and `meta` (judged proportion of others who agree). `knowledge` on the participant file is the self-rating from the survey.
 
-2016 has two ties, `2016-SEA@ARI` and `2016-WAS@CIN`. Those trials are answered and `correct` is blank.
-
-2017 winners are the final scores in `nfl2017-regular-season.csv`. The expert MATLAB file stores 49 as the 49ers’ points in every 49ers game, so those point totals are not used. The published Mechanical Turk `truth` flag disagrees with the final score on 7 games; these files follow the final score:
+2017 winners are the final scores in `nfl2017-regular-season.csv`. The published Mechanical Turk `truth` flag disagrees with the final score on 7 games; these files follow the final score:
 
 `2017-HOU@CIN`, `2017-SF@IND`, `2017-TB@NO`, `2017-WAS@SEA`, `2017-ARI@HOU`, `2017-TEN@SF`, `2017-NE@PIT`.
 
 ## Files
 
-Each panel has `questions-*.csv`, `trials-*.csv`, `participants-*.csv`, and `itemBank-*.csv`.
+- `questions-participants-2017.csv`
+- `trials-participants-2017.csv`
+- `participants-participants-2017.csv`
+- `itemBank-participants-2017.csv`
+- `nfl2017-regular-season.csv` — final scores used for `correct`
 
-Rebuild with `scripts/build_nfl_game_picks_irt.py`.
+Rebuild the novice panel with `scripts/build_nfl_game_picks_irt.py`. That script does not write commentator files.
 
 ## Citation
 
-Participant picks: Lee, M. D., Danileiko, I., & Vi, J. (2018). Testing the ability of the surprisingly popular method to predict NFL games. *Judgment and Decision Making*, 13, 322–333.
-
-Expert picks: Montgomery, L. E., & Lee, M. D. (2021). Expert and novice sensitivity to environmental regularities in predicting NFL games. *Judgment and Decision Making*, 16, 1370–1391. ESPN commentator names are public.
+Lee, M. D., Danileiko, I., & Vi, J. (2018). Testing the ability of the surprisingly popular method to predict NFL games. *Judgment and Decision Making*, 13, 322–333.

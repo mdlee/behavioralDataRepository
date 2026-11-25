@@ -18,7 +18,6 @@ import csv
 from pathlib import Path
 
 ROOT = Path("/home/mdlee/Dropbox/GitHub/behavioralDataRepository")
-OUT = ROOT / "datasets/wisdom-of-crowds/montgomery-lee-2021-nfl-games"
 EXPERT_CSV = Path(
     "/home/mdlee/Dropbox/Students/Lauren/LaurenMichaelShare/"
     "mdlHeuristicNFL/heuristicNFL/nfl_data2017.csv"

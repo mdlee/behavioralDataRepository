@@ -2,7 +2,7 @@
 
 Lee, M. D., Danileiko, I., & Vi, J. (2018). Testing the ability of the surprisingly popular method to predict NFL games. *Judgment and Decision Making*, 13(4), 322–333. [doi:10.1017/s1930297500009207](https://doi.org/10.1017/s1930297500009207) · [OSF `3kjmu`](https://osf.io/3kjmu/)
 
-Mechanical Turk respondents predicted weekly NFL games in the 2017 season. For each game they chose a winner, rated confidence, and estimated what fraction of others would agree (the meta-judgment used by the surprisingly popular algorithm). **1,700 people**, **25,700 game-level predictions** across weeks 1–17 (100 people × 16 or 17 games per week, depending on the slate).
+Mechanical Turk respondents predicted weekly NFL games in the 2017 season. For each game they chose a winner, rated confidence, and estimated what fraction of others would agree (the meta-judgment used by the surprisingly popular algorithm). **1,700 people**, **25,700 game-level predictions** across weeks 1–17 (100 people each week; that week’s slate is 13 to 16 games).
 
 `participant` IDs are unique across weeks (separate MTurk samples each week). Age and gender from the original surveys are not exported.
 
