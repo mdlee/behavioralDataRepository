@@ -1,6 +1,6 @@
 # Expert NFL picks
 
-Media commentators, 2015–2017, one database. Mechanical Turk novices are not in this folder.
+Media commentators, 2015–2017, one database.
 
 **82 commentators**, **768 games**, **24,047 trials**.
 
@@ -42,29 +42,6 @@ Topic columns are copied from the IRT question rows on `gameId`. They are not a 
 `topicId`, `topic`, `divisionTopicId`, `divisionTopic`, `conferenceTopicId`, `conferenceTopic`, `scopeTopicId`, `scopeTopic`, `homeConference`, `homeDivision`, `awayConference`, `awayDivision`
 
 `topic` is the shared division when both teams are in it, and otherwise `AFC`, `NFC`, or `Interconference`. `divisionTopic` is that division or `Cross-division`. `conferenceTopic` is `AFC`, `NFC`, or `Interconference` and includes divisional games. `scopeTopic` is `Divisional`, `Conference`, or `Interconference`.
-
-## 2017 de-duplication
-
-Ten ESPN 2017 commentators are in the Montgomery and Lee 71. Where the pick for that person and `gameId` agrees, one trial is kept and `pickSource` is `both` (2,549 trials). A trial that exists in only one source is kept: `pickSource` is `espn` or `montgomery`. That includes Wingo, the other ESPN-only commentators from 2015–2016, the Montgomery-only 2017 commentators, and three 2017 person-games that were in the ESPN file and missing from the 71 (Kevin Seifert `2017-OAK@TEN`, Seth Wickersham `2017-MIN@WAS`, Lisa Kerney `2017-LAC@DAL`).
-
-Eight person-games disagreed between the ESPN export and the Montgomery heuristic export. The Montgomery row was dropped, so each of those person-games is one trial. The kept team is the index in `Data_NFL2017.mat` (`d.picks`: week, slot, expert). The Pickwatch scrape `NFLPickWatchSeason2017.mat` (`d.picks`) names that same team on all eight. The Montgomery `home team` row in `expertPredictions.csv` implied the other team, and `predwinner` in `nfl_data2017_71_EXPERTS.csv` matches that heuristic rather than the scrape, so neither was used. `pickSource` on these eight rows is `espn-mat`. Choice 1 is the home team. Every commentator × game is now one row.
-
-| Name | gameId | Kept | ESPN mat | Montgomery heuristic |
-|---|---|---:|---|---|
-| Dan Graziano | `2017-NE@TB` | 2 | Patriots | Buccaneers |
-| Mina Kimes | `2017-GB@MIN` | 2 | Packers | Vikings |
-| Louis Riddick | `2017-TEN@IND` | 1 | Colts | Titans |
-| Seth Wickersham | `2017-DEN@LAC` | 2 | Broncos | Chargers |
-| Seth Wickersham | `2017-DET@CIN` | 2 | Lions | Bengals |
-| Seth Wickersham | `2017-LAC@OAK` | 2 | Chargers | Raiders |
-| Seth Wickersham | `2017-NYG@ARI` | 1 | Cardinals | Giants |
-| Seth Wickersham | `2017-NYJ@DEN` | 1 | Broncos | Jets |
-
-## What is not in this folder
-
-Novices are the 1,700 Mechanical Turk participants. Their picks, confidence, and meta judgments stay in [`lee-danileiko-vi-2018-surprisingly-popular-nfl/`](../lee-danileiko-vi-2018-surprisingly-popular-nfl/). The same people, with division and conference columns the Danileiko file does not have, stay in [`nfl-game-picks-irt/`](../nfl-game-picks-irt/). Those participant numbers are not the ids in this folder.
-
-[`montgomery-lee-2021-nfl/`](../montgomery-lee-2021-nfl/) is the original heuristic export (agreement with a cue, experts and novices). It is not a copy of these team picks.
 
 ## Citation
 
